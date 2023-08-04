@@ -10,10 +10,11 @@ import datetime
 class TopSellers:
     def __init__(self):
         self.games_list=[]
-        
+        self.collection_date = pd.to_datetime('today').strftime("%Y-%m-%d")
         self.driver_instance=WebDriverCreation()
         self.wd=self.driver_instance.wd
         self.url='https://store.steampowered.com/search/?filter=topsellers'
+        
     def scroll_page(self, wd):
         '''Takes the driver as an input and simulates the scrolling to get all the games'''  
         SCROLL_PAUSE_TIME = 2
@@ -105,7 +106,7 @@ class TopSellers:
                     discprice = prices[2]
       
             except:
-                discprice = 'not availale'
+                discprice = 'not available'
 
         except:
             price_tag = wd.find_element(By.CLASS_NAME, 'discount_prices')
@@ -126,26 +127,33 @@ class TopSellers:
             release = 'not available'
        
         return release
-
+    '''Takes the driver an returns the reviews of the game'''
+    '''def get_reviews(self,wd):
+        try:  
+            info_tag = wd.find_element(By.CLASS_NAME, 'glance_ctn_responsive_left')
+            try:
+                reviews = info_tag.find_element(By.XPATH, '//*[@id="userReviews"]/div[2]').text.replace('ALL REVIEWS:\n', '')
+            except:
+                reviews = info_tag.find_element(By.CLASS_NAME, 'user_reviews').text.replace('ALL REVIEWS:\n', '')
+        except:
+            reviews = 'not available'
+        return reviews'''
+    
     def get_game_info(self,url):
         wd_new = self.check_page(self.wd)
         appid=self.get_appid(url)
         price = self.get_price(wd_new)
         discounted = self.get_discounted(wd_new)
         release = self.get_release(wd_new)
-        
-        #reviews = get_reviews(wd_new)
+        #reviews = self.get_reviews(wd_new)
         mygame = {
             'Price': price,
             'Discounted Price': discounted,
             'Release Date': release,
             'App ID': appid,
-            
             #'Reviews': reviews
            }
         return mygame
-   
-
     def get_all_games(self,new_gamesdf):
         games_url = new_gamesdf['url']
         game_info_list = []
@@ -153,12 +161,12 @@ class TopSellers:
             game_info = self.get_game_info(i)
             game_info_list.append(game_info)
         game_info_df = pd.DataFrame(game_info_list)
-        game_info_df ['Execution Date'] = pd.to_datetime('today').strftime("%Y-%m-%d")
+        game_info_df ['Execution Date'] = self.collection_date
         return game_info_df
     def merge_dataframe(self,games_df,games_info_df):
         merged_df=pd.concat([games_df,games_info_df],axis=1,join='inner')
         merged_df.reset_index(drop=True, inplace=True)
-        merged_df.to_csv('Top_sellers.csv')
+        merged_df.to_csv(f'../data/daily_data/top_sellers/{self.collection_date}_top_sellers.csv')
         
     
     

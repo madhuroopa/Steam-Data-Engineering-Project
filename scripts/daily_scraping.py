@@ -59,7 +59,7 @@ class MostPlayedGames:
     def get_dataframe(self):
         df = pd.DataFrame(self.games, columns=['Rank', 'Game Name', 'Free to Play','Current Players','Peek Today'])
         df['Collection Date'] = self.collection_date
-        df.to_csv('MostPlayed.csv', index=False)         
+        df.to_csv(f'../data/daily_data/{self.collection_date}_MostPlayed.csv', index=False)         
             
         
 if __name__=="__main__":

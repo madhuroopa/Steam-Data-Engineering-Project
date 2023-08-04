@@ -1,0 +1,115 @@
+review,voted_up
+,True
+"⠀⠠⠐⠈⢀⠈⠠⠀⠄⠂⠈⡀⢈⠀⠠⠀⠂⢀⠐⠈⠐⠨⣊⠎⠌⠌⠈⠠⠐⡌⡦⢏⢪⠢⡃⡎⡐⡀⠄⢀⠈⠠⠐⠀⢁⠀⠂⡀⠂⠐⠈⡀⠄⠐⠈⢀⠠⠐⠈⡀
+⠀⠂⠐⠈⢀⠀⠂⡀⠂⡀⢁⠀⠄⠐⠀⠂⠈⢀⠠⠈⢀⠁⠱⡀⠁⠊⠀⢂⠡⡪⡺⣺⡟⣕⣵⢇⢢⠂⠠⠀⠐⠀⠂⠁⡀⠄⠂⠀⠄⢁⠠⠀⠄⠂⠁⡀⠄⠂⠁⡀
+⠀⠂⠈⢀⠠⠀⠂⠀⠄⠀⠄⢀⠐⢀⠈⡀⠁⡀⠄⠐⠀⠐⠀⠠⠈⡀⠅⡢⡣⡣⣫⢿⣻⣗⣽⣗⢼⡨⡐⡈⠀⡁⢀⠁⡀⠄⠈⠠⠐⠀⠠⠐⠀⠂⢁⠠⠐⠀⢁⠀
+⠀⠄⠁⢀⠀⠄⠂⠁⠀⠂⠠⠀⠄⠀⠄⠠⠀⠄⠐⠀⡁⠄⠡⢐⡰⡴⣽⣺⡪⣞⡮⣿⣻⣗⣿⣺⢽⢮⠋⣀⡅⣐⣀⢀⠂⠐⡈⠄⠂⠡⠀⠂⢁⠈⢀⠠⠐⠈⢀⠀
+⠀⢀⠈⠀⢀⠠⠐⠈⠀⠂⠀⠂⠀⢂⠐⣀⣆⣬⢤⢥⡢⣎⢏⢯⡾⣟⣯⡿⡃⣗⣟⢾⣳⣗⡧⣻⣿⢽⠸⣚⢎⠿⢝⢕⡬⠀⠂⠀⠁⠀⠁⠨⠀⠄⠠⠀⠐⠈⡀⠀
+⠀⠀⠄⠈⠀⢀⠠⠀⠁⡀⠁⠠⢁⡴⣟⣯⣿⣿⣿⣿⣻⢮⢯⣞⣮⡯⣗⣽⡞⢞⡾⡝⡓⠯⠕⠳⠊⢍⡁⡄⡁⠅⢁⠡⢐⣨⣰⢵⣵⣕⢥⠠⠁⠄⠂⠈⠀⠂⠀⠂
+⠀⠐⠀⡀⠁⢀⠀⠠⠀⠀⠄⢁⣲⡫⣷⣻⣯⣿⣿⢽⢪⡫⡯⣞⢇⠏⢟⣂⣫⣥⣵⡶⣾⣻⣻⣗⣧⣵⣛⠿⣝⢽⡪⡺⡽⣞⣿⣿⣻⡾⡵⡍⡂⡐⠀⠁⢈⠀⡈⠀
+⠀⠀⠂⠀⠠⠀⠠⠀⠂⠐⢈⢰⡯⣺⣳⣿⣻⡷⡯⡣⡃⡧⢭⢤⢲⢝⢯⣟⣽⣞⣷⣻⣗⣿⣺⡳⡳⣝⢮⢳⢥⣁⠳⡑⡝⣵⣻⢽⣯⣟⡜⣎⢵⠀⠄⠁⢀⠀⠠⠀
+⠀⠀⠂⠀⠄⠐⠀⠠⠐⠀⡐⣼⢏⣞⣞⢷⢏⣗⡧⣗⣯⢯⣳⡽⡽⡽⡵⣿⣺⣺⣿⣺⣳⣳⣳⢽⣝⡮⣯⣗⢷⢵⣝⢦⡣⡣⡣⡻⣺⡺⣜⢜⢼⡊⠠⠈⠀⠠⠐⠀
+⠀⠀⠐⠀⠀⠠⠀⠄⠀⠐⡀⢯⢣⡳⣝⣵⡻⣪⢿⣽⡽⣯⣷⣿⡯⡿⡽⣽⣺⣺⢾⣻⣺⢾⣺⣳⢷⣻⣷⣯⢿⣻⢾⡝⡮⡳⡱⡕⡕⡝⡜⡜⣽⢊⠠⠀⠁⠠⠐⠀
+⠀⠀⠄⠐⠀⠀⡀⠠⠀⢁⢸⡸⡸⣘⣞⠥⠷⡕⡟⣞⣟⣯⣿⡽⣯⢿⢽⣳⢳⡝⣯⣷⣫⢟⡮⣿⣽⣯⣟⣯⣿⣻⣽⡺⡜⢌⠬⢪⣕⠕⣅⠣⢻⠠⠀⠐⠈⠀⠠⠀
+⠀⠀⠀⡀⠀⠄⠀⠀⡀⢂⡾⡱⡘⣼⡫⡪⡸⡸⣪⣗⣯⡿⣞⣿⢽⢯⣻⡪⣗⣝⢿⢕⣗⢽⣝⣗⣿⢾⡽⣾⣳⢿⣺⣕⢕⢅⢇⢅⢿⢈⠂⢕⢌⢅⠌⠀⠂⠁⠀⠄
+⠀⠀⠁⠀⠀⠀⠄⠠⠠⣝⠢⡃⠄⢽⣪⢳⢝⣞⣵⡳⣗⣿⣻⢞⡿⣝⢮⣫⡺⣜⡽⣵⢳⢳⢕⣗⡯⣯⣻⢽⣞⡯⣷⡳⣝⢎⡎⡎⡾⠐⢐⠡⠨⡊⡢⠣⠬⡀⠂⠀
+⠀⠀⠀⠄⠈⢠⡞⡊⠆⠅⡊⠄⠄⡊⢮⡳⣹⡪⡮⡯⣳⡳⡽⣝⢞⢵⢝⢜⢜⡮⣟⢾⡽⡸⡱⡪⡺⡜⡮⡳⡳⣝⢮⢫⡪⡣⡣⡳⠡⠡⢑⢈⢂⢂⢊⠢⡡⠱⠀⠁
+⠀⠀⢀⠠⠈⡜⡐⡡⠡⡑⠨⠨⢐⠐⡠⡙⠲⡱⢕⢝⢜⢎⢇⠗⢝⢘⢌⣮⡳⡯⣗⢗⣯⢷⢬⢘⢘⠜⢜⢪⢣⢣⢳⢱⢱⠱⠩⡐⠨⠨⠐⢄⢑⢐⠅⢅⠊⢌⠠⡁
+⠀⠀⠀⢄⠫⡐⡐⡐⠡⠂⢅⠑⠔⡐⠔⡈⠌⡬⡢⣅⣅⣌⡐⡌⡆⣗⡽⡮⡯⡯⢮⡳⡽⡽⡽⡱⡕⣌⡢⠤⣡⠨⡢⡱⠐⠅⠇⢊⣈⠨⢈⠢⠨⡂⠪⠠⡑⡐⠌⢺
+⠀⣀⢣⢘⠌⡐⡐⡨⠨⠨⠐⡈⠈⡀⡂⢀⠈⡀⠈⠂⡔⣐⢍⡑⣌⢢⠫⡎⡯⡮⣣⢳⢽⢝⢕⠗⢟⠫⡍⣍⢆⢍⢢⠢⡑⠑⠀⠀⠪⡲⡄⢈⠢⠨⢊⠌⡢⠨⠪⡐
+⠀⣜⠜⠐⡐⡐⠌⢄⢑⠈⠠⢀⢪⢂⠐⠀⠀⡂⠠⠀⣇⣓⢲⢸⢸⢪⢎⢎⢎⢇⢇⢗⡳⡑⡵⣽⣻⣟⡯⡮⡣⣫⢪⢪⠊⠀⠀⠄⠀⢇⠇⡂⠄⡑⡐⢅⠢⠡⠡⡓
+⠀⠐⠅⠅⡂⠌⢌⢂⠂⠌⠌⡢⡂⠐⠀⠀⡐⠀⠄⠀⢱⡪⣪⢪⢪⢪⢳⢯⣮⢣⢳⡱⣪⢮⣻⣿⣽⢽⡺⡸⣪⡺⡸⡈⠀⠠⠀⠐⠀⠐⢐⠠⢁⢂⠢⠡⡨⠨⢂⠪
+⠀⠈⠌⡐⠄⡑⠅⡂⠅⠅⢅⠘⠠⠀⠐⠠⠂⠐⠀⡁⠀⢣⢳⡱⣊⢽⣮⡫⡯⣷⢱⢹⢪⢗⣯⣷⢿⢕⢯⢝⡎⡎⣞⠀⠀⠂⡀⢁⠀⠁⠀⠌⡐⠄⠅⢕⠨⠨⠠⢁",True
+حلوه,True
+I love DMZ,True
+Great Game for some great memories with the squad. If you like raging be sure to check out their free edition of warzone!,True
+It's a GREAT game! It was a little buggy when it first came out but after time it got better. The new maps that were added are great! However i dont really like that they keep nerfing Guns,True
+Por lo general juego multijugador pero en la ultima temporada los modos de juego del battle royal son muy buenos,True
+DFDASADAS,True
+good call of duty game. pace is more realistic and graphics are really nice for pc,True
+good,True
+fun,True
+someone gift me blackcell and ill snooch your booch,True
+CFGHXFGHXFH,True
+Very fun Campaign SWEATY multiplayer sometimes,True
+gUD,True
+yes,True
+"I paid 30$ for skins and shit, just so i could get bot lobbies. Got shit on all day instead =) My favorite game btw",True
+fun with friends,True
+DMZ aint bad,True
+fun,True
+"The current patch has made the game unplayable with the guy talking in the background on loop. even with all 
+audio turned off i still hear it on loop.",False
+Choices have consequences...,False
+"Big cash grab pile of shit. I think that about sums it up. Ohh and let's not forget the censoring in China and the Middle East While virtue signaling here at home, where it's easy. my last Activision game.",False
+"Attempt to start the game -> 20 GB update -> game initiates- > ""Restart the game to apply the update"" -> Restart game -> Try to navigate through the confusing main menu to find the campaign -> Attempt to resume campaign -> ""Restart game to play campaign""",False
+"Activision has brought their woke ideologys to this title, Banning Nickmercs over something he said on Twitter about protecting the children from freaks. 
+
+Not to mention this game is seriously becoming P2W, Bundles that give OP weapons, and operators they have to nerf because they are to OP and people complain. 
+
+#GodsChildrenArentForSale #IStandWithNick",False
+"my war zone only allows me to use default controller settings, campaign doesnt work.",False
+"Requiring my phone number, constant banning of players, fake toxic behavior, etc. Just let people play the game and be in control of their own life and language. Uninstalling this game.",False
+"Probably the worst anti-cheat ever, False bans players and when you try to appeal they just send an automated message and never talk to person to review. If you get false banned it also gives you a VAC ban and ruins your steam account. I stopped playing because i'm not risking a false ban and destroying my account I've had for years. It's sad fr",False
+Started as a promising game to bring back classic MW2 COD memories. Its devolving rapidly into a cash grab.,False
+"dog shit game that is fighting for relevance in 2023. 
+
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⣿⣿⣷⣿⣿⡏⢠⣤⣤⣤⣤⡄⢹⣿⣿⣿⣿⣿⣿
+⣿⠛⠛⠛⠛⠃⠘⠛⠛⠛⠛⠃⠘⠛⠛⠛⠛⣿⣿
+⣿⣤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⣤⣿⣿
+⣿⣿⡄⠀⠀⡆⠀⠀⢰⡆⠀⠀⢰⠀⠀⢠⣿⣿⣿
+⣿⣿⡇⠀⠀⣧⠀⠀⢸⡇⠀⠀⣼⠀⠀⢸⣿⣿⣿
+⣿⣿⣇⠀⠀⣿⠀⠀⢸⡇⠀⠀⣿⠀⠀⣸⡿⢡⣿
+⣿⣿⣿⠀⠀⣿⠀⠀⢸⡇⠀⠀⣿⠀⠀⣿⡇⣽⣿
+⣿⣿⣿⠀⠀⣿⡀⠀⢸⡇⠀⢀⣿⠀⠀⣿⡇⣿⣿
+⣿⣿⣿⡇⠀⢹⡇⠀⢸⡇⠀⢸⡏⠀⢸⣿⣗⣿⣿
+⣿⣿⣿⡇⠀⢸⡇⠀⢸⡇⠀⢸⡇⠀⢸⣿⣧⣿⣿
+⣿⣿⣿⣷⠀⠈⠁⠀⠈⠁⠀⠈⠁⠀⣾⣿⣿⣿⣿
+⣿⣿⣿⣿⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣿⣿⣿⣿⣿",False
+"I'm really not a fan of this update. Merging all games into one big SUPERLAUNCHER. As someone that takes the time to get their library looking just right with images and titles with SteamEdit if they're particularly bad, this move is a damn shame.
+If you only play Call of Duty, maybe you'd like this change but you're losing a good majority of Steam's feature set by packaging titles like this.
+
+Achievement completion, Artwork, discussion forums, workshop (if supported), per-game controller binds, Box, hero and logo art are all gone and replaced with another launcher for a series.
+
+Follow Black Ops III's example (which still not all COD titles have since) One Library listing with each mode as a DLC item, allowing you to install each mode as you see fit.
+
+
+MWII REVIEW (Since it shares that game's old ID)
+The UI is bad. Panels upon panels, even before the CALL OF DUTY HQ update (That I have many problems with but wont get into here), getting to to nested menus is clumbersome. Want to change audio settings? fumble around the right menu for a while to find the settings. Want to play something  other than TDM or Dom? Scroll around the half a page at a time list of large pannels like its netflix and hope to find what you're looking for.
+It takes far too long and as new games release, more and more ads for those games will apear in this one. While thats nothing new for the series its still a pain in the arse.
+
+CAMPAGIN
+It's big, bombastic, really dumb and has as couple choice memes as all cod campagins do. There's not a whole lot to say, they really want you to think of this as an epic multi-game spanning series of heroes and villans while referencing a more interesting campaign thats over 10 years old. Play it though once if you want to get those hours up but wouldnt play it twice.
+
+MP
+Its very mid overall. Not to say the moment to moment is bad, not at all. The weapons feel good, animations are high quality and weighty. The maps however feel very forgettable and overall uninteresting. 
+As expected post Advacned Warefare, the ingame shop is here and in force. Thankfully there arent any OP weapons available for purchase but you cant escape seeing it at all times and at the start of new seasons you're forced to gaze upon its majesty.
+
+After release party modes were reintroduced, something my group were disappointed to not have at launch. Unfortunately its still annoying to find these modes in the scrolling grid.
+
+WARZONE II.
+It's more warzone. Thankfully the mode isn't a required donload to play the game like MW 2019.
+
+DMZ
+The extraction shooter spin on warzone. I like that it gives more chances to run into other teams at specific areas, but it doesnt do anything for me.
+
+CO-OP
+Featuring a few differnt stealth themed modes and a kinda-but-worse MW3 survival mode, co-op can be fun for a game or two but ultimatley doesnt have much staying power ESPECIALLY the survival mode.
+
+MWII was marketed as a 2 year cycle title, which has since been walked back with a new title releasing this NOV this has fustrated some but expect to see new content past that date due to Warzone II being attached at the hip.
+
+The game is fine. but has little persnonality and ultimatey doesnt inspire me to play it very much.
+
+I sure as hell wouldnt pay full price, or even half but thats as deep as a discount as you'll ever see if other legacy titles are anything to go by.",False
+STUPID,False
+$20 skins bb,False
+Imagine splitting your game into 3 different pages and still having negative reviews. You dropped this L Activision,False
+doesnt allow negative feedback. nice.,False
+"this game is absolutely awful, one of the worst call of duty titles in years, maybe even worse than Modern Warfare 2019 and Vanguard. Treyarch games superior, wouldn't even bother playing Sledgehammer or Infinity Ward titles if you want to enjoy your call of duty experience.",False
+"I played the multiplayer quite a bit and enjoyed it very much. Still doesn't hold a torch to the classics and is easily outshined by other first person shooters but it's fun enough. DMZ is pretty fun but it doesn't feel like there are any real objectives. There are missions but they just require you to either complete fairly basic tasks you would complete normally or extremely obscure and convoluted tasks to progress the storyline following the missions. All in all, it was fun with friends. Warzone 2 is the tried and true battle royale that Call of Duty is known for but again, very easily outshined by other battle royales on the market. And last but not least, the campaign was fairly excellent up until the point where the game would crash from simply opening my heartbeat sensor. This is why I genuinely cannot recommend modern-day Call of Duty games. The developers and publishers are more focused on shoving countless store packs and bundles in your face rather than a complete and functional gaming experience. I really hope Call of Duty steps back and takes a good hard look at what it once was and what it has now become because I can assure you, it is no longer Call of Duty. Thank you.",False
+"I mean yeah sure its a good game, if you like being in more sweat, then a gyms locker room bench after 5pm once all the grandpas come in.",False
+toxic,False
+honestly the game itself is fun but the support is shit and you can get banned of amount not actual reason so if youre a girl or have any other reasons for 30 year old man children to hate you then just dont talk. Btw once you get banned ya game just breaks and support doesnt listen to you so dont talk and youll be fine,False
