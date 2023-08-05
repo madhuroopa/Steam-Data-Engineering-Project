@@ -10,6 +10,7 @@ import requests
 from kafka import KafkaConsumer,KafkaProducer
 import json
 from json import dumps,loads
+from kafka.admin import KafkaAdminClient, NewTopic
 class WeeklyTopSellers:
 
     def __init__(self):
@@ -95,6 +96,25 @@ class WeeklyTopSellers:
         #df_dict = df.to_dict(orient='records')
         #df.to_csv(f'../data/weekly_data/{self.collection_data}_weekly_top_sellers.csv', index=False)     
         return df 
+    def kafka_producer(self):
+        producer = None
+        try:
+            producer = KafkaProducer(bootstrap_servers=['Mittu:9092'])
+            print("created producer object")
+        except Exception as x:
+            print("Exception connection to kafka server")
+            print(x)
+        finally:
+            return producer
+    def publish_message(self,producer,topic,record):
+        try: 
+            producer.send(topic, json.dumps(record).encode('utf-8'))
+                    
+            producer.flush()
+            print('Message published successfully (producer).')
+        except Exception as e:
+            print(f"Error publiching the message error: {e}")
+
     def get_top_10_news(self):
         for app_id in self.games_appid[:10]:
             app_news_url = self.news_url + app_id + "&count=10&maxlength=30000&format=json"
@@ -140,39 +160,35 @@ class WeeklyTopSellers:
         reviews=reviews +self.response['reviews']
         return reviews 
     def get_top_10_games_reviews(self):
+        admin_client = KafkaAdminClient(bootstrap_servers=['Mittu:9092'])
+        topic_names = [topic for topic in admin_client.list_topics()]
         for app_id in self.games_appid[:10]:
+            topic_name = f"game_reviews_{app_id}"  # Adjust the topic naming as needed
+
+            # Create the topic dynamically if it doesn't exist
+            topic_exists = topic_name in topic_names
+            if not topic_exists:
+                topic = NewTopic(topic_name, num_partitions=1, replication_factor=1)
+                admin_client.create_topics(new_topics=[topic], validate_only=False)
             self.positive_reviews = self.get_positive_reviews(app_id,20)
             review_list=[]
+            producer = self.kafka_producer()
             for item in self.positive_reviews:
-                review_list.append({'review':item['review'],'voted_up' :item['voted_up']  })    
+                message_dict={'review':item['review'],'voted_up' :item['voted_up']  }
+                self.publish_message(producer,topic_name,message_dict)
+                print("Message published by producer positive")
+               # review_list.append()    
             
             self.negative_reviews= self.get_negative_reviews(app_id,20)
             for item in self.negative_reviews:
-                review_list.append({'review':item['review'],'voted_up' :item['voted_up']  })    
+                #review_list.append({'review':item['review'],'voted_up' :item['voted_up']  })    
+                message_dict={'review':item['review'],'voted_up' :item['voted_up']  }
+                self.publish_message(producer,topic_name,message_dict)
+                print("Message published by producer negative")
+            #reviews_df = pd.DataFrame(review_list)
+            #reviews_df.to_csv(f'../data/weekly_data/reviews/{self.collection_data}_{app_id}.csv', index=False)     
+        #return reviews_df
             
-            reviews_df = pd.DataFrame(review_list)
-            reviews_df.to_csv(f'../data/weekly_data/reviews/{self.collection_data}_{app_id}.csv', index=False)     
-        return reviews_df
-            
-    def kafka_producer(slef):
-        producer = None
-        try:
-            
-            producer = KafkaProducer(bootstrap_servers=['Mittu:9092'])
-            print("created producer object")
-        except Exception as x:
-            print("Exception connection to kafka server")
-            print(x)
-        finally:
-            return producer
-    def publish_message(self,producer,topic,record):
-        try: 
-            producer.send(topic, json.dumps(record).encode('utf-8'))
-                    
-            producer.flush()
-            print('Message published successfully (producer).')
-        except Exception as e:
-            print(f"Error publiching the message error: {e}")
     def get_results(self):
         self.get_data()  
         self.get_games()
@@ -185,7 +201,7 @@ class WeeklyTopSellers:
        # producer.send(self.topic,json.dumps(data).encode('utf-8'))
         producer.flush()
        
-        #self.get_top_10_games_reviews()
+        self.get_top_10_games_reviews()
   
 
 if __name__ == "__main__":
