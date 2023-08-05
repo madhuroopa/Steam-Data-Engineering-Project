@@ -7,12 +7,16 @@ import time
 import datetime
 from bs4 import BeautifulSoup
 import requests
+from kafka import KafkaConsumer,KafkaProducer
+import json
+from json import dumps,loads
 class WeeklyTopSellers:
 
     def __init__(self):
         self.all_game_rows = None
         self.games = []
         self.games_appid = []
+        self.topic='weekly-top-sellers'
         self.collection_data = None
         self.driver_instance=WebDriverCreation()
         self.wd=self.driver_instance.wd
@@ -87,7 +91,10 @@ class WeeklyTopSellers:
         df = pd.DataFrame(self.games, columns=['Rank', 'Game Name', 'Free to Play'])
         df['App ID'] = self.games_appid
         df['Collection Date'] = self.collection_data
-        df.to_csv(f'../data/weekly_data/{self.collection_data}_weekly_top_sellers.csv', index=False)     
+    
+        #df_dict = df.to_dict(orient='records')
+        #df.to_csv(f'../data/weekly_data/{self.collection_data}_weekly_top_sellers.csv', index=False)     
+        return df 
     def get_top_10_news(self):
         for app_id in self.games_appid[:10]:
             app_news_url = self.news_url + app_id + "&count=10&maxlength=30000&format=json"
@@ -147,16 +154,42 @@ class WeeklyTopSellers:
             reviews_df.to_csv(f'../data/weekly_data/reviews/{self.collection_data}_{app_id}.csv', index=False)     
         return reviews_df
             
+    def kafka_producer(slef):
+        producer = None
+        try:
             
+            producer = KafkaProducer(bootstrap_servers=['Mittu:9092'])
+            print("created producer object")
+        except Exception as x:
+            print("Exception connection to kafka server")
+            print(x)
+        finally:
+            return producer
+    def publish_message(self,producer,topic,record):
+        try: 
+            producer.send(topic, json.dumps(record).encode('utf-8'))
                     
+            producer.flush()
+            print('Message published successfully (producer).')
+        except Exception as e:
+            print(f"Error publiching the message error: {e}")
     def get_results(self):
         self.get_data()  
         self.get_games()
         self.get_games_appid()
-        self.get_dataframe()
-        self.get_top_10_games_reviews()
+        results=self.get_dataframe()
+        #json_data = results.to_json(orient='records')  
+        producer = self.kafka_producer()
+        for index, row in results.iterrows():
+            self.publish_message(producer, self.topic, row.to_dict())  # Convert row to dictionary and send
+       # producer.send(self.topic,json.dumps(data).encode('utf-8'))
+        producer.flush()
+       
+        #self.get_top_10_games_reviews()
+  
 
 if __name__ == "__main__":
     obj = WeeklyTopSellers()
     obj.get_results()
+    #obj.get_consumer()
     obj.wd.quit()
