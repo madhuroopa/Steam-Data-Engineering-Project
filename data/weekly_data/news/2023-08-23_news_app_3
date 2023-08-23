@@ -1,0 +1,150 @@
+{
+    "appnews": {
+        "appid": 2140330,
+        "newsitems": [
+            {
+                "gid": "5141475722321370178",
+                "title": "Madden NFL 24 - Launch Update On PC Performance",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141475722321370178",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "Our development team wanted to provide an update to our PC Player Community. The team is aware and actively working on two key issues. Those two issues are related to game performance and menu lag for some players. Game Performance Two tips to improve performance are: Adjust the frame rate from uncapped to a specific number. (Ex. 60 FPS or 120 FPS) and check performance in-game. Ensure the game is running in full screen under the visual settings menu. Note: In order to bring the PC version of Madden NFL 24 in line with the next gen console feature set, the minimum specs required has increased this year. We are seeing some players that are not meeting the minimum spec requirements to optimally run Madden NFL 24. You can review the specs here and the team is working on in-game feedback to make players aware. Menu Lag The team is aware and working on addressing menu lag across all areas of Madden NFL 24. The team continues to track feedback and monitor telemetry to actively update the game in future title updates. Reminder Secure Boot on Windows 11 is required to launch and play Madden NFL 24. If you are having trouble launching Madden NFL 24, please follow the instructions in our EA Help article to enable Secure Boot: https://help.ea.com/en-gb/help/pc/ea-anticheat/ Stay Up To Date The team is working to correct all issues as quickly as possible. To see the latest updates straight from our development team, make sure to follow @MaddenNFLDirect. For account issues, please be sure to contact @EAHelp. ",
+                "feedlabel": "Community Announcements",
+                "date": 1692746813,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_487791598_1692749398_0",
+                    "ModAct_1400956464_1692808958_4",
+                    "ModAct_1400956464_1692811542_4",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5127964289177529116",
+                "title": "An Update on a Madden NFL 24 Launching Error",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5127964289177529116",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "{STEAM_CLAN_IMAGE}/44218798/8a5d2ee02eec9b48658908a0ea878df11ddcd4b1.png Our team is aware of some players being unable to launch Madden NFL 24. Please go to this link and navigate to the \u2018Secure Boot is not enabled on this machine\u2019 section for documentation and assistance on fixing this error. Thank you. Make sure to follow Madden NFL Direct and Answers HQ for news and updates all season long.",
+                "feedlabel": "Community Announcements",
+                "date": 1692387439,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_487997664_1692388326_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5127964289177526537",
+                "title": "Call your number in Madden NFL 24",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5127964289177526537",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "{STEAM_CLAN_IMAGE}/44218798/db7dde734dced6c6dbb44e256b5ec2de6aa44029.png Madden NFL 24 for PC gives you superstar control with the next generation of features like FieldSENSE\u2122 and SAPIEN Technology so you can Call Your Number on every play. The FieldSENSE\u2122 Gameplay System is coming to Madden NFL 24 for PC. Not only is the solid gameplay foundation included, new improvements this year will increase control in throwing, catching, tackling, and blocking with a suite of new animations added to Hit Everything 2.0 and Skill-Based Passing 2.0. All-new SAPIEN Technology transforms the way players look and move with realistic redesigned player models that have more detail and variation than previously possible. https://store.steampowered.com/app/2140330/Madden_NFL_24/",
+                "feedlabel": "Community Announcements",
+                "date": 1692387378,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            },
+            {
+                "gid": "5127964289172208929",
+                "title": "Madden NFL 24 EA Play* MUT Welcome Pack",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5127964289172208929",
+                "is_external_url": true,
+                "author": "yellowcup",
+                "contents": "Join EA Play to make your games more rewarding with access to great player benefits and a library of top titles. Members get more from your game including monthly rewards like Ultimate Team Packs in Madden NFL 24. And when it\u2019s time to find your next favorite game, we\u2019ve got you covered with an ever-expanding library of our fan-favorite series and premium games. You can even try out select new release games for up to 10 hours of playtime with no commitment. If you decide to buy, your saved progress will carry over, so you can continue where you left off. Our members also save on purchases of EA digital content, with a 10% member discount. Letting you save on full games, points packs, and DLC. Find out more about upcoming EA Play benefits at https://store.steampowered.com/subscriptions/ea or follow us on Twitter and Instagram @eaplay! *CONDITIONS, LIMITATIONS AND EXCLUSIONS APPLY. SEE https://tos.ea.com/legalapp/eaplay/US/en/PC/ FOR DETAILS. ",
+                "feedlabel": "Community Announcements",
+                "date": 1692261360,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            },
+            {
+                "gid": "5127964289171159752",
+                "title": "Madden NFL 24 Ultimate Team Headliners",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5127964289171159752",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "{STEAM_CLAN_IMAGE}/44218798/109a30f96ca9f3b49c402ee12fd9d9941525fb60.jpg Headliners are here in Madden NFL 24 Ultimate Team, ready to take your team to the front page and beyond. Featuring players that made a splash last season and put in the work this offseason, you won't want to miss a single chance to earn players like 87 OVR Headliners Champions QB Kenny Pickett, Jeremiah Owusu-Koramoah, and Kamren Curl. There are 8 Front Page players that you can add to your roster and upgrade with Front Page Tokens, as well as a 78 OVR Odell Beckham Jr. that can be obtained via completion of Challenges and upgraded to 84 OVR using Tokens. They put in the work this offseason, now let them make headlines for you in Madden NFL 24 Season 1. https://store.steampowered.com/app/2140330/Madden_NFL_24/",
+                "feedlabel": "Community Announcements",
+                "date": 1692236479,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            },
+            {
+                "gid": "5127964289167156204",
+                "title": "Show 'em what you're made of",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5127964289167156204",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "{STEAM_CLAN_IMAGE}/44218798/abf85fc8693c244ebac0158c7000adaff02005e9.png EA Play members can get out on the field for 10 hours in Madden NFL 24 starting today. Experience the newest iteration of FieldSENSE\u2122, more realistic character movement, and smarter AI on PC. Plus unlock the EA Play Welcome Pack to score new players and immediately upgrade your roster. https://store.steampowered.com/app/2140330/Madden_NFL_24/ ",
+                "feedlabel": "Community Announcements",
+                "date": 1692141580,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            },
+            {
+                "gid": "5839532486227628430",
+                "title": "Start playing Madden NFL 24 today",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5839532486227628430",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "{STEAM_CLAN_IMAGE}/44218798/6b9e76ecef31b27a7ff52c2702b7f642fe1e3baf.jpg Pre-order* the Deluxe Edition of Madden NFL 24 so you can start playing today. Plus, get 4600 Madden Points, Josh Allen Elite Player Item, choice of 2 Strategy items (1 Offense & 1 Defense), and NFL Marble Bills Gear. If you pre-order by 8/17, you can also snag a 2023 Hall of Fame player item and a Superstar celebration. Madden NFL 24 brings more control and explosive realism to PC with the introduction of the next generation of features like FieldSENSE\u2122 and SAPIEN Technology. FieldSENSE\u2122 Updates Get increased control in throwing, catching, tackling, and blocking with a suite of new animations added to Hit Everything 2.0 and Skill-Based Passing 2.0. SAPIEN Technology All-new character technology transforms the way players look and move with realistic redesigned player models that have more detail and variation than previously possible. *Conditions & restrictions apply. See https://www.ea.com/games/madden/madden-nfl-24/disclaimers for details. https://store.steampowered.com/app/2140330/Madden_NFL_24/",
+                "feedlabel": "Community Announcements",
+                "date": 1692072008,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            },
+            {
+                "gid": "5839532486226943651",
+                "title": "MCS Ultimate Kickoff",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5839532486226943651",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "{STEAM_CLAN_IMAGE}/44218798/ee5c1031719ce5b95d267ab9d5a3c5f3e4383601.png Click here to learn more and register for the Madden NFL 24 Championship Series Ultimate Kickoff by August 19 to earn a Red Zone Pack. https://store.steampowered.com/app/2140330/Madden_NFL_24/ ",
+                "feedlabel": "Community Announcements",
+                "date": 1692055774,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            },
+            {
+                "gid": "5839532486216044963",
+                "title": "Pre-load now",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5839532486216044963",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "Players who pre-purchase Madden NFL 24 can start pre-loading the game now. Pre-purchase the Deluxe Edition to play 3 days early and get 4600 Madden Points, a 2023 Hall of Fame player item, and more. {STEAM_CLAN_IMAGE}/44218798/6af1db96ef03b3597c7080bec870e0c2a790d316.jpg https://store.steampowered.com/app/2140330/Madden_NFL_24/",
+                "feedlabel": "Community Announcements",
+                "date": 1691797357,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            },
+            {
+                "gid": "5839532486212613348",
+                "title": "Madden NFL 24 - Superstar Deep Dive",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5839532486212613348",
+                "is_external_url": true,
+                "author": "Electronic Arts",
+                "contents": "Hey Madden fans! Today, we are covering the new Superstar experience in Madden NFL 24! Let's take a deep dive into all the new features and updates that create the modern version of Superstar. Before we get started, here\u2019s a special Deep Dive video straight from our development team: Superstar is Back! When looking at feedback our players have given us in response to career modes over the past several years, it\u2019s clear that the career experience Madden gamers want most is Superstar - a career mode with NFL football as its core, gameplay as the focus of the mode and deep progression. Some specific characteristics of the beloved Superstar mode that players told us were important to them, such as a playable NFL Combine, on-field feedback and off-field perks are just a few of the features in Madden NFL 24\u2019s modernized Superstar, where you, the player, can live your dreams as an NFL Superstar. https://media.contentapi.ea.com/content/dam/ea/madden-nfl/madden-nfl-24/news/common/16x9-1.png.adapt.1456w.png NFL Combine The journey to stardom begins with you as a rookie, entering the NFL draft as a QB, RB, WR, LB or CB, with Coach Prime, Deion Sanders as your mentor. We\u2019ve brought back a modernized version of a playable NFL Combine to get you started on your journey, giving you a chance to showcase your skills in mini-games like the 40-yard dash, bench press, broad jump, and 3-cone shuttle. The Impact of Combine Rankings Your performance in each combine drill will impact your draft stock, especially where you rank in each drill compared to your peers from the real-life 2023 NFL Combine. It will also determine what rewards you will earn that can be applied to improve your ratings prior to the draft. Your starting ratings, based on the archetype chosen at avatar creation, will determine your range of possible outcomes for each combine drill - a small, agile running back will be more likely to excel at the 40-yard dash and 3-cone drill than a big, bruising back, who\u2019s more likely to excel at the bench press, for example. After completing the combine mini-games, you\u2019ll compete in position-specific drills that will increase or decrease your position in the draft. The pressure is on to shine and secure the bag as a projected top-10 NFL Draft pick. Coming out of the Combine, you\u2019ll have the opportunity to participate in the Combine Interview - a nod to Superstar modes from the past - where you\u2019ll answer timed, football-themed trivia questions that will further dial in your actual draft position - the more questions answered correctly, the higher you may raise on draft boards. After completing the combine, the next stop is the NFL Draft, where your draft position is based on your overall performance at the Combine, and the positional needs of each team (there\u2019s also an override setting in the initial League set-up that will allow you choose any team you\u2019d like if you want to skip the draft process). As a member of the 2023 Draft Class, you\u2019ll be drafted by teams in the biggest need of your position based on team needs prior to the 2023 NFL Draft. https://media.contentapi.ea.com/content/dam/ea/madden-nfl/madden-nfl-24/news/common/m24-superstardd-combineinterview-wm.png.adapt.1456w.png On-Field Performance Matters Any NFL player will tell you - getting drafted is not the destination, but the beginning of the journey. After you sign your rookie contract, every game, every quarter, every rep matters, and to that end, Madden NFL 24 introduces an all-new in-game Player Grading system, exclusive to Superstar, that provides real-time feedback on your performance as you play your reps. These dynamic evaluations will highlight how well you are doing your job each snap, emphasizing the importance of making the right moves at the right time, and the grade achieved on each drive will determine the amount of your rewards to increase ratings and start equipping abilities. Here\u2019s a few examples of actions tracked via Player Grading: Quarterback: Throw to Open/Covered Receiver Wide Receiver: Call for Ball when Open/Covered Running Back: Fake Out/Tackled for Loss LB: Hit Stick/Faked Out DB: Good Man Coverage/Allowed Man Completion Superstar Missions Another new addition is the Superstar Missions system, providing a comprehensive quest log to give you control over which objectives you want to focus on next, and which rewards you want to chase. These objectives include game goals, season objectives, career milestones, and there\u2019s even a few other off-the-field surprises you\u2019ll find as you play deeper through your career. You can decide which objectives to pursue and will be rewarded accordingly once they are completed. Missions includes on-field stat-based missions, career milestones and records, team win/loss objectives, and even extends to off-field opportunities: if you\u2019re performing like the Superstar everybody thinks you can be, brand missions will be available, offering the opportunity to become brand ambassadors for iconic names like Nike, Jordan Brand, and Adidas. The better you play, the more gear you\u2019ll unlock. Social Media Reactions Off the field, your weekly stories and beats will be featured in the new Social Media feed, which was added on top of a revamped league news feed inside of Superstar. Social Media reactions will be centered around YOU - you\u2019ll see reactions about how you played in your last game, your stats, decisions you\u2019re making off the field, and other relevant league news from a host of NFL insiders, including Mina Kimes and Dan Orlovsky. The Social Media feed is also where the new MaddenCast will appear - a new live-action video podcast bringing unique commentary about you as a player, hosted by NFL Legends Ryan Clark, Fred Taylor and Channing Crowder - whether you\u2019re playing great, or not so great, these guys won\u2019t hesitate to keep it real about what\u2019s going on in your career. https://media.contentapi.ea.com/content/dam/ea/madden-nfl/madden-nfl-24/news/common/m24-superstardd-socialmedia-dan-wm.png.adapt.1456w.png Side Activities and Mini-Games To grow your Superstar status off the field, you can choose to participate in Side Activities, offering a weekly calendar of various opportunities to boost you or your team\u2019s ratings, including: Community Events, training, rest and recovery, and a returning favorite in Madden, Mini-Games. That\u2019s right, every week you\u2019ll have the option to hit the practice field and boost your ratings by playing position-relevant mini-games such as Rushing Attack, Passing Skeleton and WR/DB Battle, among all the others coming back to Madden NFL 24. https://media.contentapi.ea.com/content/dam/ea/madden-nfl/madden-nfl-24/news/common/m24-superstardd-minigame-wm.png.adapt.1456w.png A New Way To Play: Superstar Showdown Bring your superstar and compete with, and against, other Superstars from around the world in the all-new Superstar Showdown - our new fast-paced 3 vs. 3 football mode where you can showcase and continue to progress your players alongside your friends. Show off your skills, gear and personality as you take your place on the flashiest stage in virtual football. The Showdown Arena puts your Superstar in the spotlight with hi-tech features like emissive gear, glowing field-art and reactive jumbotron end-zone. A new 3v3 twist on gameplay gets you in and out of the action faster - with no play-call screen, no first downs and a fast-to-fun \u2018First to 21\u2019 scoring format, games are shorter and more exciting. Player Grading is also used in Showdown, but tailored to fit the unique style of the mode, ensuring that your game rewards match the distinct on-field mechanics of all the different Superstar ways to play. Level up your Superstar while earning exclusive gear and boosts in Superstar Ranked; 1v1 battles are available in Solo Ranked; or team up with other Superstars in Squads Ranked. Each event features its own leaderboard and unique ranking path with different rewards. Superstar Showdown will be fresh all season with live events - so be on the lookout for new experiences and different game rules all year long. Progression and Customization Madden NFL 24 has completely revamped the character power and progression experience for Superstar, and unified the progression path so that no matter where you play across League and Showdown, you\u2019re always earning rewards and upgrading all of your individual Superstars. Each playable position has its own unique avatar and progression path, allowing you to customize both the visuals and on-field impact of each one of your superstar characters. Your avatar\u2019s body type affects both the physical ratings, such as speed and strength, and your position-specific ratings, such as throw-power and throw-on-the-run. All new to Madden NFL 24 is the Tiered Ability system, that ties ratings into on-field actions and stats, and rewards you with higher tiers of abilities as you increase both your ratings and successful reps on the field. For example, as a QB with the \u2018Deep Throw Elite\u2019 ability equipped, you can upgrade your Deep Throw Elite ability by increasing your deep-throw-accuracy rating, and successfully completing more deep throws in gameplay. You can mix and match abilities of different tiers to customize and experiment with all different types of builds for your superstar. https://media.contentapi.ea.com/content/dam/ea/madden-nfl/madden-nfl-24/news/common/m24-superstardd-abilitytiers-wm.png.adapt.1456w.png Take your Showdown performance to the next level by improving your non-position specific Showdown skills. As a traditional offensive player in the League, for example, make tackles, play coverage and catch passes inside Showdown as a 2-way player to earn permanent upgrades to these ratings to dominate in Showdown regardless of where you line up on the field. Combining all the new progression features with all-new Custom Emotes and Celebration animations, you\u2019ll not just be winning but doing it in style. The play may end when the whistle blows, but the real games begin after the play to see who has the coolest drip and celebrations. https://media.contentapi.ea.com/content/dam/ea/madden-nfl/madden-nfl-24/news/common/m24-superstarshowdown-glow.jpg.adapt.1456w.jpg Madden NFL 24 launches worldwide on August 18, 2023. Pre-order the Madden NFL 24 Deluxe Edition and play early. Conditions and restrictions apply. See disclaimers for details. https://store.steampowered.com/app/2140330/Madden_NFL_24/",
+                "feedlabel": "Community Announcements",
+                "date": 1691716022,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2140330
+            }
+        ],
+        "count": 23
+    }
+}

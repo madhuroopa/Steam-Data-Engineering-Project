@@ -26,6 +26,7 @@ class WeeklyTopSellers:
         self.base_url = "https://store.steampowered.com/charts/topsellers/US"
         self.news_url = "http://api.steampowered.com/ISteamNews/GetNewsForApp/v0002/?appid="
         self.reviews_url = 'https://store.steampowered.com/appreviews/'
+        self.prices_url='https://store.steampowered.com/api/appdetails?appids='
         self.positive_reviews=[]
         self.negative_reviews=[]
         self.reviews=[]
@@ -97,9 +98,24 @@ class WeeklyTopSellers:
         df = pd.DataFrame(self.games, columns=['Rank', 'Game Name', 'Free to Play'])
         df['App ID'] = self.games_appid
         df['Collection Date'] = self.collection_data
-    
+        df['price']=0
+        for index, row in df.iterrows():
+            app_id = row['App ID']
+            free_to_play=row['Free to Play']
+            
+            price_json = self.get_pricedetails(app_id)
+           
+            if 'data' in price_json.get(app_id, {}):
+                data = price_json[app_id]['data']
+                if isinstance(data, dict) and 'price_overview' in data:
+                    price = data['price_overview']['final_formatted']
+                    df.at[index, 'price'] = price  # Update the price value for the specific row
+                else:
+                    df.at[index, 'price'] = 0  # Update the price value to 0 if 'price_overview' is not available
+            else:
+                df.at[index, 'price'] = 0  # Update the price value to 0 if 'data' is not available
         #df_dict = df.to_dict(orient='records')
-        #df.to_csv(f'../data/weekly_data/{self.collection_data}_weekly_top_sellers.csv', index=False)     
+        df.to_csv(f'../data/weekly_data/{self.collection_data}_weekly_top_sellers.csv', index=False)     
         return df 
     def kafka_producer(self):
         producer = None
@@ -131,7 +147,13 @@ class WeeklyTopSellers:
             self.news_data = pre_tag.text if pre_tag else None
             self.publish_message(self.producer,self.news_topic,json.dumps(json.loads(self.news_data)))
             
-           
+    def get_pricedetails(self,app_id):
+        params= {
+            'cc':'us',
+            'filters':'price_overview'
+        }
+        self.response = requests.get(url = self.prices_url+app_id,params = params).json()
+        return self.response
 
                       
     
@@ -186,6 +208,7 @@ class WeeklyTopSellers:
         self.get_games()
         self.get_games_appid()
         results=self.get_dataframe()
+       
         results_json = results.to_json(orient='records')
         print(results_json)
         self.producer = self.kafka_producer()
@@ -207,4 +230,5 @@ if __name__ == "__main__":
     obj = WeeklyTopSellers()
     obj.get_results()
     #obj.get_consumer()
+    #print(obj.get_pricedetails('1086940'))
     obj.wd.quit()
