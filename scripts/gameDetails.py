@@ -263,6 +263,6 @@ process_batches(
     index_filename=steam_index,
     columns=steam_columns,
     begin=index,
-    end=10,
+    end=100,
     batchsize=5
 )
