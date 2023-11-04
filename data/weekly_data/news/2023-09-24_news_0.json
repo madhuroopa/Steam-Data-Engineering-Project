@@ -1,0 +1,168 @@
+{
+    "appnews": {
+        "appid": 730,
+        "newsitems": [
+            {
+                "gid": "5219165352623747634",
+                "title": "Is Counter Strike 2 release date coming next week, or is Valve trolling us?",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/VG247/5219165352623747634",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Valve looks to be teasing the imminent release of <strong>Counter-Strike 2</strong>, if we're reading this cheeky Tweet correctly. The game has been in limited, closed beta testing since March, when <a href=\"https://www.vg247.com/counter-strike-2-has-finally-been-revealed-with-a-limited-test-available-today\">it was initially announced</a>. Valve always said that Counter-Strike 2 would be available for everyone sometime in the summer, so there's only really one way to interpret this Tweet from the official Counter-Strike account. \"What are you doing next Wednesday?\" it asks, referring to September 27. That would <em>technically</em> put it outside of the summer season, since that ends September 23. But we don't need to be literal here. <a href=\"https://www.vg247.com/counter-strike-2-release-date-teaser\">Read more</a> ",
+                "feedlabel": "VG247",
+                "date": 1695302016,
+                "feedname": "VG247",
+                "feed_type": 0,
+                "appid": 730
+            },
+            {
+                "gid": "5480373588787876749",
+                "title": "Release Notes for 9/15/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5480373588787876749",
+                "is_external_url": true,
+                "author": "Piggles ULTRAPRO",
+                "contents": "Office Adjusted the weight of the vending machine Various fixes Ancient Various clipping adjustments Tuned the vertical audio occlusion of grenade sounds in Nuke and Vertigo Adjusted ambient sounds in Office Adjusted silenced weapon falloff Fixed a case where an AK47 headshot would not deal lethal damage Adjusted nametag location for Shadow Daggers ",
+                "feedlabel": "Community Announcements",
+                "date": 1694822428,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5480373588783898362",
+                "title": "Release Notes for 9/14/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5480373588783898362",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Anubis Various clipping adjustments Rebalanced lag compensation to favor lower-latency players Fixed a bug where dropped grenades were invisible Fixed a bug where dropped bombs and weapons would appear in the wrong location Various bug fixes and tweaks to weapon finishes ",
+                "feedlabel": "Community Announcements",
+                "date": 1694728146,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5211283418279022276",
+                "title": "Release Notes for 9/13/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5211283418279022276",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Various bug fixes and tweaks for all shipped maps Various fixes for molotov/incendiary grenades Various fixes for smoke grenades Fixed damage indicators for fire damage Adjusted first-person sniper contrails to reflect shot accuracy Various adjustments to lag compensation Replaced player elevation indicators on the radar with look directions Various bug fixes and tweaks to UI elements Audio mix changes and tweaks Lowered occlusion and distance effects for gunfire, footsteps and reloads Slight increase to stereo spread Fixed a bug where incorrect footstep and jump land sounds would play on elevated edges Fixed a bug where music would stop playing at the end of deathmatch Changed armor number in buy menu from amount you currently have to amount you can buy Various fixes for weapon finishes, gloves, and stickers Water rendering performance improvements Added nametag positions for all knife models Allow adjusting individual player voice volumes Various HUD bug fixes and tweaks Added option to disallow animated avatars Removed several legacy networking convars that existed in CS:GO but never had an effect in CS2 ",
+                "feedlabel": "Community Announcements",
+                "date": 1694642677,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5159491482914096285",
+                "title": "Release Notes for 9/8/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482914096285",
+                "is_external_url": true,
+                "author": "Piggles ULTRAPRO",
+                "contents": "Mirage Fixed a pixel boost on pillars in B bomb site Nuke Fixed C4 falling out of the world in B bomb site Updated propsItaly Fixes to prevent players boosting out of playable space Added a C4 loadout slot for users who have C4 items with a name tag applied Audio mix tweaks and adjustments Fixed a case where roasted chickens fell through the floor hud_scaling is no longer imported from CS:GO. Note that players' hud_scaling will be reset to the default (1.0) ",
+                "feedlabel": "Community Announcements",
+                "date": 1694214925,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5159491482910397775",
+                "title": "Release Notes for 9/7/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482910397775",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Ancient Various bug fixes and tweaks Various bug fixes to molotov/incendiary explosions Fixed ladders blocking bullet penetration Fixed missing USP-S description in the buy menu Adjusted low health indication Various animation bug fixes and tweaks Various performance improvements ",
+                "feedlabel": "Community Announcements",
+                "date": 1694127272,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5141476355680929074",
+                "title": "Release Notes for 9/6/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141476355680929074",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Overpass Various bug fixes and tweaks Added current armor value to the buy menu Fixed issues with ducking across round transitions Fixed a case where smoke grenades wouldn't pop Fixed a case where molotov/incendiary fire area was small in corners Fixed a case where molotov/incendiary grenades would explode at the throwers feet Fixed a case where the dropped bomb icon would appear on the radar incorrectly Continued iterating on dropped weapon pickup Shortened \"Waiting For Players\" from 5 minutes to 2 minutes Fixed voting to surrender and voting for tactical timeouts Teams can use 3 tactical timeouts during regulation time and 1 during overtime Various bug fixes and tweaks to UI elements Fixed a case where hit feedback sounds wouldn't play for spectators Allow changing equipped graffiti mid-match Improved free roaming and chase camera behavior in CSTV Fixed a case where the money display was cropped in certain languages Fixed a case where \"Block names and avatars of strangers\" would replace names with the wrong color words Fixed a case where the award message for planting the bomb wouldn't show Fixed issues with alt-tab window switching in fullscreen mode Added cvars mp_team_timeout_ot_add_once, mp_team_timeout_ot_add_each, mp_team_timeout_ot_max to control timeouts in overtime ",
+                "feedlabel": "Community Announcements",
+                "date": 1694040322,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5141476355677235654",
+                "title": "Release Notes for 9/5/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141476355677235654",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Ancient Fixed CT spawn area shape in minimap Overpass Adjusted spawn locations to reduce the likelihood of players spawning stuck together Inferno Various bug fixes and tweaks Re-enabled Casual matchmaking Fixed a bug where dropped weapons were behaving like held weapons Adjusted interpolation parameters Fixed missing bullet tracers on hits Made it easier to pick up dropped weapons Fixed a case where music wouldn't play at the end of deathmatch Various bug fixes and tweaks to Premier UI elements Adjusted freeze time post-processing effects Fixed missing player models for the first few seconds after team introductions Windows community servers can now appear in Steam Server Browser ",
+                "feedlabel": "Community Announcements",
+                "date": 1693952801,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5141476355663002229",
+                "title": "Release Notes for 9/1/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141476355663002229",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Inferno Various bug fixes and tweaks Players who survive the last round before overtime no longer carry their items into overtime Disabled Casual matchmaking temporarily to avoid a bug where servers get stuck in the end-of-match state Fixes for missing music in Casual mode Various bug fixes and tweaks to Premier UI elements Various bug fixes and tweaks to weapon finishes Fixed a crash that occurs when changing audio devices Fixed an issue where players who abandon during Premier map voting receive multiple cooldowns ",
+                "feedlabel": "Community Announcements",
+                "date": 1693615398,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5141476355659160726",
+                "title": "Release Notes for 8/31/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5141476355659160726",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Added Premier mode Added a visible CS Rating and CS2 Leaderboards. For more information visit the CS2 Leaderboard FAQ Added CSTV for spectating Premier matches Fixed a case where grenade throw sounds would play twice Added music preview button to music volume sliders Various adjustments to sound effects Added Paint Kit enhancements to CS2 Item Editor. Paint Kit finishes can now support: Enabling custom normal maps and AO for all styles Optional pearlescent mask Optional standard PBR roughness texture Custom Paint-By-Numbers masks (enabling Paint-By-Number masks for Spray-Paint style) Added Inferno to all available game modes Various bug fixes and tweaks for all shipped maps Fixed a bug with hostage rescue prediction Enabled first-person shadow for carried hostages Fixed water effects showing in the wrong place when a bullet hit the water after penetration Various fixes for weapon finishes Replaced \"Secondary Fire Hold\" setting with \"Zoom Button Hold\" Fixed \"Disable all voice comms\" button in scoreboard \"Temporarily Disable Incoming Chat\" now mutes voice chat Various CS:GO settings will be imported when launching the CS2 Limited Test Fixed a case of inconsistent crouching with Duck Mode: Toggle enabled Updated the invulnerability visual effect Adjusted 'sv_infinite_ammo 2' grenade behavior to match CS:GO Desert Eagle third-person muzzle flash smoke now dissipates faster Continued iterating on smoke shape Adjusted Competitive mode match length to 12-round halves Recent ranked matches in \"Your Matches\" menu will now show Competitive, Wingman, and Premier matches Access to match history granted to third-party websites will now cover Competitive, Wingman, and Premier matches GetNextMatchSharingCode API used by third-party websites must now supply a match sharing code that is no more than 1 month old to obtain the next match sharing code. ",
+                "feedlabel": "Community Announcements",
+                "date": 1693524375,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1426387032_1693526054_0",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 1481
+    }
+}

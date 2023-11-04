@@ -1,0 +1,144 @@
+{
+    "appnews": {
+        "appid": 1282100,
+        "newsitems": [
+            {
+                "gid": "5124585319856427941",
+                "title": "Remnant 2 now gives you much more \"freedom to experiment\"",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5124585319856427941",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "The latest round of <strong>Remnant 2 </strong>patch notes are here, as Gunfire Games focuses on some player-orientated changes that should make it easier to play around with builds and other players in the <a href=\"https://www.pcgamesn.com/remnant-2\">RPG game</a>. With easier archetype choices, a trait cap increase, and less damage dealt to you in multiplayer, <a href=\"https://www.pcgamesn.com/remnant-2\">Remnant 2</a> just got a whole load of wins. <a href=\"https://www.pcgamesn.com/remnant-2/patch-notes\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/remnant-2/system-requirements\">Remnant 2 system requirements</a> <a href=\"https://www.pcgamesn.com/remnant-2/million-copies-sold\">Remnant 2 smashes records, selling over a million copies in a week</a> <a href=\"https://www.pcgamesn.com/remnant-2/archon\">How to unlock the Remnant 2 Archon</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1691239654,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1282100
+            },
+            {
+                "gid": "5124585319853427917",
+                "title": "Patch Notes: 08.04.23",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124585319853427917",
+                "is_external_url": true,
+                "author": "MadmattVG",
+                "contents": "Travelers, Thank you so much for your support since we launched Remnant II last week! The response to the game has been amazing to see and we are honored and humbled by you all. Since launch, the team has been hard at work addressing issues that many of you have raised via our socials as well as our Discord, Reddit, or Steam forums. This is the first major update intended to address many of the bigger issues right now, but there will be more updates to come.\u00a0Check out the detailed notes below and thank you all!\u00a0--Performance and Crashes--\u00a0Initial optimizations to improve overall performance.\u00a0\u00a0Updates to improve hitching and potential crashes.\u00a0Fixed multiple reported crash bugs.\u00a0High detail shadows have been moved to a separate option and can be enabled in the options on PC.\u00a0\u00a0--Quality of Life--\u00a0QOL OVERVIEW: While we still have quite a few things we are working on regarding Traits and long-term grinding (for those that wish to partake), we wanted to make a few changes in this patch to ensure players had more freedom to experiment. Players should find it much easier to Respec and they should also end up with more Scrap overall. We aren&#39;t done here by any means, and these are not the larger changes we&#39;ve mentioned on Discord and Reddit, but in the short term, they should help to ease the burden or reconfiguring your build and experimenting with different options.\u00a0Increased Trait Cap by +5.\u00a0Tome of Knowledge now grants Scrap and EXP when the player has reached Trait Cap.\u00a0Orb of Undoing now has unlimited uses. Players can sell any extras for Scrap.\u00a0Removed the Trait Requirement for equipping a second Archetype. Players may now slot their second Archetype as soon as they obtain / convert another Engram at Wally.\u00a0Removed the Scrap Cost for converting a Mysterious Item into an Engram (1000 to 0).\u00a0Lowered the Lumenite Cost for converting a Mysterious Item into an Engram (10 to 5).\u00a0Slightly Increased Scrap Gain from Breakables.\u00a0Increased Scrap Gain from Regular and Rare Chests.\u00a0Increased Scrap Gain when killing Aberrations.\u00a0Reduced the cost of Bloodroot.\u00a0--Balance--\u00a0Explorer Archetype\u00a0Increased the duration of Explorer&#39;s Scavenger Buff per pickup from 15s to 20s.\u00a0Increased the duration of Explorer&#39;s Gold Digger Buffs from 15s to 20s.\u00a0Increased the healing amount of Gold Digger Healing Fountain from 1.5 to 2.0 HP per second.\u00a0DEV NOTE: We wanted to make sure Explorer could maintain Scavenger longer between fights and give them more freedom while Gold Digger Fountains were active. We increased the durations by 5s each and boosted the Healing Fountain to be more enticing. Archon Archetype\u00a0Increased Archon Havoc Form Lighting Hands damage from 28 to 56.\u00a0Increased Archon Havoc Form Blink damage from 100 to 150.\u00a0Reduced Archon Havoc Form Cooldown from 120s to 90s.\u00a0DEV NOTE: These changes are in response to bug fix that allowed Havoc Form Lighting Hands to deal ridiculous damage. We made some overall adjustments to compensate. Challenger Archetype\u00a0Adjusted the damage falloff for Challenger&#39;s Close Quarters perk. At maximum range, Challenger will always maintain a 10% damage bonus to All Damage.\u00a0Handler Archetype\u00a0Increased the Handler&#39;s Pack Hunter Range from 25m to 40m.\u00a0Increased the Base Max Health of Handler&#39;s Very Good Boy Companion.\u00a0Summoner Archetype\u00a0Increased the Base Max Health of Summoner&#39;s Hollow and Flyer Variants.\u00a0Switched Aphelion scaling to Boss/Special Damage Scaling instead of Standard.\u00a0Increased the Fire Damage for Shatterstar (Savior Mod).\u00a0Reduced the Fire Rate on Nightfall in Standard and Dreadwalker Fire Modes.\u00a0DEV NOTE: Nightfall was dealing far more damage than other weapons in both modes (almost 20% more w/ Dreadwalker active compared to other guns with their Mod active). When considering damage and the Mod ability (harder to hit, life siphon, and fire rate), it was pushing Nightfall too far above every other Long Gun. It now sits closer in line with other high-damage weapons.\u00a0Reduced the AOE Burst Damage of Enigma&#39;s Overload Application from 40 to 30.\u00a0Reduced the Subsequent Tether Damage of Enigma Primary Fire from 75% to 65%.\u00a0Reduced the Magazine Capacity of Enigma from 30 to 25.\u00a0Increased the total Reserve Capacity of Enigma from 120 to 125.\u00a0DEV NOTE: Enigma was performing too far above our goal for AOE clear, so a few adjustments were made. There is still an issue with it ignoring Armor which will be addressed in the future. However, when that happens, we will reevaluate the numbers. Reduced damage on Nightweaver\u2019s grab attacks (Wall and Lunge).\u00a0Adjusted the hitbox of Magister Dullain&#39;s tongue attack to better match the visuals.\u00a0\u00a0Reduced incoming damage in Multiplayer from 25% per additional player to 15% per player.\u00a0\u00a0--Bug Fixes-- Fixed multiple reported crash bugs and instability issues.\u00a0Progression Blocker: Fixed an issue that prevented players from completing tutorial if a crash happened when interacting with Ford.\u00a0Progression Blocker: Fixed infinite loading screen issue present for some players when selecting \u201cSkip Tutorial\u201d on character creation screen.\u00a0Progression Blocker: Fixed an issue with Plasma Cutter preventing the Final Boss from transitioning into its second phase.\u00a0Progression Blocker: Fixed Tal\u2019Ratha boss fight lockout if game was exited during cutscene dialogue.\u00a0Progression Blocker: Fixed the Astropath boss fight failing start if game was exited during cutscenes.\u00a0Addressed issue with Trait points going negative. Negative Trait points have been flipped to positive. This will also fix issues with the Second Archetype being locked out.\u00a0Addressed issue player\u2019s not receiving achievements in multiplayer games.\u00a0\u00a0DEV NOTE: This will not retroactively reward ones that should have been previously unlocked. In future patches we will look into attempting to retroactively award as many as we can, however some will likely not be able to be awarded this way and will need to be reacquired. Players who completed Oracle\u2019s quilt will now receive Half Quilt award as well as Full Quit Reward if they had not previously received it.\u00a0Fixed an issue with Weapons not unlocking after Hardcore playthrough.\u00a0\u00a0DEV NOTE: Unfortunately, hardcore awards will not be retroactively awarded for previous completions of Hardcore mode. Fixed an issue with Weapons not unlocking after completing playthroughs at different difficulties.\u00a0\u00a0DEV NOTE: Unfortunately, difficulty-based rewards will not be retroactively awarded for previous completions of the game. Players who listened to all Mudtooth\u2019s stories but did not receive all of the rewards can visit Mudtooth to receive their rewards. Players who did not receive the Iron Cylinder (Gunslinger\u2019s Engram) from listening to all his stories will now find it in his store.\u00a0Fixed an issue preventing Explorer and Archon Armor from appearing on the vendor. Players will need to first convert the appropriate Mysterious Item into an Engram at Wally\u00a0Fixed an issue preventing Mudtooth&#39;s Elixir from appearing in his inventory. After completing the game, players will need to first unlock Explorer (Golden Compass) at Wallace.\u00a0Fixed issues where Clementine would stand in random locations in Ward 13 after the cutscene in Blackened Citadel.\u00a0Fix for Achievement when meeting the Flautist if co-op player was spectating at the time where the Flautist was met.\u00a0Fixed an issue preventing Revivalist Trait from being awarded. It should now be rewarded after reviving another player 15x.\u00a0Fixed an issue with Archon&#39;s Havoc Form Lighting Hands. Casting Speed now properly ramps up the Lighting Hand without going infinite.\u00a0Fixed an issue causing Hunter&#39;s Focus not granting the proper Weakspot Damage Bonus\u00a0Fixed an issue causing Hunter&#39;s Shroud granting multiplicative damage bonus\u00a0Fixed an issue causing Invader Perk S.H.A.R.K. to not apply its damage bonuses\u00a0Fixed an issue with Gunslinger&#39;s Bulletstorm Sound not terminating.\u00a0Fixed a bug allowing Male Engineer to ignore falling transition when Overclocking.\u00a0Fixed VFX alignment for Nebula and Hellfire primary fire.\u00a0Fixed an issue preventing Plasma Cutter from dealing the correct damage type to certain enemies.\u00a0Fixed an issue causing Shieldbreaker Mutator to not grant the correct amount of shield.\u00a0Nightfall Mod visual effects terminate correctly now.\u00a0Fixed an issue allowing Dreamcatcher to trigger Dreamwave before it was properly earned.\u00a0Fixed an issue that allowed Crystal Heart from stacking with itself.\u00a0Fixed an issue causing Ring of Flawless Beauty not granting the proper Weakspot Damage Bonus\u00a0Fixed issue with Anastasija&#39;s Inspiration causing infinite damage stacking on Summoner&#39;s Minion.\u00a0Fixed an issue preventing some Boss & Special Melee Weapons from receiving proper scaling.\u00a0\u00a0Fixed an issue preventing Godsplitter from triggering \u201cWas this supposed to happen?\u201d Achievement\u00a0Fixed issue with Primogenitor health bar incorrectly tracking and causing players to become stuck.\u00a0Fixed issue with Root Knight\u2019s puddle projectile dealing damage on hit.\u00a0Fixed issue with Nightweaver projectiles homing in on player incorrectly.\u00a0E.D. Alpha (Aberration) in Tower of the Unseen now respawns after player dies and re-enters the aberration room area.\u00a0Fixed issue with Block Ruin (Labyrinth Enemy) sound effects\u00a0Fixed issue where players could defeat the Gwendil: The Unburnt without taking any damage by standing on the stairs under the wooden bridge\u00a0Fixed issue where killing the Many Faces (Corruptor World Boss Golem) when it&#39;s jumping between platforms would cause it to fall off world in The Great Bole.\u00a0Fixed multiple location on final level where player could get out of bounds of the level.\u00a0Fixed issue with player\u2019s not receiving fall damage by holding throwable consumables or melee weapons in throwing position.\u00a0Fixed collision issue causing players to get trapped along some edges in Morrow Sanatorium.\u00a0Fixed issue when using certain melee weapons, the character\u2019s face distorted\u00a0Fixed issue where Player could be locked out of Postulant&#39;s Parlor when application was closed after playing the board game.\u00a0Fixed issue where Player was unable to open door to Sentinel&#39;s Keep when exiting game while inputting the Seeker&#39;s Key last acquired first in N&#39;Erud\u00a0Fixed an issue where players were trapped when attempting to vault through a wall in Cotton\u2019s Kiln.\u00a0Fixed an issue that allowed players to skip siege fight in Tiller&#39;s Rest.\u00a0Fixed an issue with player\u2019s falling into gap between boat and wall in Tiller\u2019s Rest\u00a0\u00a0Fixed floating doors in Cathedral of Omens.\u00a0Fixed an issue in The Great Hall that allowed repeated EXP rewards during Feastmaster's event.\u00a0Fixed multiple scenarios that allowed players to transition through walls using interactives.\u00a0Fixed an issue that caused players to get stuck in Throw Animation in certain situations.\u00a0Adjusted the kill volume height in the Custodian Eye arena.\u00a0",
+                "feedlabel": "Community Announcements",
+                "date": 1691168676,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1282100,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_487997664_1691169716_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5124585319843440119",
+                "title": "Remnant 2 smashes records, selling over a million copies in a week",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5124585319843440119",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "<strong>Remnant 2</strong> has been breaking records since its release, already overtaking Gunfire Games' preceding title in peak player count. The <a href=\"https://www.pcgamesn.com/15-best-rpgs-pc\">RPG game</a> is well-known for its dark setting and unique bosses, as well as its support of co-op play. It seems that the developers' work on making a remarkably improved sequel has more than paid off, as positive Steam ratings continue to roll in and new players pick up <a href=\"https://www.pcgamesn.com/remnant-2\">Remnant 2</a> to enjoy it with friends. <a href=\"https://www.pcgamesn.com/remnant-2/million-copies-sold\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/remnant-2/system-requirements\">Remnant 2 system requirements</a> <a href=\"https://www.pcgamesn.com/remnant-2/archon\">How to unlock the Remnant 2 Archon</a> <a href=\"https://www.pcgamesn.com/remnant-2/dlss-3-issues\">Remnant 2 gets Nvidia DLSS 3 support but there may be problems</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1690930383,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1282100
+            },
+            {
+                "gid": "5124585319843261346",
+                "title": "\u041f\u0440\u043e\u0434\u0430\u0436\u0438 Remnant II \u043f\u0440\u0435\u0432\u044b\u0441\u0438\u043b\u0438 \u043c\u0438\u043b\u043b\u0438\u043e\u043d \u044d\u043a\u0437\u0435\u043c\u043f\u043b\u044f\u0440\u043e\u0432",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Gamemag.ru/5124585319843261346",
+                "is_external_url": true,
+                "author": "Rakot",
+                "contents": "\u041a\u043e\u043c\u043f\u0430\u043d\u0438\u044f <strong>Gearbox Publishing</strong>, \u0437\u0430\u043d\u0438\u043c\u0430\u044e\u0449\u0430\u044f\u0441\u044f \u0440\u0430\u0441\u043f\u0440\u043e\u0441\u0442\u0440\u0430\u043d\u0435\u043d\u0438\u0435\u043c \u043a\u043e\u043e\u043f\u0435\u0440\u0430\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u0448\u0443\u0442\u0435\u0440\u0430 <strong>Remnant II</strong>, \u043e\u0433\u043b\u0430\u0441\u0438\u043b\u0430 \u0441\u0442\u0430\u0440\u0442\u043e\u0432\u044b\u0435 \u043f\u0440\u043e\u0434\u0430\u0436\u0438 \u0438\u0433\u0440\u044b. \u041f\u043e \u0434\u0430\u043d\u043d\u044b\u043c \u0438\u0437\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u0430, \u0437\u0430 \u043f\u0435\u0440\u0432\u0443\u044e \u043d\u0435\u0434\u0435\u043b\u044e \u0441\u0438\u043a\u0432\u0435\u043b \u0440\u0430\u0437\u043e\u0448\u0451\u043b\u0441\u044f \u0442\u0438\u0440\u0430\u0436\u043e\u043c, \u043f\u0440\u0435\u0432\u044b\u0448\u0430\u044e\u0449\u0438\u043c \u043c\u0438\u043b\u043b\u0438\u043e\u043d \u044d\u043a\u0437\u0435\u043c\u043f\u043b\u044f\u0440\u043e\u0432. ",
+                "feedlabel": "Gamemag.ru",
+                "date": 1690924680,
+                "feedname": "Gamemag.ru",
+                "feed_type": 0,
+                "appid": 1282100
+            },
+            {
+                "gid": "5124585319843259504",
+                "title": "Steam Global Top Sellers for week of 25 Jul \u2014 1 August 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5124585319843259504",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1282100/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Remnant II</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/381210/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Dead by Daylight</a>; * <a href=\"https://steamdb.info/app/1895880/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Ratchet & Clank: Rift Apart</a>; * <a href=\"https://steamdb.info/app/671860/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">BattleBit Remastered</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/271590/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Grand Theft Auto V</a>; * <a href=\"https://steamdb.info/app/359550/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Tom Clancy's Rainbow Six\u00ae Siege</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1690905600,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 271590
+            },
+            {
+                "gid": "5124584686264472201",
+                "title": "Remnant 2 has sold over 1 million units in a week, and more than doubled its player count",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/VG247/5124584686264472201",
+                "is_external_url": true,
+                "author": "",
+                "contents": "If you've been keeping up with the (admittedly quiet) release season of the past few weeks, you'll no doubt have seen all the talk about <strong>Remnant 2</strong>. From the game's <a href=\"https://opencritic.com/game/15194/remnant-ii\">critical acclaim</a> to its <a href=\"https://www.vg247.com/remnant-2-steam-top-seller-peak-concurrent-record\">meteoric rise on Steam's charts</a> - it all felt a bit sudden. But those who know and love Remnant: From the Ashes already had Remnant 2 at the top of their lists of most anticipated games of 2023. Well, it looks like all of that incredibly positive buzz and word of mouth have been crucial in creating a hit for developer Gunfire Games. Today, the developer, and its publisher Gearbox Publishing, announced that the game has sold over one million units in its first week on sale across PC, PS5, and Xbox Series X/S. The original game, Remnant: From the Ashes, took over a year to reach <a href=\"https://www.gamedeveloper.com/business/-i-remnant-from-the-ashes-i-tops-1-7-million-base-game-sales-in-just-over-a-year\">1.6 million sales</a>. Given this momentum, Remnant 2 will likely far exceed its predecessor's lifetime sales. <a href=\"https://www.vg247.com/remnant-2-one-million-sales-double-concurrent-players\">Read more</a> ",
+                "feedlabel": "VG247",
+                "date": 1690899309,
+                "feedname": "VG247",
+                "feed_type": 0,
+                "appid": 1282100
+            },
+            {
+                "gid": "5124584686264145783",
+                "title": "Remnant 2 Passes One Million Units Sold!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584686264145783",
+                "is_external_url": true,
+                "author": "micah.seff",
+                "contents": "Remnant 2 sold more than one million units in just four days across PC, Xbox Series X|S and PlayStation 5 Gearbox Publishing announced today. Gamers and media around the globe showered praise\u00a0on Remnant 2 as the breakout hit of 2023. Remnant 2, the follow-up to the best-selling Remnant: From the Ashes, also more than doubled the number of concurrent players at launch, breaking its own franchise record. \u201cTo everyone who helped us achieve this amazing milestone, thank you for your unwavering support,\u201d said David Adams of Gunfire Games. \u201cThis was a multi-year journey for us and we couldn\u2019t be happier to see fans having such a great time with a game we put our heart and soul into.\u201d \u201cRemnant 2 exceeded our expectations. As a commercial and critical hit, we\u2019re incredibly proud of the Gunfire team and everyone here at Gearbox Publishing who brought this\u00a0title to life,\u201d said Yoon Im with Gearbox Publishing. \u201cAs excited as we are, we\u2019re incredibly thankful to the Remnant community who supported us and the Gunfire team during development. To the new Remnant fans who joined our community in the past week, we\u2019re thrilled you joined us on this journey.\u201d To celebrate Remnant 2 surpassing 1 million units sold, Gearbox Publishing and Gunfire Games released an accolades trailer here: Follow: https://twitter.com/Remnant_Game Watch: http://www.twitch.tv/RemnantGame Like: https://www.facebook.com/RemnantGame Discuss: https://discord.com/invite/remnantgame ",
+                "feedlabel": "Community Announcements",
+                "date": 1690891995,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1282100
+            },
+            {
+                "gid": "5124584686261339744",
+                "title": "Remnant 2 devs hid a whole new class behind datamining - and yes, someone\u2019s already found it",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/5124584686261339744",
+                "is_external_url": true,
+                "author": "",
+                "contents": "<a href=\"https://www.rockpapershotgun.com/games/remnant-2\">Remnant 2</a>, this year\u2019s sequel to surprisingly good \u2018Dark Souls, but a co-op shooter\u2019 Remnant: From the Ashes, continues to land surprise after surprise - from being a <a href=\"https://www.rockpapershotgun.com/remnant-ii-review\">surprisingly ambitious follow-up</a> to the less-good surprise of <a href=\"https://www.rockpapershotgun.com/remnant-ii-might-be-designed-around-upscalers-but-dlss-isnt-a-band-aid-for-bad-performance\">its tech woes on PC</a>. The biggest and best surprise so far might be an entirely new class, which devs Gunfire Games deliberately hid behind an unlock process so obscure you needed to datamine its solution. <a href=\"https://www.rockpapershotgun.com/remnant-2-devs-hid-a-whole-new-class-behind-datamining-and-yes-someones-already-found-it\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1690824956,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 1282100
+            },
+            {
+                "gid": "5124584686260759641",
+                "title": "Remnant 2 gets Nvidia DLSS 3 support but there may be problems",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5124584686260759641",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "<strong>Remnant 2 </strong>just upgraded to <strong>Nvidia DLSS 3</strong>, giving GeForce RTX 40 series owners the ability to boost their performance further with Frame Generation. However, it seems that the implementation of the AI-powered tech is potentially worsening <a href=\"https://www.pcgamesn.com/remnant-2\">Remnant 2</a> performance woes instead of alleviating them. <a href=\"https://www.pcgamesn.com/remnant-2/dlss-3-issues\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/amd/radeon-rx-7900-xtx-review\">AMD Radeon RX 7900 XTX review</a> <a href=\"https://www.pcgamesn.com/steam-deck/lenovo-go\">A new Steam Deck rival may emerge soon from Lenovo</a> <a href=\"https://www.pcgamesn.com/best-amazon-gaming-chairs\">Best Amazon gaming chairs 2023</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1690811467,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1282100
+            },
+            {
+                "gid": "5124584686260432865",
+                "title": "Remnant 2 has a class that can only be obtained by datamining, and it\u2019s no accident",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/VG247/5124584686260432865",
+                "is_external_url": true,
+                "author": "",
+                "contents": "<strong>Remnant 2</strong>, much like its predecessor (and perhaps even moreso!) is a game all about the little discoveries. Like many Souls-likes, Remnant 2 doesn't explain a lot of its mechanics, or how its various sytems interact with eachother. Indeed, the prodecurally generated nature of its level design mean that every player's starting world is going to be different, and the levels themsleves can contain different items/be made of different sections depending on the seed that generated them. Because of that, Remnant 2 has a chunk of hidden content by design. Even going as far as hiding entire classes behind story choices, or only revealing them after certain requirements have been met. But now way is this more evident than the Archon, one of the game's many hidden classes. <a href=\"https://www.vg247.com/remnant-2-datamining-archon-class-how-to-unlock\">Read more</a> ",
+                "feedlabel": "VG247",
+                "date": 1690803977,
+                "feedname": "VG247",
+                "feed_type": 0,
+                "appid": 1282100
+            }
+        ],
+        "count": 86
+    }
+}

@@ -1,0 +1,160 @@
+{
+    "appnews": {
+        "appid": 1485590,
+        "newsitems": [
+            {
+                "gid": "5229301621579948735",
+                "title": "Co-op Update: Hero Unlocks for All Players",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621579948735",
+                "is_external_url": true,
+                "author": "The-Cat-o-Nine-Tales",
+                "contents": "Hello everyone !\u00a0With today\u2019s patch, we are changing how you can unlock heroes in multiplayer. This has been requested by many of you, and we wanted to tackle this issue as soon as we could. Thanks again for your feedback and for helping us improve the game, we really appreciate your input!\u00a0With these changes, it will be much easier to share your hero unlocks with all your friends. So, how can you unlock more heroes when playing with your buddies now? There are two ways:\u00a0If the host did not have the hero unlocked yet, all players in the squad will unlock this hero together when the conditions are met and the host talks to the character in the saloon\u00a0If the host had already unlocked the hero, you can unlock it yourself by playing as the hero and\u00a0either Reaching the end of the first floor\u00a0OR Completing the first quest step of the hero\u00a0This should make unlocking heroes together with your buddies a much smoother experience, and we hope that you'll enjoy these changes! We\u2019re also still working to add achievements for clients in multiplayer, and keeping an eye on your feedback.\u00a0And of course, there are some bugfixes included in this patch. You can check out the complete changelog below.\u00a0Have fun conquering the station with your friends!\u00a0Version: This is the number you will see inside the game 1.1.10109] Improved the way meta progression works in multiplayer sessions.\u00a0Fixed an issue where MitoSis monsters could not be killed anymore.\u00a0Fixed several issues with Crystal Bot pathfinding, lowering the occurrences where it could become stuck.\u00a0Fixed an issue where a map could be generated with a chest blocking player from progressing.\u00a0Fixed an issue where an opened Game Menu appeared empty and couldn't be closed.\u00a0Fixed an issue where an error could occur for the Host after taking a Memento in multiplayer session.\u00a0Fixed an issue where the number of keys required to unlock a District is not updated dynamically in the Station Map.\u00a0Fixed an issue where Difficulty choice window does not open on first run.",
+                "feedlabel": "Community Announcements",
+                "date": 1698417329,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590
+            },
+            {
+                "gid": "5229301621576383578",
+                "title": "Endless Dungeon review",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/5229301621576383578",
+                "is_external_url": true,
+                "author": "Will Freeman",
+                "contents": "There&#x2019;s a lot going on in Endless Dungeon&#x2019;s partially abandoned space terminal. Named &#x2018;the Station&#x2019;, it is the setting for a game that ambitiously blends elements from arcade-inspired run &#x2018;n&#x2019; guns, strategic tower defence titles, and roguelite dungeon crawlers. That&#x2019;s a lot to squeeze into a game in a cohesive and balanced way. And yet, for the most part, developer Amplitude has achieved it. Endless Dungeon&apos;s narrative set-up is straightforward but effective: a band of outcasts have found themselves stranded on the Station, a hulking, multi-story mass of intertwined corridors and side rooms that once belonged to a mysterious group known as the Endless. Now the only other occupants are four tribes of monstrous creatures that maraud the Station&#x2019;s tangle of decks. Yours is the job of helping the squad of interstellar refugees escape their prison by pressing onwards through each floor, making their way down into the guts of the Station through multiple zones of generated dungeons. There&#x2019;s a captivating core game loop to cycle through, but really this is a game about opening doors; a lot of doors. More on that in a moment. Aesthetically and tonally, Endless Dungeons sits somewhere between cyberpunk convention and Hades&#x2019; handsome stylings. It&apos;s a delightfully pretty game, combining dramatically lit isometric interiors and cutscenes realised in sharp comic book form. The palette contrasts vibrant colour with shadowy gloom, and while it is unconcerned with realism, Amplitude&#x2019;s creation bristles with detail, making the Station feel like a real and cohesive place. Fortunately, it is equally easy on the ear, with a rich soundscape and a score that capably brings tension and momentum. But what about all those doors? Well, each playthrough starts in a singular room surrounded by exit points. Open up any of those bulkheads, and you&#x2019;ll find yourself in another corridor or room, also resplendent with doors. There&#x2019;s no obvious or linear route to the exit you ultimately seek, which will take you to the next stage&#x2014;or down to the floor below. Equally, it&#x2019;s typically next to impossible to know what exactly will be beyond any door you decide to burst through... <a href=\"https://www.pcgamer.com/endless-dungeon-review?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1698332447,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 1485590
+            },
+            {
+                "gid": "5229301621572725269",
+                "title": "[25 October Hotfix]",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621572725269",
+                "is_external_url": true,
+                "author": "Lt_Miles",
+                "contents": "{STEAM_CLAN_IMAGE}/39322406/ae0b6fb4684a7ec1b84ecb499389444a75218fa0.png As we are working on the Update for the Co-op (so heroes will be unlocked for everyone during a multiplayer game), here is a quick hotfix for today. We are aiming to have that update end of this week or early next week. Version: This is the number you will see inside the game Improved compatibility with old Nvidia GPUs (fixing lighting issues) Fixed an issue where a crash can occur when player attempts to 'Quit and return to Main Menu' after Eriaudy introduction. Fixed an issue where the fight against Red Dead Eye could not be completed when playing in Hard Mode Have a nice day",
+                "feedlabel": "Community Announcements",
+                "date": 1698246128,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5218041989047126279",
+                "title": "Future Changes to the Co-op Meta Progression",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989047126279",
+                "is_external_url": true,
+                "author": "Daarkarr0w",
+                "contents": "Hey! Thanks to all of you for the early reception of the game, we are really happy to read your first feedback! There is a lot of different feedback about the game but there is one topic that we see frequently: the confusion about how the meta progression works in multiplayer but also criticism of certain aspects of it. We are mainly talking about the fact that unlocking new heroes, when playing multiplayer, works only for the Host of the game, which has left some players with a feeling of frustration, after playing for several hours with their friends to end up discovering that they didn\u00b4t unlock the heroes. Thanks to your feedback and explanations, we've realized that this was an important topic and that we absolutely needed to improve this experience when playing in multiplayer. Our next steps Starting next week, the team will start working on a solution, and we think it will take us a couple of weeks tops to implement and test it, and ensure that it is working properly. We've made it our top priority. We'll go into more details later, but in short: The currently planned changes will make sure hero unlocks in coop are shared with all players. Apart from this aspect, which will be our priority, we wanted to say that the unlocking of achievements, when playing in multiplayer, is not working as intended, and we will be working in the future to solve this issue as well. But this case will take the team a bit more time. As a reminder, here is an image on how, right now, the meta progression is working when playing in multiplayer: {STEAM_CLAN_IMAGE}/39322406/f27624e9bfd908bfa068f702b26086f1626a9780.png Enjoy the game and have a nice weekend \ud83d\ude0a Get Involved! For the latest news and announcements, don't forget to visit our official social channels. Steam Community Discord Twitter TikTok G2G Instagram ",
+                "feedlabel": "Community Announcements",
+                "date": 1697820057,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590
+            },
+            {
+                "gid": "5218041989046734344",
+                "title": "[20 October Hotfix]",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989046734344",
+                "is_external_url": true,
+                "author": "Lt_Miles",
+                "contents": "{STEAM_CLAN_IMAGE}/39322406/124df1886df4d1bed5ff14c495daa41d284b2e45.png Another hotfix before the weekend. We are still investigating some of the issues you reported and working on solving other issues! But for those we will need to wait for next week. Version: This is the number you will see inside the game Fixed an issue where an infinite black screen could occur after splash screen. Fixed an issue with Razer Chroma implementation. Have a nice weekend ^-^",
+                "feedlabel": "Community Announcements",
+                "date": 1697810777,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5218041989043075657",
+                "title": "Release Day!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989043075657",
+                "is_external_url": true,
+                "author": "Daarkarr0w",
+                "contents": "Hey, Today it is ENDLESS\u2122 Dungeon RELEASE DAY !!\u00a0Which means a day for a celebration (wish we could organize a small gathering in the Saloon, but that would break the 4th dimension, or maybe the \"Endless Dimension\"). As we don't have a double-release launch trailer (you can always check the trailer HERE) the best is to share again one of the songs off Lera Lynn, that matches the moment: \"Free Again\" Two days ago we released the Advanced Access for the owners of Last Wish Edition and we are super happy with the reception for the community. You can check our BLOG in which we included some basic information and a thread with a FAQ we prepared with some of the most important questions. Before starting the main content of the blog, we wanted to thank all players and Insiders\u00a0who have been helping us along the way during the different OpenDevs, \"secret builds\" for Insiders, and during the recent Closed Beta. Your ideas and thoughts have been super helpful and it has been an important part of improving the game until today. Here we can mention the changes in the Real-time Waves, the difficulty selector, improvements on the UI/UX, and much more.... Again, Thanks! What are the next steps for ENDLESS\u2122 Dungeon? Now that the game is out, this is one of the main questions you might have. The whole team has a clear vision to improve the game and we will support it with future updates and new additions. But as the game releases today, we wanted to share with you some of the points that the team wants to improve. {STEAM_CLAN_IMAGE}/39322406/08afcdf17986f47712ad0ede059bcbfa1d30cf5b.jpg This is not a \"Roadmap\", but more like a short-term list of things we wanted to prioritize, which we identified thanks to the different feedback we&#39;ve got from Insiders and the early thoughts from the players. Balancing: not a surprise but we will keep an eye on the different feedback about the weapons, heroes, monsters, etc., and will make some adjustments to ensure a better experience in terms of balancing and difficulty (do not hesitate to share specific feedback about that with us) Gameplay Feedback: there are some elements that can have a positive impact on your gameplay. Like having on the weapons some icons on which characters can use it, more options in the Merchant, etc. Quality of Life Improvements: more explanations in the tutorials (perhaps a bit late for some of you :P ), improve the User Experience (UX) when navigating through stands and saloons menu, etc. Multiplayer Stability and Performance: we will be working to improve the overall multiplayer stability and also the cross-generation: PS4-PS5, Xbox One-Xbox Series, Steam-Epic. We will share some WIP images at the end of the blog!] Community Vote - Weapon Design To celebrate the release day we wanted to ask you about the design for a future weapon.\u00a0This gun launches an EMP burst that will briefly leave the ground electrified and fry any enemies caught in the blast!\u00a0Do not forget to vote for your favorite design in the VOTES section. {STEAM_CLAN_IMAGE}/39322406/c858ed9b7686a5ec02411649dff7fbb9bee389bc.png How progression works in Multiplayer We have seen people struggling to understand the progression during the multiplayer/co-op session. Here is an image to explain it. Please let us know if it is not working like this for you, as it may be a bug, so we can investigate it. {STEAM_CLAN_IMAGE}/39322406/f27624e9bfd908bfa068f702b26086f1626a9780.png Freeeeeedoooom!!! - Braveheart Skin is free to everyone! In case you missed it, during the development the Community voted\u00a0on a super cool Braveheart-inspired skin for Bunker, and today we&#39;re happy to announce that it&#39;s now available for PC and will be for consoles in the next patch! {STEAM_CLAN_IMAGE}/39322406/f56e8cd6227f6a67018f1f3bb447aadca05cdaca.png Relevant Links Before wrapping up for today we wanted to share a couple of important links for you to check. FAQ: there you will find some of the most relevant questions you might have, but if you have additional questions we can include them PC Hotfixes: on this thread, we will be gathering the different hotfixes that the team is deploying Console Forum Section: we opened a section in Games2Gether in which you can find the different Known Issues by platform and in which we will inform you about the next updates (Soon\u2122) Bug Report: If you encounter any bug, do not hesitate to report it (here you have the list of Known Issues) This is everything we have to share with you today! Enjoy the game and see you In the Station! ----- Work In progress images for the things the team is working on (mentioned above) https://medias.games2gether.com/forums/daarkarrow/Weapon_pick_up-1.png Weapons will have an icon that tells you which character can pick them up. https://medias.games2gether.com/forums/daarkarrow/Workshop_drop_chance.png Option to increase the Drop Chance for a weapon. https://medias.games2gether.com/forums/daarkarrow/Hero_Level_Up.png Improvement in the visual while upgrading your heroes during the run. Get Involved! For the latest news and announcements, don't forget to visit our official social channels. Steam Community Discord Twitter TikTok G2G Instagram ",
+                "feedlabel": "Community Announcements",
+                "date": 1697724069,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_487997664_1697732317_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5218041989042973518",
+                "title": "[19 October Hotfix]",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989042973518",
+                "is_external_url": true,
+                "author": "Lt_Miles",
+                "contents": "{STEAM_CLAN_IMAGE}/39322406/b19e529f4f10e371164f003358293c5dba81bc29.png As the game officially released today we wanted to drop another quick hotfix. Version: This is the number you will see inside the game Unlocked Braveheart Bunker Skin for everyone. Fixed an issue where Bug Momma could rotate during its attack (increasing the difficulty of its fight, both for Players and companions). Fixed an issue where Heroes could move during their skill use. Fixed an issue where the feedback of the Grenadier range value was incorrect. Fixed several text issues. Have a nice day",
+                "feedlabel": "Community Announcements",
+                "date": 1697721650,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5218041989039716171",
+                "title": "[18 October Hotfix]",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989039716171",
+                "is_external_url": true,
+                "author": "Ocytocine",
+                "contents": "{STEAM_CLAN_IMAGE}/39322406/c7e1098b4228b3baf517d5ac0ce9453794d1bce2.png Again, thanks to all of you who are expressing yourself with new ideas, and suggestions and reporting any problems. We are investigating the different things you raised. Version: This is the number you will see inside the game Here it is the details for the hotfix of today: Fixed an issue where Heroes could become stuck because the wave did not properly stop when finishing a zone. Fixed an issue where an infinite loading screen upon loading into the Core district could occur when resuming a previously saved run. Fixed an issue where autosave could be erased when launching the tutorial for the second time. Fixed an issue where a crash could occur on specific PC configurations. We will keep working \ud83d\ude0a",
+                "feedlabel": "Community Announcements",
+                "date": 1697644423,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "6438516944138868085",
+                "title": "Welcome to the Station - Advanced Access",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6438516944138868085",
+                "is_external_url": true,
+                "author": "Daarkarr0w",
+                "contents": "Today is an exciting day for the entire studio, and especially our ENDLESS\u2122 Dungeon team that has worked super hard these past years to make this game a reality. We've put a lot of passion and dedication into this project, and we're extremely proud of releasing our game today! We hope you enjoy playing it as much as we enjoyed making it. Endless Dungeon is out, at least the advanced access (aka early unlock) for those of you who bought the \"Last Wish Edition\". For those who own the Standard Edition you will be able to play starting Thursday (16:00 CEST / 15:00 BST / 7:00 PST). So let's start from the beginning: Endless Dungeon is a unique blend of roguelite, tactical action, and tower defense set in the ENDLESS Universe (same as Endless Legend, Endless Space, Dungeon of the Endless , etc...). We won't spoil the game for you, but you've ended up in the Endless Dungeon Space Station, and there is a force that makes it impossible to just take a ship and get away. You will need to escort your beloved Crystal Bot to the Core to try to fix the situation and escape. 8 Playable Characters Co-op with up to 3 players Multiple Meta Progression elements (Upgrade your heroes with Chips, spice up your run with the Beverages, etc.) 10 Districts to explore and more... As the game just released, there are a couple of things we wanted to share with all of you to help you get started! Wiki and Tutorials We know that a rogue-lite game can be a challenge to get into and this is why we explored different ways to share additional information and explanations for those of you who want to dig into the different concepts of the game to learn and master. Based on the feedback from the Insiders who have been helping us test the game over the past few months, we decided that a player-editable wiki is the best approach and created an \"Official Wiki\" on wiki.gg. We'll be happy to work with any player interested in the Wiki, to answer questions or provide assets to make this wiki the most useful resource it can be. {STEAM_CLAN_IMAGE}/39322406/deb98ca517cbb1e5d72612fb6e8f16646a1bb16d.png But that it is not all, we know that a Wiki is not meant for everyone (some people will say is \"Too much text to me...\", this why we have been collaborating with content creators such as Hazmy who will have some videos that will help you on your first steps in Endless Dungeon. Additionally, we will be having some short videos on the different social media channels, you will find the links at the end. If you make any videos, do not hesitate to share them with us, we are eager to see your tips and strategies of the game! Feedback and Bug Reports The community has been and will remain one of the pillars of Amplitude Studios. That is why we are always eager to know your different feedback, from new and crazy ideas, specific balance tweaks and improvement of systems, to bug reports. This is why you are more than welcome to express yourself on all the different platforms; G2G, Discord, Steam, etc. We will try to be present the best we can to hear you, to share your funny and positive moments with the game, and to raise any concerns you have with the team. We look forward to reading your feedback on the game - this is just the beginning and we'll keep on improving the game along the way! Of course, we are aware that the game can have some issues (here is the list of the Known Issues) and the team is working on solving them. In any case, if you encounter a bug, please do not hesitate to share it with us in Games2Gether, Discord, or Steam. The main and most practical way is to report it directly in the new Bug Report Section, which is connected to our database and is easier for the team to follow. FAQ We have created an FAQ Thread with all the questions and answers for you to check. So do not hesitate to go there to ask additional things so that we can expand it if needed. In any case, we've tried to include the main questions you might have at the beginning. What are the recommended requirements to play Endless Dungeon? Windows 10, 64-bit Desktop's Intel Core i7 10th generation / Desktop's AMD Ryzen 5000 Series 12 GB RAM NVIDIA GTX 970 / RTX 2060 / AMD R9 390 / RX 490 / RX 580 Do I need a controller to play? While the keyboard and mouse are supported, we recommend using a controller to play Does the game work on Steam Deck? We are working on getting the full verification (green tick). But YES, you can play right now on Steam Deck! How does meta-progression work in co-op? Gameplay: As host, it\u2019s your progress and unlocks that determine what all co-op players have access to when it comes to Playable districts, available heroes, Saloon improvements, weapons mods, and available crystal bot upgrade chips. When joining a host\u2019s game you\u2019ll use your own progress when it comes to Hero quests and Hero upgrade chips Unlocks: All collected District keys, Crypto keys, Mementoes, Beverages, Cells and Scraps will be saved to be used to advance your progress in your local game, both in Solo play and when you host your own co-op sessions. New heroes are unlocked by players in their local games \u2013 A host can play using heroes they have unlocked, and a guest can play using any heroes they have unlocked AND those a host has unlocked. However, quest progress can only be made for heroes that you have unlocked locally. Will the game have Cross-Play? We are working to support cross-generation play very soon (PS4 with PS5 and Xbox one with Xbox Series) and hope to have this soon after release. The team is working really hard to bring this as soon as possible, since we know it is highly demanded. We are also working on cross-platform Steam-Epic and hope to have that soon as well. We will not have cross-platform between PC/Console and Xbox/PlayStation. What happens if I encounter a Bug, Where can I report it? You can report your bug on the Bug Report section, here on Games2Gether. Here are the guidelines on how to report bugs properly. Also, we opened a section on our Discord to report bugs as well, but we do encourage you to report them here as it is easier for the team to track them. Enjoy the game and see you around the Station! Get Involved! For the latest news and announcements, don't forget to visit our official social channels. Steam Community Discord Twitter TikTok G2G Instagram ",
+                "feedlabel": "Community Announcements",
+                "date": 1697551522,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590,
+                "tags": [
+                    "mod_reviewed",
+                    "ModAct_873083815_1697552792_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5159491482912644943",
+                "title": "Wall of Fame - Closed Beta Speedrun (Finished)",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482912644943",
+                "is_external_url": true,
+                "author": "Daarkarr0w",
+                "contents": "Hey! We released our\u202fEndless Dungeon Closed Beta\u202fyesterday, and we're thrilled to have you on board with us! Now, we'd like to see which one of you can exit the station the fastest, and we're introducing a Speedrun leaderboard community challenge, the\u202fWall of Fame! If you don't have access to our Closed Beta yet, get a Buddy Pass for free with\u202fTwitch drops \u202for from a friend who purchased the Last Wish Edition on PC. The Buddy Pass will grant you access to the multiplayer mode only. You can find teammates to play with on our\u202fDiscord server. --------------- Results {STEAM_CLAN_IMAGE}/39322406/6246ddb696c670b68477d423f908d72be750fb36.jpg --------------- How do I participate? Finish a run as fast as you can and\u202fshare a screenshot\u202fof your Victory Screen on our dedicated\u202fDiscord thread (Wall of Fame)! We'll create leaderboards based on the top submitted scores . We'll share these \"Wall of Fame\" on our community & social platforms so that our winners can get ENDLESS glory! You can post as many screenshots as you want. We'll share little leaderboard updates while the event is ongoing. You're welcome to try to beat your own score! {STEAM_CLAN_IMAGE}/39322406/f4b4be7d41329f55031980b6d39075a11c94120e.png What are the winning conditions? Fastest run time (the total sum of your run: \"Total Time\" on your Victory Screen) In case of a tie, we'll use the global score as a tiebreaker. Until when can I submit my screenshot? The challenge will be open for the duration of our Closed Beta, starting now until the\u202f18th of September, 6 pm CET. *Note that by submitting your screenshot, you're allowing us to share your Steam nickname and score on our social channels. What do I earn?\u202fENDLESS fame! We'll also unlock a G2G badge for the top #3 best performers. Don't forget to create a G2G account and Steam link it! If you win with multiplayer, each team member will receive the badge and appear on the leaderboard. Are there restrictions for my submission to be valid? You just need to perform a victorious run, and make sure to submit your screenshot on the correct\u202fDiscord thread (\"wall of fame\"). Otherwise, no restriction! We will let you figure out the fastest way to finish your run: multiplayer or solo, Astral Harbor or Procedural Factory - anything that works for you! Please don't cheat! We'll double-check the information you're sending on our database, so we won't get fooled! That's it! See you on\u202fDiscord, and good luck to you all! Get Involved! Keep the discussions on our Forums.Talk to our lovely community on the Official Discord!Have fun with us on Twitter or TikTok.Beautiful pictures on Instagram. ",
+                "feedlabel": "Community Announcements",
+                "date": 1694180533,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1485590
+            }
+        ],
+        "count": 62
+    }
+}

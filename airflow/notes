@@ -1,0 +1,4 @@
+docker compose up airflow-init
+docker build . --tag extending_airflow:latest
+docker-compose up -d --no-deps --build airflow-webserver airflow-scheduler
+http://localhost:8080/

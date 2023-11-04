@@ -1,0 +1,168 @@
+{
+    "appnews": {
+        "appid": 730,
+        "newsitems": [
+            {
+                "gid": "5229301621573687863",
+                "title": "Release Notes for 10/25/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621573687863",
+                "is_external_url": true,
+                "author": "bobb",
+                "contents": "Various bug fixes and tweaks: Inferno Improved bomb visibility when planted in fountain on bombsite B Improved grenade bounce behavior on roof and stone models to make it more predictable Removed part of railing on balcony Adjusted garage door on bombsite A to improve player readability and clipping Fixed lighting bug on Inferno workshop map Fixed various micro-gaps Overall clipping / movement polish Overpass Removed or tweaked models and textures to improve player readability Adjusted lighting in certain areas to improve player readability Adjusted grenade clipping in various areas Nuke Fixed clipping on ramp room doorway tread plates to prevent erroneous grenade bounces Fixed collision on doorways from ramp to bombsite B to be more accurate Improved player readability against container on bombsite B Fixed some cases where players clipped through garage door at lobby Removed dynamic light at squeaky to prevent shadows giving away player position through doorway Fixed various holes in world Overall clipping / movement polish Dust2 Fixed micro-cracks in crate models Anubis Adjusted grenade clipping in and around bombsite B to prevent grenades getting stuck in tight spots Fixed multiple cases where dropped weapons clipped through world geometry Fixed multiple holes and cracks in world. Fixed missing collision on geometry where c4 could be thrown out of the map Clipped multiple areas where players could stack, providing an unfair vantage point Fixed lightmap issues around CT spawn water Improved player readability in mid Improved CT team intro position Overall clipping / movement polish Office Improved player readability at CT spawn around swat van Fixed gaps in some cubemaps which were causing lighting issues Fixed some lighting artifacts on crates at low settings Disabled motion on vending machine Overall clipping / movement polish Vertigo Fixed ladder collision blocking bullets and grenades Fixed steel beams having incorrect surface property Overall clipping / movement polish Mirage Fixed various bullet penetration issues Overall clipping / movement polish Ancient Made fog adjustments to improve player readability Fixed micro-cracks in crate models Fixed multiple holes and cracks in the world Made visibility adjustments to donut area Fixed bullet penetration issues through wood panels near bombsite B Fixed material properties on some tarp models Overall clipping / movement polish Fixed some cases where weapons could fall out of the world Fixed a bug where Molotov self damage could be incorrectly penalized as team damage Improved performance for muzzle flashes and HE grenade effects Various bug fixes and tweaks to weapon finishes and stickers Added code to correct packets that arrive out of order in quick succession. These packets were showing up as loss in the net graph. Fixed a bug where SDR routing could sometimes choose the second-best route when immediately connecting, and then stick to that route for too long. ",
+                "feedlabel": "Community Announcements",
+                "date": 1698268955,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_1400956464_1698269370_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5218041989047342126",
+                "title": "Release Notes for 10/20/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989047342126",
+                "is_external_url": true,
+                "author": "Vitaliy",
+                "contents": "Added more client information to the screen timestamp label to help investigate reported issues. Fixed rendering issue related to GPU UltraWide+ feature. Stability improvements. ",
+                "feedlabel": "Community Announcements",
+                "date": 1697825172,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5218041989044018223",
+                "title": "Release Notes for 10/19/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989044018223",
+                "is_external_url": true,
+                "author": "bobb",
+                "contents": "Added a startup check for incompatible AMD graphics drivers. We will now begin reversing VAC bans for affected players Fixed a bug in Windows 11 Auto HDR that led to smokes intermittently disappearing Miscellaneous bug fixes ",
+                "feedlabel": "Community Announcements",
+                "date": 1697746393,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5218041989037110376",
+                "title": "Release Notes for 10/17/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989037110376",
+                "is_external_url": true,
+                "author": "bobb",
+                "contents": "Command aliases now leverage subtick accuracy New sound for final 10 seconds of bomb beeping Added missing KSK agent voice Reduced falloff distance of knife impact and swish sounds Various tweaks and bug fixes around occlusion filters and footstep clarity Fixed missing gamestate integration data regarding flashbangs and damage stats Fixed a bug where a defused bomb would block the player from swapping to a gun dropped close by Fixed some cases where players could peek through ceilings Convar cl_draw_only_deathnotices now blocks match status alerts such as LAST ROUND OF FIRST HALF. Added a game server command sv_load_forced_client_names_file. Running tournament servers with +sv_load_forced_client_names_file namesfile.txt allows loading a key-values file where client names are enforced to be the tournament registered player names. Added an additional fallback path for game clients to download network configuration. Added a game setting cq_netgraph_problem_show_auto that allows players to enable automatic display of network connection issues in top right corner of game HUD. ",
+                "feedlabel": "Community Announcements",
+                "date": 1697582668,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "6438516944125727558",
+                "title": "Release Notes for 10/13/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6438516944125727558",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Various bug fixes and tweaks to agents, gloves, and stickers The Accept Match popup will now show server information if latency is notably high Fixed a bug where ping calculations were incorrect in Sydney which resulted in players connecting to distant data centers Added a list of nearest official datacenters under the \"Max Acceptable Matchmaking Ping\" setting Fixed a bug where the Perfect World region selection popup wouldn't save the last selection state Fixed the defuser not showing up on the scoreboard ",
+                "feedlabel": "Community Announcements",
+                "date": 1697240007,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "6438516944121781214",
+                "title": "Release Notes for 10/12/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6438516944121781214",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "When a server disagrees about a player's loadout, such as when a match starts during a patch, the buy menu will now reflect the server-authoritative loadout Fixed a case where players could clip through ceilings Made adjustments to character shaders to improve player visibility Fixed the \"Smooth Criminal\" foot pinning bug Adjusted team select and team intro knife animations to work with Shadow Daggers Various bug fixes and tweaks to Inferno, Mirage, Nuke, Overpass, and Vertigo Added \"Player Color\" option to \"HUD Color\" setting that will make the HUD match your or your spectator target's player color in competitive modes Changed \"Use Player Colors on Team ID\" default to \"Yes\" Added \"Large Player Count\" setting to replace player avatars with team player count in the mini-scoreboard during the active portion of rounds Fixed a bug where graffiti changes mid-match were delayed Various bug fixes and tweaks to weapon finishes and stickers New Screenshot button - captures a screenshot of the game window and saves a .png file to disk. Using \"Inspect\" with the gray or green backgrounds saves the .png with the UI elements hidden and a transparent background Added Inferno and Ancient preview maps (workshop_preview_inferno and workshop_preview_ancient) Workshop Item Editor - Integrated help system contains detailed guides when you see (More Help: Shift+F1) in the tool tip. These detailed guides contain important information about PBR color ranges, wear/durability masking alpha values, and much more ",
+                "feedlabel": "Community Announcements",
+                "date": 1697146481,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5246188851832412936",
+                "title": "Release Notes for 10/10/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5246188851832412936",
+                "is_external_url": true,
+                "author": "\u2620",
+                "contents": "Matches will now be made with smaller rating differences between the teams at the expense of longer queue times. Relegation and Promotion matches will only occur at color boundaries, i.e. every 5000 CS Rating points. Increased possible CS Rating win/loss amounts to move players faster after calibration. ",
+                "feedlabel": "Community Announcements",
+                "date": 1696984431,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5220292521199482182",
+                "title": "Valve bin off Counter-Strike 2's Mac support, offering a CS:GO \"legacy version\" in return",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/Rock, Paper, Shotgun/5220292521199482182",
+                "is_external_url": true,
+                "author": "",
+                "contents": "Are you a Mac player who's been hungrily looking forward to the eventual Mac port of <a href=\"https://www.rockpapershotgun.com/games/counter-strike-two\">Counter-Strike 2</a>, released last month, after sinking many hours and much pocket money into the preceding <a href=\"https://www.rockpapershotgun.com/games/counter-strike-global-offensive\">Counter-Strike: Global Offensive</a>? Fantastic news, it's been binned off! In the course of making what they're calling \"the largest technical leap in CS history\", Valve have decided to discontinue support for MacOS. They're also doing away with support for older PCs, including DirectX 9 and 32-bit operating systems - in future, the game will be exclusive to 64-bit Windows and Linux systems. <a href=\"https://www.rockpapershotgun.com/valve-bins-counter-strike-2s-mac-support-offers-a-csgo-legacy-version-in-return\">Read more</a> ",
+                "feedlabel": "Rock, Paper, Shotgun",
+                "date": 1696957534,
+                "feedname": "Rock, Paper, Shotgun",
+                "feed_type": 0,
+                "appid": 730
+            },
+            {
+                "gid": "5220292521197014218",
+                "title": "Release Notes for 10/9/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5220292521197014218",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Fixed a case where feet would appear black when looking down at them through a scope Fixed a memory leak due to particles Fixed several hitbox alignment bugs Fixed knife spinning not feeling as fast as in CS:GO Fixed the bolt not moving during the M4A4 and M4A1-S deployment animations Fixed a bug where weapon inspect could interrupt the silencer toggle animation Various bug fixes and tweaks to Mirage, Vertigo, and Nuke Fixed several bugs with \"Looking to Play\" Various bug fixes and tweaks to weapon finishes and stickers Fixed a bug where loadout changes weren't saved if the game was closed shortly after making changes Fixed a bug where Steam Friends' match status was delayed or missing CPU performance improvements for weapon tracers Added an official matchmaking datacenter in Chengdu, China ",
+                "feedlabel": "Community Announcements",
+                "date": 1696899335,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5220292521185642092",
+                "title": "Release Notes for 10/6/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5220292521185642092",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Fixed a case where water would appear black in screenshots and video capture For AMD GPU users, shader compilation hitches can now be fixed with a driver update: https://www.amd.com/en/support/kb/release-notes/rn-rad-win-23-20-11-7 Fixed a case where the grenade throw animation would be canceled by holding the inspect key Adjusted M4A4 and M4A1-S draw animation to start from out-of-frame Minor animation system performance optimizations Various bug fixes and tweaks to Nuke, Vertigo, Anubis, and Overpass All surrender votes now require a majority to pass Fixed an exploit where players could spam chat during the Premier draft phase Fixed a bug where kicked players were receiving the maximum CS Rating penalty. Kicked players will now receive CS Rating based on the final outcome of the match instead Fixed a bug where the first character at the beginning of the terrorist team intro wouldn't render Configured SDL to prefer X11 over Wayland on Linux Paris 2023 items are no longer for sale ",
+                "feedlabel": "Community Announcements",
+                "date": 1696629725,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            }
+        ],
+        "count": 1506
+    }
+}

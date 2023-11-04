@@ -1,0 +1,144 @@
+{
+    "appnews": {
+        "appid": 1895880,
+        "newsitems": [
+            {
+                "gid": "5124585319843259504",
+                "title": "Steam Global Top Sellers for week of 25 Jul \u2014 1 August 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5124585319843259504",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1282100/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Remnant II</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/381210/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Dead by Daylight</a>; * <a href=\"https://steamdb.info/app/1895880/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Ratchet & Clank: Rift Apart</a>; * <a href=\"https://steamdb.info/app/671860/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">BattleBit Remastered</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/271590/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Grand Theft Auto V</a>; * <a href=\"https://steamdb.info/app/359550/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Tom Clancy's Rainbow Six\u00ae Siege</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1690905600,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 271590
+            },
+            {
+                "gid": "5124584686260682451",
+                "title": "Ratchet & Clank: Rift Apart v1.728.0.0 Patch Notes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584686260682451",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Hey everyone, Today's patch addresses issues that have been reported by players since launch. We've implemented several bug fixes and corrected visual bugs, including texture streaming issues and visible flickering of water reflections on certain settings. This patch also implements a change to improve game stability, based on data from our crash reporting system and user reports. We continue to monitor and investigate crash reports and user feedback and are actively working to improve stability with future updates. Thanks again for playing Ratchet & Clank: Rift Apart and for sharing your feedback. Patch Notes Resolved texture streaming issues that could result in certain textures remaining low resolution. Fixed visual issues with water reflections that occurred when ambient occlusion was set to anything other than SSAO. Resolved an issue that caused the interact button prompt to remain visible on the screen. Fixed a visual issue with weapon previews at the vendor when using ultra-wide resolutions. Various bug fixes, stability improvements and optimizations. If you experience any problems after updating to the latest version, please contact us using this link. As a workaround, you can revert to the previous version of the game. To do this, right-click on the game in Steam, select Properties, then Betas, and select Previous_Version from the drop-down menu. {STEAM_CLAN_IMAGE}/44183032/3f2f70d3b917cc709c6dfaedf60ef0de26d5634f.jpg",
+                "feedlabel": "Community Announcements",
+                "date": 1690809897,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1895880,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5124584686248958384",
+                "title": "Ratchet & Clank: Rift Apart v1.727.0.0 Hotfix",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584686248958384",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Hey everyone, Thank you for playing Ratchet & Clank: Rift Apart on PC! We are thrilled to welcome so many new players to this iconic franchise and appreciate all the feedback that you've been sharing with us. Today we are releasing a hotfix to address a number of issues reported by players. The teams at Nixxes Software and Insomniac Games are closely monitoring game stability and player feedback and actively working on a future patch with more bugfixes. Patch Notes Resolved visual issues with characters occurring on certain GPUs, including AMD Vega based models. Improved the visual quality of vegetation in ray-traced shadows and ray-traced reflections. Implemented a fix to make the Texture Filtering option work as intended. {STEAM_CLAN_IMAGE}/44183032/af0fa98675a43b5b3a69e2082c330a8d0aeefd57.jpg",
+                "feedlabel": "Community Announcements",
+                "date": 1690531931,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1895880,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5124584686242702612",
+                "title": "Ratchet & Clank: Rift Apart is out now on PC!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584686242702612",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "We are excited to announce that Ratchet & Clank: Rift Apart is now available worldwide on PC! Start your dimension-hopping adventure with Ratchet and Clank and fight an evil emperor from another reality with a wild arsenal of weapons. Ratchet & Clank: Rift Apart is the latest game in an iconic franchise with a long history, but it is also an excellent starting point for newcomers, thanks to a standalone storyline and the introduction of the brand-new characters Rivet & Kit. If you have any questions or want to share your experiences, we invite you to discuss the game with us and the community on the Steam forums. You'll also find answers to frequently asked questions and support information. If you need technical support with the game, please contact us here. We can't wait to hear about your experiences with Ratchet & Clank: Rift Apart on PC and look forward to seeing your Photo Mode results! Be sure to share your best shots via the Steam Community Hub and on social media using the hashtag #RatchetPC. You can find us on Twitter (@NixxesSoftware and @InsomniacGames), Facebook and Instagram, or join our Discord! Have fun! - Insomniac Games & Nixxes Software Release notes Ray-tracing on AMD GPUs is disabled at launch. We are working closely with AMD to enable support as soon as possible. {STEAM_CLAN_IMAGE}/44183032/5d9b57a222df039d5ad80279b0b4ccdd6200b049.jpg",
+                "feedlabel": "Community Announcements",
+                "date": 1690383643,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1895880
+            },
+            {
+                "gid": "5124584051987309572",
+                "title": "Ratchet & Clank: Rift Apart is now available for pre-load!",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584051987309572",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Ratchet & Clank: Rift Apart on PC releases tomorrow and we can't wait for you to embark on this dazzling interdimensional adventure! We are happy to share that you can now pre-load the game on Steam. If you do so, you can start the game right away the moment it launches. Ratchet & Clank: Rift Apart launches globally on July 26 at 8:00 AM PDT / 5:00 PM CET / 7:00 PM GST. Check out the infographic below for more time zones. {STEAM_CLAN_IMAGE}/44183032/7b1235a16b449ee6cf93e68b5e36ddbf3597c7a0.png",
+                "feedlabel": "Community Announcements",
+                "date": 1690273934,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1895880
+            },
+            {
+                "gid": "5124584051970504583",
+                "title": "Is Ratchet and Clank Rift Apart Steam Deck compatible?",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5124584051970504583",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "<strong>Is Ratchet and Clank Steam Deck compatible? </strong>Playing Ratchet and Clank Rift Apart on the Steam Deck is as easy as blasting through a slew of rifts and dimensions in space. Valve has given the brand-new PlayStation port its coveted seal of approval, leaving owners of the handheld having nothing to worry about. As stated in the<a href=\"https://www.pcgamesn.com/ratchet-and-clank-rift-apart/system-requirements\"> Ratchet and Clank Rift Apart system requirements</a>, you will need 75GB storage space before you take on the evil Dr. Nefarious. Check out our guide to the <a href=\"https://www.pcgamesn.com/best-microsd-card-for-steam-deck\">best microSD card for Steam Deck</a> if you're sporting the 64GB model and need that little extra bit of space. <a href=\"https://www.pcgamesn.com/ratchet-and-clank-rift-apart/steam-deck\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/baldurs-gate-3/steam-deck\">Is Baldur's Gate 3 Steam Deck compatible?</a> <a href=\"https://www.pcgamesn.com/best-steam-deck-games\">Best Steam Deck games 2023</a> <a href=\"https://www.pcgamesn.com/nvidia/rtx-4000-gpu-production\">Nvidia allegedly halts RTX 40 series GPU production</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1690997127,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1895880
+            },
+            {
+                "gid": "6079346804890406174",
+                "title": "Ratchet and Clank Rift Apart system requirements",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/6079346804890406174",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "<strong>What are the Ratchet and Clank: Rift Apart system requirements? </strong>The PlayStation 5 console exclusive has finally arrived on PC, and we now know what hardware we'll need to join the titular lombax and robotic sidekick on their latest adventure. Surprisingly, you won't need an SSD after all. <a href=\"https://www.pcgamesn.com/ratchet-and-clank-rift-apart/system-requirements\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/baldurs-gate-3/steam-deck\">Is Baldur's Gate 3 Steam Deck compatible?</a> <a href=\"https://www.pcgamesn.com/best-steam-deck-games\">Best Steam Deck games 2023</a> <a href=\"https://www.pcgamesn.com/nvidia/rtx-4000-gpu-production\">Nvidia allegedly halts RTX 40 series GPU production</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1690995751,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1895880
+            },
+            {
+                "gid": "6079346804889895832",
+                "title": "Ratchet & Clank: Rift Apart PC specs and new features revealed",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/6079346804889895832",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Next week, Ratchet & Clank: Rift Apart is launching on PC! Many of you have asked for details about the technologies used and system requirements. Today we are answering those questions, and on top of that, we have some exciting new feature announcements. To ensure a smooth dimension-hopping experience, our team implemented DirectStorage 1.2 in Ratchet & Clank: Rift Apart on PC, including GPU decompression. Richard van der Laan, Senior Lead Programmer at Nixxes Software, explains: \u201cTo enable quick loading and instant transition between dimensions, the game needs to be able to load assets quickly. DirectStorage ensures quick loading times, and GPU decompression is used at high graphics settings to stream assets in the background while playing. Traditionally, this decompression is handled by the CPU, but at a certain point, there is an advantage to letting the GPU handle this, as this enables a higher bandwidth for streaming assets from storage to the graphics card. We use this to quickly load high-quality textures and environments with a high level of detail.\u201d {STEAM_CLAN_IMAGE}/44183032/06d4c02ff8cccec9379519481f4df699fa88e991.jpg Principal Programmer Alex Bartholomeus: \u201cFor Ratchet & Clank: Rift Apart on PC, we added adaptive streaming based on live measurement of the available hardware bandwidth. This allows us to tailor the texture streaming strategy for the best possible texture streaming on any configuration. With DirectStorage, the use of a fast NVMe SSD and GPU decompression, this results in very responsive texture streaming even at the highest settings.\u201d DirectStorage is developed to fully utilize the speed of fast PCIe NVMe SSDs, but the technology is also compatible with SATA SSDs and even traditional hard disk drives. This means Ratchet & Clank: Rift Apart on PC can use the same technology for loading data, regardless of the storage device in your system. Ray-Traced Ambient Occlusion and XeGTAO In our initial announcement, we shared that Ratchet & Clank: Rift Apart on PC will feature ray-traced reflections and newly added ray-traced shadows for natural outdoor light. Today we can reveal the addition of another option that will further enhance the realism of light in the game: Ray-Traced Ambient Occlusion, with various quality levels to choose from. Graphics Programmer Menno Bil explains: \u201cAmbient occlusion is a technique used in games to simulate how ambient lighting affects a scene. Ambient lighting is a form of indirect lighting: the light reflected from other surfaces. This effect mostly appears at creases, cracks, and corners where surfaces are close to each other. Commonly used AO techniques are SSAO (Screen Space Ambient Occlusion) and HBAO+ (Horizon-Based Ambient Occlusion). These are not very demanding on the hardware, but they do not provide physically accurate results. RTAO utilizes ray tracing further to enhance the realism of ambient occlusion in the game. We have implemented RTAO as an addition for those with high-end systems with ray-tracing compatible hardware and processing power to spare.\u201d Menno and the team also implemented XeGTAO, Intel\u2019s implementation of Ground-Truth Ambient Occlusion. Like SSAO and HBAO+, this solution is based on screen space. Therefore, this technique does not enable the level of realism that RTAO does, but the performance cost is much lower and comparable to that of the HBAO+ implementation. XeGTAO is selectable as an option in the game and works with graphics cards from all vendors. \u201cXeGTAO generates a very high-resolution ambient occlusion that shows even the smallest details in geometry,\u201d says Bil. \u201cOverall, the output quality of XeGTAO is very high and results in a pleasant look.\u201d System Requirements Now that we have detailed all the features of Ratchet & Clank: Rift Apart for PC, it is time to tell you more about the system requirements. When making a PC version of a game, we put a lot of work into scalability. Additions like ray-traced shadows, ray-traced ambient occlusion, and triple-screen support are aimed at those with the latest and greatest hardware so they can push their systems. With highly customizable graphics and features, we make the game scale to less powerful systems to make it accessible for as many gamers as possible. Below is an overview of the recommended specifications for a variety of graphical presets. {STEAM_CLAN_IMAGE}/44183032/f3221cac1a16a446f1dea9bfdb81822a95e36d91.jpg While Ratchet & Clank: Rift Apart can be enjoyed using an HDD and the minimum system requirements, we encourage players to use an SSD in combination with the recommended system requirements or higher, to experience the game\u2019s signature dimension-hopping gameplay as originally intended. Details regarding ray-tracing support for AMD GPUs coming soon",
+                "feedlabel": "Community Announcements",
+                "date": 1689687387,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1895880
+            },
+            {
+                "gid": "5151601211223017158",
+                "title": "Ratchet & Clank: Rift Apart - PC-Release des intergalaktischen Abenteuers best\u00e4tigt",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/pressakey.com/5151601211223017158",
+                "is_external_url": true,
+                "author": "Darius Kubisch",
+                "contents": "Erlebe die Weiterentwicklung des Dream-Teams, denn es bekommt Unterst\u00fctzung durch Rivet \u2013 eine Lombax-Widerstandsk\u00e4mpferin aus einer anderen Dimension. <b>\u00bb <a href=\"https://pressakey.blog/128569\">Komplette News auf pressakey.com lesen</a></b> <b>\u00bb <a href=\"https://pressakey.com/gameinfos,6770,,,,Ratchet-Clank-Rift-Apart,.html\">Ratchet & Clank: Rift Apart</a></b> auf pressakey.com ",
+                "feedlabel": "pressakey.com",
+                "date": 1685540161,
+                "feedname": "pressakey.com",
+                "feed_type": 0,
+                "appid": 1895880
+            },
+            {
+                "gid": "5151600576607073445",
+                "title": "Ratchet and Clank Rift Apart is coming to PC real soon",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5151600576607073445",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "A <strong>Ratchet and Clank Rift Apart </strong>PC port is on the way to Steam and the Epic Games Store, as one of the PS5's best games is the next PlayStation classic to get the port treatment. As a massive fan of classic <a href=\"https://www.pcgamesn.com/best-platform-games\">platform games</a> like Spyro, Crash Bandicoot, and Jak and Daxter, to say the surprise announcement of <a href=\"https://www.pcgamesn.com/ratchet-and-clank-rift-apart\">Ratch and Clank Rift Apart</a> put a smile on my face would be an understatement. <a href=\"https://www.pcgamesn.com/ratchet-and-clank-rift-apart/pc-release-date\">Read the rest of the story...</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1685470885,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1895880
+            }
+        ],
+        "count": 10
+    }
+}

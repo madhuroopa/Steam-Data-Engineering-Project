@@ -1,0 +1,180 @@
+{
+    "appnews": {
+        "appid": 1675200,
+        "newsitems": [
+            {
+                "gid": "5124585319850451110",
+                "title": "Steam Deck Beta Client Update: August 3rd",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124585319850451110",
+                "is_external_url": true,
+                "author": "TomB (Valve)",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: General Fixed issue where the virtual keyboard was not showing when requested by the game in game mode Steam Input Fixed LED and Rumble for PS4 controllers connected via Bluetooth ",
+                "feedlabel": "Community Announcements",
+                "date": 1691098139,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5124584686265380478",
+                "title": "Steam Deck Client Update: August 1st",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584686265380478",
+                "is_external_url": true,
+                "author": "mikela",
+                "contents": "We have just shipped an updated Steam Deck Client to the Stable (default) channel. Note: This update was re-released to fix the following issues: Fixed issue where the virtual keyboard was not showing when requested by the game in game mode Fixed LED and Rumble for PS4 controllers connected via Bluetooth General Improved library performance for users with large numbers of collections. Fixed a hitch that some players with large libraries might encounter every 15 minutes while playing a game. Fixed presentation and localization of items in the Special Offers section. Fixed notifications for achievements not firing when offline. Fixed a case where the wrong FPS limit could be applied on startup. Fixed a case where the controller input thread could operate at normal instead of high scheduling priority. Fixed styling on the login error screen and made the retry button accessible to the gamepad. Library Added the ability to sort by date added to library to shelves and game grids. Steam Input Added the ability to copy and paste mappings when setting up controller inputs. Improved navigation in the configurator when navigating from the Preview screen. Repeatedly going to Preview then an input will no longer build up loops in the back stack and you can now go back with a single B button press if you've not interacted with the left column. Fixed some cases where navigation changes from the previous beta could result in a blank page in the configurator. Fixed changing effects on PS4 and PS5 controllers when Steam Input is not enabled. Desktop Mode Added In-Game setting to allow enabling or disabling display scaling in the overlay. Changed behavior of overlay tabbed browser to clear all tabs when the close button is clicked and added a minimize button to hide the browser as the close button previously did. Fixed wallet balance not updating in title bar when balance hits zero. Fixed incorrect display of \"Notify me about additions or changes to my games...\" setting in interface settings if it had never been changed before. Fixed a case where the UI would show the wrong image when switching between small mode and normal mode. Fixed main client window taking focus from other Steam windows when navigation menus are hovered. Developer console Added a setting to display timestamps in the Steam console window. Changed Steam console window to keep the last several seconds of output even if that would exceed the normal buffer length. Fixed command echo sometimes appearing on the same line as the previous output. Fixed clear_console command not doing anything. ",
+                "feedlabel": "Community Announcements",
+                "date": 1690921248,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "stablechannel",
+                    "mod_reviewed",
+                    "ModAct_441547739_1690921369_0",
+                    "ModAct_441547739_1690923381_4",
+                    "ModAct_1400956464_1691001686_4",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5124585319843259504",
+                "title": "Steam Global Top Sellers for week of 25 Jul \u2014 1 August 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5124585319843259504",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1282100/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Remnant II</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/381210/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Dead by Daylight</a>; * <a href=\"https://steamdb.info/app/1895880/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Ratchet & Clank: Rift Apart</a>; * <a href=\"https://steamdb.info/app/671860/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">BattleBit Remastered</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/271590/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Grand Theft Auto V</a>; * <a href=\"https://steamdb.info/app/359550/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Tom Clancy's Rainbow Six\u00ae Siege</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W31/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1690905600,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 271590
+            },
+            {
+                "gid": "5124584686251234597",
+                "title": "Steam Deck Beta Client Update: July 28th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584686251234597",
+                "is_external_url": true,
+                "author": "philipla",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: General Improved library performance for users with large numbers of collections. Desktop Mode Fixed wallet balance not updating in title bar when balance hits zero. Fixed incorrect display of \"Notify me about additions or changes to my games...\" setting in interface settings if it had never been changed before. Fixed a case where the UI would show the wrong image when switching between small mode and normal mode ",
+                "feedlabel": "Community Announcements",
+                "date": 1690585863,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5124584686244593169",
+                "title": "Steam Deck Beta Client Update: July 26th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584686244593169",
+                "is_external_url": true,
+                "author": "austinp_valve",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: General Fixed notifications for achievements not firing when offline Desktop Mode Fixed main client window taking focus from other Steam windows when navigation menus are hovered. Steam Input Fixed some cases where navigation changes from the previous beta could result in a blank page in the configurator",
+                "feedlabel": "Community Announcements",
+                "date": 1690428458,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5124584686240162768",
+                "title": "Steam Global Top Sellers for week of 18 Jul \u2014 25 July 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5124584686240162768",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1282100/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Remnant II</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/671860/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">BattleBit Remastered</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae: Modern Warfare\u00ae II</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/271590/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Grand Theft Auto V</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/1868140/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">DAVE THE DIVER</a>; * <a href=\"https://steamdb.info/app/1364780/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Street Fighter\u2122 6</a>; * <a href=\"https://steamdb.info/app/252490/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Rust</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W30/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1690300800,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 252490
+            },
+            {
+                "gid": "5124584051986671486",
+                "title": "Steam Deck Beta Client Update: July 24th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584051986671486",
+                "is_external_url": true,
+                "author": "austinp_valve",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Steam Input Improved navigation in the configurator when navigating from the Preview screen. Repeatedly going to Preview then an input will no longer build up loops in the back stack and you can now go back with a single B button press if you've not interacted with the left column. Fixed detecting controllers using the Xbox Enhanced Feature Support driver Fixed changing effects on PS4 and PS5 controllers when Steam Input is not enabled ",
+                "feedlabel": "Community Announcements",
+                "date": 1690258809,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5124584051975145639",
+                "title": "Steam Deck Beta Client Update: July 21st",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584051975145639",
+                "is_external_url": true,
+                "author": "mikela",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Desktop Mode Added In-Game setting to allow enabling or disabling display scaling in the overlay. Changed behavior of overlay tabbed browser to clear all tabs when the close button is clicked and added a minimize button to hide the browser as the close button previously did. ",
+                "feedlabel": "Community Announcements",
+                "date": 1689985562,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5124584051967949463",
+                "title": "Steam Deck Beta Client Update: July 19th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584051967949463",
+                "is_external_url": true,
+                "author": "philipla",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: General Fixed a hitch that some players with large libraries might encounter every 15 minutes while playing a game Fixed presentation and localization of items in the Special Offers section. Steam Input Added the ability to copy and paste mappings when setting up controller inputs ",
+                "feedlabel": "Community Announcements",
+                "date": 1689815001,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5124584051964263848",
+                "title": "Steam Deck Beta Client Update: July 18th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584051964263848",
+                "is_external_url": true,
+                "author": "philipla",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. General Fixed a case where the wrong FPS limit could be applied on startup. Fixed a case where the controller input thread could operate at normal instead of high scheduling priority. Fixed styling on the login error screen and made the retry button accessible to the gamepad. Library Added the ability to sort by date added to library to shelves and game grids. Developer console Added a setting to display timestamps in the Steam console window. Changed Steam console window to keep the last several seconds of output even if that would exceed the normal buffer length. Fixed command echo sometimes appearing on the same line as the previous output. Fixed clear_console command not doing anything. ",
+                "feedlabel": "Community Announcements",
+                "date": 1689727633,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes"
+                ]
+            }
+        ],
+        "count": 290
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "appnews": {
+        "appid": 1675200,
+        "newsitems": [
+            {
+                "gid": "5219165352625164632",
+                "title": "Steam Deck Beta Client Update: September 21st",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5219165352625164632",
+                "is_external_url": true,
+                "author": "austinp_valve",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Steam Input Fix default orientation for Steam Deck and Steam Link Mobile App controllers in the new Gyro To Mouse mode ",
+                "feedlabel": "Community Announcements",
+                "date": 1695335642,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel",
+                    "mod_reviewed",
+                    "ModAct_487791598_1695336000_0",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5219165352617862119",
+                "title": "Steam Global Top Sellers for week of 12 Sep \u2014 19 September 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5219165352617862119",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W38/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1716740/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Starfield</a>; * <a href=\"https://steamdb.info/app/1971870/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Mortal Kombat 1</a>; * <a href=\"https://steamdb.info/app/1272080/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">PAYDAY 3</a>; * <a href=\"https://steamdb.info/app/1627720/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Lies of P</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/1091500/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Cyberpunk 2077</a>; * <a href=\"https://steamdb.info/app/1426210/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">It Takes Two</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W38/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1695139200,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 1086940
+            },
+            {
+                "gid": "5480373588799092616",
+                "title": "Steam Deck Beta Client Update: September 18th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5480373588799092616",
+                "is_external_url": true,
+                "author": "austinp_valve",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Steam Input New Gyro Mode: \"Gyro To Mouse\". This is a renovation of the gyro \"As Mouse\" mode. Expect frequent changes to UI and behavior while we evaluate this new replacement. (\"As Mouse\" will remain for now.) Natural Sensitivity Scale: use \"Pixels Per 360\u00b0\" to calibrate both the Flick Stick and Gyro's real world angles into in-game angles. In this way, your Gyro Natural Sensitivity Multiplier can be consistent across games, with \"Pixels Per 360\u00b0\" being the isolated tuning value for each game. 1\u20ac Filter: Smoothed low level gyro noise without adding delay. Speed Deadzones and Precision Zones will allow you to tune preferences for hand shake during fine aim. Yaw vs. Roll Blend: you can now blend between \"Yaw\" or \"Roll\" mode. Gyro Momentum Option: releasing your gyro activation button can maintain some rotation from the gyro. Tune the momentum on independent axes to bias toward horizontal movement vs vertical movement. Gyro sensor timestamps are now used resulting in better overall accuracy of the Gyro. Gyro over Bluetooth improvements - gyro motion is extrapolated when Bluetooth packets are delayed, resulting in smoother movement. Any error incurred is corrected gradually over time, during high speed movement to avoid \"Ouija effect\" during precise aiming. Fixed Roll axis on Steam Deck for legacy \"As Mouse\". Fix delayed input when opening the standalone On-Screen Keyboard Fix for Razer Wolverine V2 Pro Dualsense gyro. ",
+                "feedlabel": "Community Announcements",
+                "date": 1695088345,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5480373588787568338",
+                "title": "Steam Deck OS 3.5 Preview",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5480373588787568338",
+                "is_external_url": true,
+                "author": "Lawrence",
+                "contents": "SteamOS 3.5 has just been released to the Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. {STEAM_CLAN_IMAGE}/40893422/153601c5c91a04215f69ad3ad6074c22c86d480a.png Display The default color rendering for Steam Deck has been adjusted to emulate the sRGB color gamut, resulting in a slightly warmer and more vibrant color appearance. Added Settings -> Adjust Display Colors, to tune the display's Color Vibrancy and Color Temperature. The settings can be tuned with a preview of a test image (above), or with your running game. Native: The native display color appearance (the color rendering for Steam Deck prior to this update). sRGB: Emulate the sRGB primaries, in a smooth manner that does not introduce gradient clipping. Boosted: Emulate a wider-gamut display appearance, resulting in increased apparent vibrance. May result in gradient clipping. HDR can now be enabled in Display Settings if supported by the external display. VRR can now be enabled in Display Settings if supported by the USB-C adapter. Reworked Quick-Access scaling settings to separate scaling from filtering. Added Stretch and Zoom scaling as new options to handle different aspect ratios. Fixed touchscreen orientation while external display is connected. Compositing is now avoided in additional scenarios, reducing latency and stutter in situation with multiple overlays on screen. Improved latency in certain situations where the application renders slower than the display's refresh rate. General Fixed an issue where certain workloads would exhibit severe CPU performance issues unless SMT was manually disabled. External storage devices are now auto-mounted when connected to Steam Deck. To format or manage storage devices use the new device management interface in Settings->Storage. Updated graphics drivers, with many performance and functionality improvements. Improved performance for Starfield. Fixed viewmodel corruption in Amnesia: The Bunker and launch failures for Immortals of Aveum and Kaiju-A-GoGo. Improved Bluetooth connection stability, especially with multiple controllers Slightly improved sleep resume speed Implemented switching between controller bindings and mouse/keyboard desktop bindings by long-pressing Options in the Linux hid-steam driver, to match Steam's default Desktop configuration. Improved fade transitions between applications. The contents of the performance overlay can now be customized by creating a ~/.config/MangoHud/presets.conf configuration file. Fixed a bug where some games could appear stretched if their window size didn't match their swapchain size (eg. Naruto Shippuden Ultimate Ninja Storm 4) Fixed Disgaea PC needing to be tapped on before input works Fixed physical dimensions reported to games, fixing some issues with an incorrect aspect ratio sometimes being detected (eg. Returnal) Worked around a problem where Allow Tearing could cause heavy stuttering if the Performance Overlay or other overlays appeared on screen. Tearing is now impossible in such situations, and the Performance Overlay should be disabled for best results. Fixed a problem where keyboard input would not be detected in Overwatch 2 Controller firmware: fixed an issue where some thumbstick touch sensors would lose touch periodically Firmware 116 Added voltage offset settings. Improved robustness of the Firmware Settings Reset chord (Volume Down + Quick-Access + Power) against some boot hang scenarios. Fixed a rare issue that would set the processor TDP limit too low causing CPU and GPU frequencies to be stuck at 400 MHz and 200 MHz respectively. Fixed an issue when the charging light would turn back on when plugged in for a while after fully charged. Updated Arch Linux base This update pulls in newer performance, security and stability fixes for the underlying packages that are the foundation for SteamOS Most notably, this includes recent changes to KDE Plasma, Steam Deck's Desktop Mode. Full notes on these updates can be found on KDE's website here. Here are a few of the highlights: New window tiling system Updated Discover (app store / software manager) with a new homepage and improved search Discover can now perform system updates from the desktop Updated desktop widgets ",
+                "feedlabel": "Community Announcements",
+                "date": 1694815115,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "mod_reviewed",
+                    "ModAct_487791598_1694816988_0",
+                    "ModAct_487791598_1694820771_4",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5480373588787355572",
+                "title": "Steam Deck Beta Client Update: September 15th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5480373588787355572",
+                "is_external_url": true,
+                "author": "lostgoat",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: General Display shader cache disk usage information under Settings->Storage Remote Play Fixed rare case of the connection hanging when starting to stream Added support for low latency networking option on Steam Link Use fixed bitrate in automatic bandwidth mode to improve picture quality Steam Input Restored ability to rename controllers in the Options->Controller menu. ",
+                "feedlabel": "Community Announcements",
+                "date": 1694810069,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5159491482928418124",
+                "title": "Steam Deck Client Update: September 12th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482928418124",
+                "is_external_url": true,
+                "author": "lostgoat",
+                "contents": "We have just shipped an updated Steam Deck Client to the Stable (default) channel. General Fixed a failure to recognize the microSD card after a system reboot. ",
+                "feedlabel": "Community Announcements",
+                "date": 1694554434,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "stablechannel"
+                ]
+            },
+            {
+                "gid": "5159491482928225563",
+                "title": "Steam Deck Beta Client Update: September 12th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482928225563",
+                "is_external_url": true,
+                "author": "lostgoat",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: General Fixed a failure to recognize the microSD card after a system reboot. ",
+                "feedlabel": "Community Announcements",
+                "date": 1694549871,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5211283418275406722",
+                "title": "Steam Global Top Sellers for week of 5 Sep \u2014 12 September 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5211283418275406722",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W37/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/1716740/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Starfield</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/2338770/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">NBA 2K24</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/1888160/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">ARMORED CORE\u2122 VI FIRES OF RUBICON\u2122</a>; * <a href=\"https://steamdb.info/app/1272080/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">PAYDAY 3</a>; * <a href=\"https://steamdb.info/app/271590/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Grand Theft Auto V</a>; * <a href=\"https://steamdb.info/app/1237970/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Titanfall\u00ae 2</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W37/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1694534400,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 271590
+            },
+            {
+                "gid": "5159491482924943282",
+                "title": "Steam Deck Client Update: September 11th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482924943282",
+                "is_external_url": true,
+                "author": "austinp_valve",
+                "contents": "We have just shipped an updated Steam Deck Client to the Stable (default) channel. General Added support for Indonesian language. Fixed the \"Processing Shaders\" dialog flashing when launching a game. Fixed manual GPU clocks not getting applied when launching a game. Fixed screenshot notifications not showing up when a screenshot is taken. Fixed empty folders not being re-created when verifying a game installation. Fixed a case where a Library Folder could be forgotten when a drive was unplugged from the system. Fixed a case where non-steam games could disappear from the library. Fixed issue where some steam:// protocol handlers were not handled correctly due to case sensitivity. Example: steam://url/communityfilepage/ was not working correctly. Fixed issue with steam://connect/ : / was not handled. Fixed a case where the System Report upload process would proclaim success even though the operation failed. Added a \"Save To Desktop\" option to the System Report dialog. Fixed issue where the virtual keyboard was not showing when requested by the game in game mode. Fixed a case where the user would be prompted to install an OS update for a second time after switching between game mode and desktop mode. Steam Input Fixed touchpad input when using the Victrix and Qanba PS4/PS5 arcade sticks Reduced lag when switching between pages in the \"Edit Layout\" view for configurations with large numbers of action sets/layers/mode-shifts Fixed the DualSense firmware update dialog from popping up when the controller was connected over Bluetooth and already up to date Added the ability to bind Steam Input API trigger actions to button inputs. Steam Cloud Fixed a case where Steam Cloud saves could be synced to a computer that did not have the game installed if the game was available for streaming from another PC. Remote Play Fixed controller buttons being stuck down. Added support for 4K high quality streaming presets. Fixed occasional crash directly launching a game from the Steam Link UI. Fixed device authorization dialog not showing if Steam Link connects while Steam is starting up. Library Fixed some screenshot thumbnails on the activity feed not being properly obscured when marked as spoiler. Desktop Mode Allow the settings window to be resized. Improved reliability of Back button. Adjusted the low battery notification for laptops/handheld PCs to only fire in the overlay or the main BPM window. Fixed windows being able to set minimum sizes larger than their display dimensions. Fixed clicking \"Play Game\" links in event news causing client popup windows to close. steamwebhelper support dialog is now shown if the main client window cannot be created at startup. Fixed switching from fullscreen to windowed mode when a full-screen video is dismissed. Fixed notifications stealing focus when shown in overlay. Fixed overlay freezing when a file dialog is shown. The overlay tabbed browser will now wait until the overlay has been activated for the first time before restoring saved tabs. Added an option to In Game settings that allows toggling whether overlay browser tabs will be restored when starting a game. Fixed a bug which could cause a server browser query to stop prematurely without pinging all of the servers. ",
+                "feedlabel": "Community Announcements",
+                "date": 1694472085,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "stablechannel"
+                ]
+            },
+            {
+                "gid": "5159491482924313047",
+                "title": "Steam Deck Beta Client Update: September 11th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5159491482924313047",
+                "is_external_url": true,
+                "author": "slouken",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Desktop Mode Fixed a case where settings dialogs would appear when closing Big Picture mode. Remote Play Fixed video never appearing while streaming on macOS Steam Input Fixed rare case of newer inputs clobbering existing reports in flight ",
+                "feedlabel": "Community Announcements",
+                "date": 1694457141,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel",
+                    "mod_reviewed",
+                    "ModAct_1428002267_1694457931_0",
+                    "mod_require_rereview"
+                ]
+            }
+        ],
+        "count": 314
+    }
+}

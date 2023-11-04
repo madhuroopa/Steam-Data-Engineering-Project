@@ -1,0 +1,147 @@
+{
+    "appnews": {
+        "appid": 730,
+        "newsitems": [
+            {
+                "gid": "5124585319856678579",
+                "title": "Mountaintop Studios reveals playtest for CSGO and Valorant rival FPS",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/The Loadout/5124585319856678579",
+                "is_external_url": true,
+                "author": "editor@theloadout.com",
+                "contents": "There are heaps of shooters to sink hours into these days, many of them often in the conversation for the <a href=\"https://www.theloadout.com/best-fps-games\">best FPS games</a> ever made. Stepping up to tackle the likes of <strong><a href=\"https://www.theloadout.com/csgo\">Counter-Strike Global Offensive</a></strong> and <strong><a href=\"https://www.theloadout.com/valorant\">Valorant</a></strong>, developer <strong>Mountaintop Studios</strong> announces a fresh PvP tactical shooter that aims to evolve the genre onto fresh ground. <a href=\"https://www.theloadout.com/csgo/rival-fps-game-mountaintop-studios\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.theloadout.com/csgo/s1mple-settings\">s1mple settings, crosshair, and config for CS:GO</a> <a href=\"https://www.theloadout.com/best-competitive-fps-games\">The 10 best competitive FPS games August 2023</a> <a href=\"https://www.theloadout.com/csgo/crosshair-settings\">The best CS:GO crosshairs</a> ",
+                "feedlabel": "The Loadout",
+                "date": 1691245592,
+                "feedname": "The Loadout",
+                "feed_type": 0,
+                "appid": 730
+            },
+            {
+                "gid": "5124585319850711670",
+                "title": "Release Notes for 8/3/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124585319850711670",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Anubis Improved movement clipping map-wide Adjustments to collision around pillars Plugged holes in world geometry Fixed issues with weapon and bomb clipping through world geometry Ancient Improved water clarity at T spawn Adjustments to jumpable locations Adjustments to collision around corners Various adjustments to lighting Fixed an issue with round restart in the middle of weapon reloading Fixed a case where incendiary grenades fail to detonate in water Ragdoll limbs splash when they hit water ",
+                "feedlabel": "Community Announcements",
+                "date": 1691104317,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5124585319850610422",
+                "title": "Counter-Strike 2 update adds beloved map, but removes iconic game mode",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5124585319850610422",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "<strong>Counter-Strike 2</strong> is one of the most exciting <a class=\"text_link\" href=\"https://www.pcgamesn.com/15-best-pc-first-person-shooters\" target=\"_blank\" rel=\"noopener noreferrer\">FPS games</a> yet to release, and Valve has kept the hype going with its limited playtest. The team behind Steam has been hard at work improving <a href=\"https://www.pcgamesn.com/counter-strike-2\">Counter-Strike 2</a> with regular updates and additions, testing how different game modes and maps work within the most recent build. The developers added some popular reworked maps like Overpass and Vertigo recently, but it looks like the time to test other features has come. CS2 has now removed such maps as well as the 2v2 Wingman game mode, implementing other overhauled areas instead. <a href=\"https://www.pcgamesn.com/counter-strike-2/update\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/counter-strike-global-offensive/csgo-twitch-gambling\">CSGO gambling sponsorships banned by Twitch, as Valve also cracks down</a> <a href=\"https://www.pcgamesn.com/counter-strike-2/maps\">All Counter-Strike 2 maps confirmed so far</a> <a href=\"https://www.pcgamesn.com/counter-strike-2/release-date\">Counter-Strike 2 release date window, skins, trailers, leaks</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1691098350,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 730
+            },
+            {
+                "gid": "5124585319850185072",
+                "title": "Valve resets the rules on pro CS:GO tournaments: 'we've seen professional Counter-Strike drift away' from its ideals",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/5124585319850185072",
+                "is_external_url": true,
+                "author": "Andy Chalk",
+                "contents": "fter years of taking a hands-off approach to the pro CS:GO scene, Valve has very suddenly announced <a href=\"https://www.counter-strike.net/newsentry/3677802763035982969\" target=\"_blank\">major changes</a> to the rules governing tournament organizers that it says will help ensure that ability, and not money, determine which teams rise to the top of competitive events... <a href=\"https://www.pcgamer.com/valve-resets-the-rules-on-pro-csgo-tournaments-weve-seen-professional-counter-strike-drift-away-from-its-ideals?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1691091231,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 730
+            },
+            {
+                "gid": "5124585319849773926",
+                "title": "A Level Playing Field",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124585319849773926",
+                "is_external_url": true,
+                "author": "\u2620",
+                "contents": "Counter-Strike is at its best when teams compete on a level playing field and when ability is the only limit to their success. Over the past few years, we\u2019ve seen professional Counter-Strike drift away from that ideal. The ecosystem has become gradually less open, with access to the highest levels of competition increasingly gated by business relationships. We think that Counter-Strike should be an open sport. So we\u2019re going to add new requirements to running large-scale competitive events. The finer details are still in progress, but here are the broad strokes: Tournament organizers will no longer have unique business relationships or other conflicts of interest with teams that participate in their events. Invitations to all tournaments will use our ranking system (detailed here), or otherwise be determined by open qualifiers. Any compensation for participating teams\u2014prize pool or otherwise\u2014will be made public and will be driven by objective criteria that can be inspected by the community. Since tournament organizers have existing long term commitments, these requirements will take effect as of 2025. There will be some rough edges to the transition, but we\u2019re committed to the long-term health of Counter-Strike as a sport and are looking forward to its bright and open future. ",
+                "feedlabel": "Community Announcements",
+                "date": 1691082090,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730
+            },
+            {
+                "gid": "5124585319849703255",
+                "title": "Twitch bans 'promotion or sponsorship' of CS:GO skin gambling",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/5124585319849703255",
+                "is_external_url": true,
+                "author": "Rich Stanton",
+                "contents": "Late last year Twitch began to take the issue of gambling streams on its platform seriously, issuing <a href=\"https://safety.twitch.tv/s/article/Prohibiting-Unsafe-Slots-Roulette-and-Dice-Gambling-Sites?language=en_US\" target=\"_blank\"> new guidelines </a> that prohibited such content and triggering an exodus of content creators that gambled on-stream. This saw major figures such as xQc, a hugely popular Canadian streamer who often gambles big money and <a href=\"https://www.pcgamer.com/xqc-pops-off-on-gambling-criticsget-a-grip-of-your-own-life-before-fixing-mine/\" target=\"_blank\"> admits he has a problem </a>, move over to Twitch rival Kick, which allows gambling (though <a href=\"https://www.pcgamer.com/xqc-scores-unbelievable-dollar100-million-deal-to-start-streaming-on-kick/\" target=\"_blank\"> the $100 million definitely helped </a>)... <a href=\"https://www.pcgamer.com/twitch-bans-promotion-or-sponsorship-of-csgo-skin-gambling?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1691080208,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 730
+            },
+            {
+                "gid": "5124585319849333640",
+                "title": "CSGO gambling sponsorships banned by Twitch, as Valve also cracks down",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5124585319849333640",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "<strong>CSGO</strong> gambling promotions and sponsorships are now prohibited on Twitch, as the streaming platform publishes revised rules relating to the Valve <a href=\"https://www.pcgamesn.com/15-best-pc-first-person-shooters\" target=\"_blank\" rel=\"noopener noreferrer\">FPS game</a>. According to the new regulations, <a href=\"https://www.pcgamesn.com/counter-strike-global-offensive\" target=\"_blank\" rel=\"noopener noreferrer\">CSGO</a> streamers who may be sponsored by skin gambling sites will no longer be allowed to promote those sites during their Twitch broadcasts. The rules come as Valve alters the Steam regulations regarding CSGO gambling, ahead of the <a href=\"https://www.pcgamesn.com/counter-strike-2/release-date\" target=\"_blank\" rel=\"noopener noreferrer\">Counter-Strike 2 release date</a>. <a href=\"https://www.pcgamesn.com/counter-strike-global-offensive/csgo-twitch-gambling\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/counter-strike-2/maps\">All Counter-Strike 2 maps confirmed so far</a> <a href=\"https://www.pcgamesn.com/counter-strike-2/release-date\">Counter-Strike 2 release date window, skins, trailers, leaks</a> <a href=\"https://www.pcgamesn.com/counter-strike-2/water\">CS2 Overpass overhaul leaves us reflecting on its stunning new water</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1691071568,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 730
+            },
+            {
+                "gid": "5124585319846885283",
+                "title": "Release Notes for 8/2/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124585319846885283",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Disabled Wingman Added Anubis to Deathmatch, Casual, and Competitive game modes Added Ancient to Deathmatch and Casual game modes Removed Overpass and Vertigo Taught chickens how to swim Weapons splash when dropped in water Adjusted grenade/water interaction sounds Improved head animation when crouching while running Improved foot animation when quickly alternating between standing still and moving ",
+                "feedlabel": "Community Announcements",
+                "date": 1691013634,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5124584051989001754",
+                "title": "Release Notes for 7/25/2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5124584051989001754",
+                "is_external_url": true,
+                "author": "jo",
+                "contents": "Overpass Adjustments to jumpable locations Collision adjustments Various bug fixes and tweaks ",
+                "feedlabel": "Community Announcements",
+                "date": 1690314025,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 730,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5124584051987567924",
+                "title": "You can vote to get this massive song made with Counter Strike gunshots into CS:GO",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/5124584051987567924",
+                "is_external_url": true,
+                "author": "Jacob Ridley",
+                "contents": "You can take a handful of gunshot sounds from Counter Strike, remix them, and with enough skill make an absolutely banging tune. Throw on some simple lyrics, and you&apos;ve got Venjent&apos;s track &apos;Gun Shotta&apos;. Be warned, it&apos;s a big one... <a href=\"https://www.pcgamer.com/you-can-vote-to-get-this-massive-song-made-with-counter-strike-gunshots-into-csgo?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1690279447,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 730
+            }
+        ],
+        "count": 1464
+    }
+}
