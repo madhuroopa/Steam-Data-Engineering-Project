@@ -1,0 +1,12 @@
+{
+  "fileLocations": [
+    {
+      "URIPrefixes": ["https://steam-processing-madhu.s3.amazonaws.com//cleaned_data/weekly_data/counted_reviews/part-00000-329ca227-c5a7-473a-a77c-17a56f4d76db-c000.csv"]
+    }
+  ],
+  "globalUploadSettings": {
+    "format": "CSV",
+    "delimiter": ",",
+    "textqualifier": "'"
+  }
+}

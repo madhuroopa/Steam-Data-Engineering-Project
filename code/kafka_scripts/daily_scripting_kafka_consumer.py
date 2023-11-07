@@ -57,7 +57,8 @@ class MostPlayedGamesConsumer:
         df.to_csv(f'../../data/daily_data/most_played/{self.collection_date}_MostPlayed_Consumed.csv', index=False)
         #with self.s3.open("s3://steam-processing-madhu/raw_data/daily_data/most_played/{self.collection_date}_MostPlayed_Consumed.csv")
         path=f'../../data/daily_data/most_played/{self.collection_date}_MostPlayed_Consumed.csv'
-        s3_key ='/data/daily_data/test.csv'
+        #s3_key ='/data/daily_data/test.csv'
+        s3_key =f'/data/daily_data/most_played/{self.collection_date}_MostPlayed_Consumed.csv'
         self.s3.upload_file(path, self.BUCKET_NAME, s3_key)
         
       

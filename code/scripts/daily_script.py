@@ -2,6 +2,8 @@ from pyspark.sql import SparkSession
 from pyspark.sql.types import StructType, StructField, StringType, DateType, IntegerType
 from pyspark.sql.functions import regexp_replace, col
 import os
+import boto3
+
 
 class DailyScript:
     def __init__(self):
@@ -15,7 +17,8 @@ class DailyScript:
                         StructField("Collection Date", DateType(), True)
                     ])  # Define schema for our data using DDL
         self.FILE_DATE = None
-
+        self.s3 = boto3.client('s3')
+        self.BUCKET_NAME="steam-processing-madhu"
     def read_file(self):
         DAILY_DATA_PATH = r'../../data/daily_data/most_played/' 
         files = os.listdir(DAILY_DATA_PATH)
@@ -42,11 +45,25 @@ class DailyScript:
         # Sort by Peek Today
         self.free_to_play_sorted = free_to_play_df.orderBy("Peek Today")
         self.not_free_to_play_sorted = not_free_to_play_df.orderBy("Peek Today")   
+    def save_filtered_data_to_s3(self, df, s3_key):
+    # Save the DataFrame to S3 bucket
+        try:
+            df.write.mode("overwrite").option("header", "true").csv(s3_key)
+        except Exception as e:
+            print(e)
 
     def save_filtered_data(self):
         path_top_20 = r"../../cleaned_data/daily_data/top_20"
         path_top_free = r"../../cleaned_data/daily_data/top_free"
         path_top_not_free = r"../../cleaned_data/daily_data/top_not_free"
+        s3_key_top_20 = f's3a://{self.BUCKET_NAME}/cleaned_data/daily_data/top_20/'
+
+        s3_key_top_free = f's3a://{self.BUCKET_NAME}/cleaned_data/daily_data/top_free/'
+        s3_key_top_not_free = f's3a://{self.BUCKET_NAME}/cleaned_data/daily_data/top_not_free/'
+        self.save_filtered_data_to_s3(self.most_daily_played, s3_key_top_20)
+
+        self.save_filtered_data_to_s3(self.free_to_play_sorted, s3_key_top_free)
+        self.save_filtered_data_to_s3(self.not_free_to_play_sorted, s3_key_top_not_free)
 
         # Save the DataFrame as CSV
         self.most_daily_played.write.format("csv").mode("overwrite").option("header", "true").save(path_top_20)

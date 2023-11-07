@@ -2,6 +2,8 @@ from kafka import KafkaConsumer
 import pandas as pd
 from datetime import date
 import json
+import boto3
+from io import StringIO
 collection_data = date.today()
 
 consumer = KafkaConsumer(
@@ -16,7 +18,8 @@ consumer = KafkaConsumer(
     enable_auto_commit=True,
     auto_commit_interval_ms=5000,  
     )
-
+s3 = boto3.client('s3')
+BUCKET_NAME="steam-processing-madhu"
 i = 0
 for message in consumer:
     topic = message.topic
@@ -30,7 +33,11 @@ for message in consumer:
 
         df = pd.DataFrame(game_list, columns=['Rank', 'Game Name', 'Free to Play'])
         df.to_csv(f'../../data/weekly_data/top_sellers/{collection_data}_weekly_top_sellers.csv', index=False)
-    
+        path=f'../../data/weekly_data/top_sellers/{collection_data}_weekly_top_sellers.csv'
+        #s3_key ='/data/daily_data/test.csv'
+        s3_key =f'../../data/weekly_data/top_sellers/{collection_data}_weekly_top_sellers.csv'
+        s3.upload_file(path, BUCKET_NAME, s3_key)
+        
     elif topic == 'weekly_top_sellers_app_id':
         print(f"Received app ids")
         appid_list = []
@@ -38,7 +45,10 @@ for message in consumer:
             appid_list.append(rows)
         df = pd.DataFrame(appid_list, columns=['App ID'])
         df.to_csv(f'../../data/weekly_data/top_sellers/{collection_data}_weekly_top_sellers_appIds.csv', index=False)
-
+        path=f'../../data/weekly_data/top_sellers/{collection_data}_weekly_top_sellers_appIds.csv'
+        #s3_key ='/data/daily_data/test.csv'
+        s3_key =f'../../data/weekly_data/top_sellers/{collection_data}_weekly_top_sellers_appIds.csv'
+        s3.upload_file(path, BUCKET_NAME, s3_key)
     elif topic == 'weekly_reviews':
         print("Reviews received")
         review_list = []
@@ -46,12 +56,19 @@ for message in consumer:
             review_list.append(row)
         df = pd.DataFrame(review_list, columns=['App ID', 'Review', 'Voted Up'])
         df.to_csv(f'../../data/weekly_data/reviews/{collection_data}_weekly_reviews.csv', index=False)        
-
+        path=f'../../data/weekly_data/reviews/{collection_data}_weekly_reviews.csv'
+        #s3_key ='/data/daily_data/test.csv'
+        s3_key =f'../../data/weekly_data/reviews/{collection_data}_weekly_reviews.csv'
+        s3.upload_file(path, BUCKET_NAME, s3_key)
     elif topic == 'weekly_news':
         print("News received")
         with open(f'../../data/weekly_data/news/{collection_data}_news_{i}.json', 'w') as json_file:
             json.dump(json.loads(data), json_file, indent=4)
-            i += 1     
+            path=f'../../data/weekly_data/news/{collection_data}_news_{i}.json'
+            #s3_key ='/data/daily_data/test.csv'
+            s3_key =f'../../data/weekly_data/news/{collection_data}_news_{i}.json'
+            s3.upload_file(path, BUCKET_NAME, s3_key)
+            i += 1    
 
     elif topic == 'close_consumer':
         print("Closing consumer")
