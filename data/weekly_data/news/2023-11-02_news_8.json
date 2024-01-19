@@ -1,0 +1,144 @@
+{
+    "appnews": {
+        "appid": 1817190,
+        "newsitems": [
+            {
+                "gid": "5288974951200613628",
+                "title": "Steam Global Top Sellers for week of 24 Oct \u2014 31 October 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5288974951200613628",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/2399830/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">ARK: Survival Ascended</a>; * <a href=\"https://steamdb.info/app/949230/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Cities: Skylines II</a>; * <a href=\"https://steamdb.info/app/2195250/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">EA SPORTS FC\u2122 24</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/2322560/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Love Is All Around</a>; * <a href=\"https://steamdb.info/app/1817070/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man Remastered</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1817190/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man: Miles Morales</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1698768000,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 949230
+            },
+            {
+                "gid": "5229301621582830284",
+                "title": "Grab up to 40% off the Marvel's Spider-Man series in huge Steam sale",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5229301621582830284",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "Great news web-heads, You can currently grab up to 40% off Marvel's Spider-Man games over on Steam. Both <strong>Marvel's Spider-Man Remastered</strong> and Marvel's Spider-Man: Miles Morales are heavily discounted in the sale, so act fast if you've yet to swing into the series. <a href=\"https://www.pcgamesn.com/marvels-spider-man/sale\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/spider-man-pc\">The best games like Spider-Man Remastered on PC 2023</a> <a href=\"https://www.pcgamesn.com/marvels-spider-man/steam-sale\">Snag the fantastic Spider-Man games super cheap, if you're quick</a> <a href=\"https://www.pcgamesn.com/playstation-pc-ports-bloodborne\">PlayStation gives a PC port update but don't hope for Bloodborne</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1698429186,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1817070
+            },
+            {
+                "gid": "5218041989038830043",
+                "title": "Marvel\u2019s Spider-Man: Miles Morales v.2.1012.0.0 Patch Notes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989038830043",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Hey everyone, Today\u2019s update for Marvel\u2019s Spider-Man: Miles Morales contains various optimizations and fixes. We\u2019ve made CPU performance improvements for ray-tracing, and made performance and stability improvements for ray-tracing on AMD GPUs. Intel Xe Super Sampling has been updated to version 1.2, with support for dynamic resolution scaling. This update also tweaks the launcher interface to fit better on low resolutions or high DPI scaling screens. See the patch notes below for more details on changes in this update. Thanks everyone for playing and for sharing feedback that helped us to further improve the game! Patch Notes Corrected an issue with left stick diagonal controller input when Steam Input is not active. Adjusted the launcher to fit on screens with low resolutions or high DPI scaling settings. Updated Intel XeSS to version 1.2.0, with support for dynamic resolution scaling. Improvements to CPU performance for ray-tracing and crowd spawning. Performance and stability improvements for ray-tracing on AMD GPUs. Stability improvements for AMD RDNA 3 GPUs. Fixed an issue that caused heavy screen blur when using an upscaler on very low resolutions. Resolved a crash that could occur when changing resolution and dynamic resolution scaling at the same time in Display settings. If you experience any problems after updating to the latest version, please contact us using this link. As a workaround, you can revert to the previous version of the game. To do this, right-click on the game in Steam, select Properties, then Betas, and select Previous_Version from the drop-down menu. {STEAM_CLAN_IMAGE}/42987818/3c39d259b839e80bccd50e4e7a0d74a64cabbd5f.png",
+                "feedlabel": "Community Announcements",
+                "date": 1697623437,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1817190
+            },
+            {
+                "gid": "5896948309846749322",
+                "title": "Snag the fantastic Spider-Man games super cheap, if you're quick",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PCGamesN/5896948309846749322",
+                "is_external_url": true,
+                "author": "editor@pcgamesn.com",
+                "contents": "The <strong>Marvel's Spider-Man</strong> games are, for my money, the best Sony PlayStation exclusives on PC so far (although Ratchet & Clank does arrive in July). Topping the likes of God of War, Horizon, and The Last of Us, <a href=\"https://www.pcgamesn.com/marvels-spider-man-remastered\">Marvel's Spider-Man Remastered</a> and Miles Morales are two of the most fun <a href=\"https://www.pcgamesn.com/best-action-adventure-games\">action-adventure games</a> going and have excellent PC ports to match. Now thanks to a <a href=\"https://www.pcgamesn.com/steam/sale-next\">Steam sale</a>, you can get both games at their lowest price ever on the Valve storefront ahead of Spider-Man 2 - just make sure you swing into action fast (I couldn't help it). <a href=\"https://www.pcgamesn.com/marvels-spider-man/steam-sale\">Read the rest of the story...</a> RELATED LINKS: <a href=\"https://www.pcgamesn.com/playstation-pc-ports-bloodborne\">PlayStation gives a PC port update but don't hope for Bloodborne</a> <a href=\"https://www.pcgamesn.com/spider-man-pc\">The best games like Spider-Man Remastered on PC 2023</a> <a href=\"https://www.pcgamesn.com/marvels-spider-man-remastered/patch-nvidia-dlss-amd-fsr-sharpness\">Spider-Man Remastered patch improves DLSS, FSR, and fixes bugs</a> ",
+                "feedlabel": "PCGamesN",
+                "date": 1687008379,
+                "feedname": "PCGamesN",
+                "feed_type": 0,
+                "appid": 1817070
+            },
+            {
+                "gid": "5151601211225903570",
+                "title": "Marvel's Spider-Man: Miles Morales v2.516.0.0 Patch Notes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5151601211225903570",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Hey everyone, Today we are releasing an update for Marvel's Spider-Man: Miles Morales with improved Bluetooth support for Sony PlayStation DualShock and DualSense controllers. Adaptive trigger feedback on DualSense controllers is now available when using Steam Input. To use the full range of DualSense features, including the controller speaker and haptic feedback, a wired USB connection is required. This update also finetunes optimizations for some Intel CPUs and we have updated the game to use Intel Xe Super Sampling version 1.1. Thank you for all your feedback and contributions that helped us improve the game. Patch Notes Improved Bluetooth support for DualShock and DualSense controllers. DualSense adaptive trigger feedback is now available with Steam Input. Updated Intel XeSS to version 1.1. Finetuned CPU optimizations for some Intel CPUs. {STEAM_CLAN_IMAGE}/42987818/e656cd2041041d4726201d03150d060e51faaeda.jpg",
+                "feedlabel": "Community Announcements",
+                "date": 1685621074,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1817190,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5125698536872681827",
+                "title": "Save 33% on Marvel\u2019s Spider-Man: Miles Morales",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5125698536872681827",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Experience the rise of Miles Morales as a new Spider-Man in this action packed follow up to Marvel\u2019s Spider-Man Remastered. Master his unique, bio-electric venom blast attacks and covert camouflage power alongside spectacular web-slinging acrobatics, gadgets and skills. A war for control of Marvel\u2019s New York has broken out between a devious energy corporation and a high-tech criminal army. With his new home at the heart of the battle, Miles must learn the cost of becoming a hero and decide what he must sacrifice for the greater good. Save 33% on Marvel's Spider-Man: Miles Morales for a limited time through March 23rd, 2023. https://store.steampowered.com/app/1817190/Marvels_SpiderMan_Miles_Morales/ Marvel's Spider-Man Remastered is also 33% off during the Steam Spring Sale. https://store.steampowered.com/app/1817070/Marvels_SpiderMan_Remastered/ *Compatible PC required. **Compatible PC and display device required. \u00a9 2023 MARVEL \u00a9 2023 Sony Interactive Entertainment LLC Created and developed by Insomniac Games, Inc. PC version by Nixxes Software BV",
+                "feedlabel": "Community Announcements",
+                "date": 1679417663,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1817190
+            },
+            {
+                "gid": "5059267908810906040",
+                "title": "Marvel's Spider-Man: Miles Morales v.2.209.0.0 Patch Notes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5059267908810906040",
+                "is_external_url": true,
+                "author": "Nixxes_Community",
+                "contents": "Hey everyone, This update for Marvel's Spider-Man: Miles Morales contains various optimizations and fixes, based on player feedback. We have made changes to improve CPU performance on Intel 11th generation and older processors, with 8 cores or more. This mainly affects Intel Core i9 processors from the 9th, 10th and 11th generation. We have also made changes to how the game uses the AMD Ryzen 9 7950X and Ryzen 9 7900X processors, to improve performance on systems with these CPUs. This patch also includes a fix for a buffer overflow issue to address crashes to desktop that could occur for some players on Windows 11 systems after loading a save game or retrying a challenge. We have also fixed several graphical issues that could occur on AMD GPUs and a bug that could cause the mission marker for the Supply Theft crime mission to disappear under certain circumstances. Thank you for all of your feedback and contributions that have helped us improve the game. Patch Notes CPU optimizations for Intel 11th generation and older, with 8 cores or more. Optimizations for AMD Ryzen 9 7950X and Ryzen 9 7900X CPUs. Fixed a buffer overflow that could cause crashes for some players on Windows 11. Fixed several graphics issues that could occur on AMD GPUs. Addressed a bug that could cause the Supply Theft crime mission marker to disappear. {STEAM_CLAN_IMAGE}/42987818/67b9803a5030f73001d0262a467361e37631cd8e.jpg",
+                "feedlabel": "Community Announcements",
+                "date": 1676473200,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1817190
+            },
+            {
+                "gid": "4991708208074249614",
+                "title": "Marvel's Spider-Man: Miles Morales v.1.1209.0.0 Patch Notes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/4991708208074249614",
+                "is_external_url": true,
+                "author": "jvluijk",
+                "contents": "Hey everyone, A new patch for Marvel's Spider-Man: Miles Morales is now live. This update primarily focusses on stability and performance improvements and other smaller improvements. Patch Notes Performance improvements in VFX heavy areas. Fixes for a variety of stability improvements based on your reports. Various minor bugfixes. For other issues we are currently tracking or investigating, please refer to our Known Issues. If you encounter any of these problems, please contact support to help us gather more data and insights.",
+                "feedlabel": "Community Announcements",
+                "date": 1671015284,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1817190,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "4979322040028792991",
+                "title": "Modders are adding Into the Spider-Verse animations and costumes into Spider-Man: Miles Morales",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/4979322040028792991",
+                "is_external_url": true,
+                "author": "Jonathan Bolding",
+                "contents": "With <a href=\"https://www.pcgamer.com/marvel-s-spider-man-miles-morales/\" target=\"_blank\">Marvel&apos;s Spider-Man: Mile Morales</a> out on PC now, modders have gotten to work on it, and in a delightful trend some are taking inspiration from 2018 Miles-centric movie Spider-Man: Into the Spider-Verse. The depiction of Miles in that movie, as well as the beautifully stylish animation that&apos;s the center of Spider-Verse, have served as inspiration for two especially neat mods... <a href=\"https://www.pcgamer.com/modders-are-adding-into-the-spider-verse-animations-and-costumes-into-spider-man-miles-morales?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1670186596,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 1817190
+            },
+            {
+                "gid": "4979322040020169672",
+                "title": "Spider-Man: Miles Morales will stop honking an air horn during its most emotional scenes",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/PC Gamer/4979322040020169672",
+                "is_external_url": true,
+                "author": "Joshua Wolens",
+                "contents": "In a move we&apos;ll all surely come to regret, the most recent update to <a href=\"https://www.pcgamer.com/marvels-spider-man-miles-morales-review/\" target=\"_blank\">Spider-Man: Miles Morales</a> has ironed out one of the game&apos;s funniest bugs. Now a new patch means the game will no longer randomly end its most tender and vulnerable moments with the sharp blast of an airhorn. More&apos;s the pity... <a href=\"https://www.pcgamer.com/spider-man-miles-morales-will-stop-honking-an-air-horn-during-its-most-emotional-scenes?utm_source=steam&utm_medium=referral\" target=\"_blank\">Read more.</a>",
+                "feedlabel": "PC Gamer",
+                "date": 1669981977,
+                "feedname": "PC Gamer",
+                "feed_type": 0,
+                "appid": 1817190
+            }
+        ],
+        "count": 22
+    }
+}

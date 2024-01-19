@@ -7,6 +7,12 @@ from bs4 import BeautifulSoup
 import requests
 import json
 from kafka import KafkaProducer
+import os
+import dotenv
+dotenv.load_dotenv()
+
+AWS_PUBLIC_IP = os.getenv('AWS_PUBLIC_IP')
+PORT = int(os.getenv('PORT'))
 
 class WeeklyTopSellers:
 
@@ -25,7 +31,7 @@ class WeeklyTopSellers:
         self.review_list=[]
         self.news_data = None
         self.url = self._construct_url_with_last_to_last_tuesday_date()
-        self.producer = KafkaProducer(bootstrap_servers='54.242.137.34:9092')
+        self.producer = KafkaProducer(bootstrap_servers= f'{AWS_PUBLIC_IP}:{PORT}')
 
     def _get_last_to_last_tuesday(self):
         today = datetime.date.today()

@@ -1,0 +1,141 @@
+{
+    "appnews": {
+        "appid": 949230,
+        "newsitems": [
+            {
+                "gid": "5288974951206884885",
+                "title": "Patch Notes for 1.0.12f1 hotfix",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5288974951206884885",
+                "is_external_url": true,
+                "author": "CO_Avanya",
+                "contents": "Hi everyone. We have another hotfix for you today with improvements and bug fixes, see the list below for details. The patch is going on out Steam today, and we're working on bringing it to the Microsoft Store as soon as possible. Please note! With existing save games, most simulation fixes require the simulation to run for a while to take effect. Increased leisure probability to balance the \"No customers\" situation with commercial companies Improved balance of companies' profit Tuned down companies ordering input resources when their storage don't have enough space Fixed trade resource bug preventing some resources from being consumed Fixed miscalculation in college/university eligible count Improved conditions for companies to move away when bankrupt Fixed a dependency error with land value causing potential instability Fixed an issue where loading a new map would cause water state to get out of sync with the save data Slightly increased Windows emission intensity Optimizations for area lights Prefer rendering small objects after large ones when possible to improve GPU performances in some cases Improved shadow LOD calculations to cull irrelevant shadow casters earlier Reduced situations where trees and alpha clipped objects would lead to virtual texturing space running out Fixed citizens hanging around at park areas on regular building lots never getting inside the building Decreased resolution of unnecessary large character textures Removed Spasm radio ad (due to offensive content) Added missing localization ID for Paradox account linking ",
+                "feedlabel": "Community Announcements",
+                "date": 1698939316,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 949230
+            },
+            {
+                "gid": "5288974951202998918",
+                "title": "CO Word of the Week #1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5288974951202998918",
+                "is_external_url": true,
+                "author": "CO_Avanya",
+                "contents": "Quick note: I'm posting this and future CO Word of the Week on behalf of Mariina. \"Hi Everyone, welcome to our little weekly update, CO Word of the Week, where we share what Colossal Order is doing right now, and what you can expect for Cities: Skylines II as a result. CO Word of the Week originally ran from March 2016 until early 2018 and was mainly written by me, Mariina, the CEO of Colossal Order, but we also had some other team members as guest authors every once in a while so I can\u2019t take all the credit. Now, in the name of transparency, it\u2019s time to dig this old concept from the toolbox and start sharing! To write this very first Word of the Week (please feel free to suggest an abbreviation) I needed to go back to the source. I searched the Cities: Skylines forum for the original posts and was extremely happy to find the very first one: Hi everyone! I'm Mariina or better known here on the forum as co_martsu. I am the ceo of Colossal Order, the developer of Cities: Skylines. We work together with our publisher Paradox Interactive to bringing you the best city builder ever made and the quest toward that goal continues. Big part of developing the game further is communication with the players and the community. We have been active in reading the feedback but haven't had as much time to comment as we would have hoped for. Therefore the idea is that I will be writing an update on a semiregular basis on what Colossal Order is up to so that you players can hear first hand what is going on in the development of Cities: Skylines. Disclaimer: Some things are secret and I will try not to get assassinated by the Paradox marketing department so we'll keep this strictly to the points I'm allowed to talk about. I understand you probably don't value my life as much as I do, but we'll make this work, I'm sure! The mission remains the same: We want to bring you the best city builder ever made! And as I have grown older I am no longer afraid of the marketing department so no holding back. As you may have noticed Cities: Skylines II was released last week and we are happy the game is finally out! However, the launch was overshadowed by technical issues which caused disappointment, and rightfully so. We are happy to see that many players do enjoy the game and for those who are currently unable to play, I want you to know that we are working on a number of fixes and improvements to address your reports. The first hotfix patch was quick to roll out on Steam last week and this morning the patch for Microsoft Store and Game Pass finally made it live. We will have to see how we can speed up the patching process so we don\u2019t have players waiting for these important fixes longer than necessary. The patch included optimization for LODs, or Level of Detail, which means that the game renders fewer details when the camera is far away from the object. Finding optimal LOD levels is a balancing act between visual fidelity and performance, and we\u2019ll be addressing this in future patches. Yes, including the characters and their teeth! We also identified some offenders such as the depth of field, global illumination, and fog, all now tweaked for improved performance. Additionally, the patch included fixes for a few crash bugs and stutter cases. This week we will continue to go through the forum reports and fix the most urgent issues. The work on the assets and LODs continues, but it\u2019s a task spanning over a longer period of time as there are quite a few different types of assets needing special attention. On top of the performance work, we are looking into gameplay issues you have reported. We have fixes being tested for education, where college/university eligibility is not shown correctly in the UI, and for trading, where it looks like the citizens are not consuming all different commercial types correctly resulting in not enough customers for the local business. We are currently investigating a garbage problem and it seems that some citizens are abandoning their dogs resulting in a huge dog pack just stranded in the city. Not cool, citizens, not cool at all. The performance improvements and bug fixes take top priority until we have reached a level we are satisfied with. All the performance improvements will benefit the development of the console platforms and we hope to bring the game to Xbox Series X/S and PS5 as soon as possible! I want to thank everyone for the reports, they\u2019re very helpful and we appreciate you taking the time to provide us with the information we need. We will go through all of the reports as fast as we can. If you are experiencing a crash or performance issue please create a report on our support forum found here: https://forum.paradoxplaza.com/forum/forums/cities-skylines-2-bug-reports.1162/ I will be back next week to give you an update on how the work is progressing. Until then, thank you to everyone for the patience and support, it means a lot to us. Sincerely, Mariina\"",
+                "feedlabel": "Community Announcements",
+                "date": 1698847227,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 949230
+            },
+            {
+                "gid": "5288974951200613628",
+                "title": "Steam Global Top Sellers for week of 24 Oct \u2014 31 October 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5288974951200613628",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/2399830/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">ARK: Survival Ascended</a>; * <a href=\"https://steamdb.info/app/949230/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Cities: Skylines II</a>; * <a href=\"https://steamdb.info/app/2195250/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">EA SPORTS FC\u2122 24</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/2322560/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Love Is All Around</a>; * <a href=\"https://steamdb.info/app/1817070/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man Remastered</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1817190/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man: Miles Morales</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1698768000,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 949230
+            },
+            {
+                "gid": "5229301621579556007",
+                "title": "Region Packs | Teaser Trailer | Cities: Skylines II",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621579556007",
+                "is_external_url": true,
+                "author": "Cities: Skylines Official",
+                "contents": "Covering 8 regions, with more than 2500 assets, we present the free Region Packs! We've teamed up with some of your favourite creators including Titan, Bsquicklehousen, darf, RicharcShi, MacWelshman, Badi_Dea, Feindbold, Gurny and many more, to bring you 8 Free Region Packs, coming soon to Paradox Mods! BUY Cities: Skylines II NOW! https://www.paradoxinteractive.com/games/cities-skylines-ii/about",
+                "feedlabel": "Community Announcements",
+                "date": 1698408021,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 949230
+            },
+            {
+                "gid": "5229301621576266040",
+                "title": "Patch Notes for 1.0.11f1",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621576266040",
+                "is_external_url": true,
+                "author": "CO_Avanya",
+                "contents": "Hi everyone. Today we have the first of several patches to improve performance in Cities: Skylines II. While this does not address all issues we are aware of, we wanted to get you these improvements as soon as possible. Unfortunately, this patch is only available on Steam today. We're doing our very best to make it available on Microsoft Store as soon as possible. This patch includes the following improvements and fixes: Changed LOD to be independent of rendering resolution to get more consistent performance with high resolutions Minor optimization with fog Depth of field optimizations and tweaks Global illumination tweaks Optimized stutters when buildings spawn/level up Optimized various stutters across all systems Fixed crash after upgrading wind turbine Fixed crash when car crashes into still hidden car with trailer Fixed crash with mesh loading (that happens with low settings mostly) Please make sure to report any crashes or bugs on our support forum here: https://forum.paradoxplaza.com/forum/forums/cities-skylines-2-bug-reports.1162/ Our team is working hard on getting the next round of fixes and improvements out as soon as possible. Thank you for your patience!",
+                "feedlabel": "Community Announcements",
+                "date": 1698330059,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 949230,
+                "tags": [
+                    "patchnotes"
+                ]
+            },
+            {
+                "gid": "5229301621571657158",
+                "title": "Performance",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621571657158",
+                "is_external_url": true,
+                "author": "CO_Avanya",
+                "contents": "Cities: Skylines II is built for the future with modern hardware in mind, allowing us to add more depth and detail to the game than its predecessor had. Earlier this month, we shared a note on performance as we had not reached the benchmark target we had set for the game. Following this, we have seen some concerns about performance and what it means for the game as a whole. We\u2019d like to give some context to the issues the game is currently facing, what we\u2019re doing to address them, and what you can do if you are among the players experiencing performance issues. Firstly, we want to assure you that the issues are not deeply rooted in the game\u2019s foundation, so we fully expect to be able to improve performance going forward. The issues we are currently facing are tied to the rendering of the game, and decreasing the quality of visual effects such as Depth of Field, Global Illumination, and Volumetrics will get you a fair performance without affecting simulation - at the cost of some eye candy. If you experience low FPS we recommend the following: Reduce screen resolution to 1080p Disable Depth of Field and Volumetrics Reduce Global Illumination Check the full guide for more tips WHAT HAPPENS POST-RELEASE Following the release, we intend to push a series of small patches (and likely a big one) as we significantly improve different areas of performance. We have identified some issues tied to certain hardware setups that yielded unexpected results, and following those discoveries, we're working on improvements to: Remove stutters, generally caused by some synchronization condition in the simulation. They can vary greatly from one CPU to another, as well as how your city is built. Optimize and balance GPU performances by reducing the number of vertices processed per frame and optimizing/balancing the effects that affect fillrate (mainly Depth of Field, Global Illumination, and Volumetrics), which you can turn off or reduce in the settings for the time being to get a decent FPS. Pushing any CPU optimizations that are not already done that we come across in this process. It\u2019s worth noting that balancing GPU performances does not mean reducing quality overall but, for example, taking fewer samples with smarter distribution to achieve identical or very similar results. We are also looking at expanding the options for upscaling solutions. Right now, the game includes AMD FSR1, which does not look that good when the scale ratio is 50% (you can enable it with Dynamic resolution scale setting), but it is supported by Unity out of the box, so it made sense to include. Both FSR2 and DLSS2 require the use of Temporal Anti-aliasing, which is not possible at the moment due to some objects being incompatible with that technique. We are currently working towards making this possible, which will not only help to boost performances but also provide a better quality anti-aliasing solution than the one we currently use (SMAA by default). OUR GOALS With the upcoming patches, the situation will largely improve with default settings. It is worth mentioning that for a game like this, the performance target is to run at a steady 30FPS minimum. There is no real benefit in a city builder to aim for higher FPS (unlike a multiplayer shooter) as a growing city will inevitably become CPU-bound. What matters more with this type of game is to avoid stutters and have a responsive UI. For that reason, our simulation is also built around an expected update rate given 30fps. However, it does not hurt to get 60fps as it can contribute to better visuals in relation to temporal effects, so while our target is 30fps, we don't intend to limit or stop the optimization work just because we reach it on the recommended hardware. We just don't believe there would be a long-term benefit in setting the target to 60fps, especially because we face rendering challenges both from close-ups and far distances. A NOTE ON RELEASE TIMING While some setups on PC have challenges, we concluded the performance is not a dealbreaker for all the players. For us, the number one priority is for the players to have fun with the game, and we had seen enough feedback from players enjoying the game that it would be more unfair to postpone. We know we will keep working on the game and do our best to fix issues as fast as possible, so we wanted to respect the announced release date and allow people to start playing the game. ",
+                "feedlabel": "Community Announcements",
+                "date": 1698220825,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 949230
+            },
+            {
+                "gid": "5218041989061720083",
+                "title": "Cities: Skylines II peaks at 104k players",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5218041989061720083",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/app/949230/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> Cities: Skylines II has peaked at 104,697 concurrent players on 24 October 2023 on release day. View charts and more statistics on our website.",
+                "feedlabel": "SteamDB",
+                "date": 1698169804,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 949230
+            },
+            {
+                "gid": "5218041989061693974",
+                "title": "Tips: Our Guide to Optimize Performance",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989061693974",
+                "is_external_url": true,
+                "author": "Cities: Skylines Official",
+                "contents": "{STEAM_CLAN_IMAGE}/43753943/67f60f94b48aeefbf9690f145905b3eba5a56af4.png Cities: Skylines II is a performance-heavy game, and with the diverse array of hardware you as a player use, you might find this guide helpful. It's important to us that everyone has access to as smooth of a gaming experience as possible, and while varying hardware may present different challenges, we're here to support and guide you through optimizing your setup for the best performance possible. Virtual Texturing\u200b The first point that we want to bring up is the Virtual Texturing. This is a technology that uses video memory more efficiently in regards to textures. Please wait for these textures to finish processing. During the time that the game is processing the textures, the buildings might turn dark or have some other graphical artefacts. The time it takes for your computer to render the updated textures depends on your hardware, but it usually does not take longer than a minute, usually much faster than that. https://lh7-us.googleusercontent.com/sA2UchSx7p5xSe9J11excpuAjR-K9XpI0O2tg-gSC8yXw1zipZrchlSR-zNwpDAI-o9FBELU1otvzr72_qhgok4812-F81M2dl9ey_K70I9wl2unvdgpYDgFykRx33RUkTso5JFbtn8uEGuFfh0VxN8 The processing of the Virtual Texturing will appear in the Notifications Tab on the Home Screen. Recommended Settings\u200b Let\u2019s move on to the settings you are able to adjust before or during your city building. Continuous improvement of performance is our top priority, but here are our best tips to have as smooth of an experience as possible: https://lh7-us.googleusercontent.com/HLVOusg20opxxpP_87dzR9SU3R7b6W_qHD4JdNE0mpnuIRE6aFN1nqusKsSrqmwNvgOE3RvbEVRpn4k28g8cvtqDm993pwVk9IYtqjGbaT_GjCLerjeQKIqkjBwuhETPh7QQdVpW9DjBL7-bezD1uJI Lowering the Resolution; we recommend 1920 x 1080 x 60Hz Disable Depth of Field {STEAM_CLAN_IMAGE}/43753943/2488e70d3b4c40b6ea60d214cc83db907e6d9e89.jpg Disable Volumetrics; this lowers the quality of the volumetric clouds. Motion Blur, Depth of Field, and Dynamic Resolution:\u200b While these three will not always improve your performance, we wanted to help you understand what these settings are and hopefully help solve potential \u201cwhy-does-my-game-look-like-this\u201d questions. https://lh7-us.googleusercontent.com/xoZErILxOMiIel6qodUGiBOGH1fkl1MLRguwegFPqTVl3j1R0o26tY8kOlDt505xX5AIEB_8QPX2uJnjWf1tfdTE67RYb161f4QkgWnXKXOJhi6NurZYmPyfsPueEiQBs9chWmfm0y7v4RqTcAlD1fM Depth of Field and Motion Blur can cause the game to look very strange and motion sickness and can cause low FPS to feel worse. https://lh7-us.googleusercontent.com/PJKyHZv0N2KDirVxLjDfDYybjTgb2Nd-LlijxbmLUi_i7OGZs5BK0S63Ehntl5EdfrzluS2xl8SCnQ5jy98KH-gGN2Fy143_oEiVAgV0FIFnG3Sqeow-yBujhNtdxhfPBcxtmRGClr-c45u5eGTyH8g https://lh7-us.googleusercontent.com/aCpR8ErF6t4Bglqg49haW6FX0Wb8mQp0QmSta7_hW5TP-RJT0vlnZQAn_iukuzghQu2RJzByNcWGzmhPOH4J8W76_d3PKVUj6L3H5mFDY13hds3WziQkiC8MFIULZMdlrvOkDVTgXpLa5fVOHeFD18g Tilt Shift Depth of Field and Motion Blur can be very visually disruptive if you have low FPS. https://lh7-us.googleusercontent.com/tnNEqerz6_-jn1r-aAG_Rf6lVxrsicuh43jLmqQvN74DMwgEbySYBiIK44QdB_HVeYW9lfBFk7mXyS4k20PpFpsDt0EPkun8F_QIHuI5CCTsPEtD4ef4eEgk3pDjouRTyPH_XN_bPfKXpsV6sj-cJt0 Dynamic Resolution is a game setting that helps with performance by dynamically changing the resolution. Dynamic Resolution can save FPS but might make the game look blurry; here\u2019s an example; https://lh7-us.googleusercontent.com/UB7BlIrgxKchHj09wNq9LPXNQG3gPbB1KhRy1gB4F6DXutBEgcHeZYszdIAvschyvYlD_HRazJRQOjxtXBLatduWS5XlGZG5Kh5dESshfXNC1a_uqKRF7jw8uWvlUiQvjaJNHgAEzapP5cA0CttKh3c Turning it to \u201cAutomatic\u201d. https://lh7-us.googleusercontent.com/CYowmg50WuB3ctSA5FsAji-N2gLrslXCP18WpU6k4PK7Z5OQlTAPmqgraonIm_N657cu2UxuKRlKotqd1JPY9Kl-gwZphUmvV775t55BCymHYLJjIkyCyucyaYms__r4Dc04bMVpeDG_jS-Zw1TR7YI Turning it to \u201cConstant\u201d. These three settings are optional, and we encourage you to change the setting to find what suits you best.",
+                "feedlabel": "Community Announcements",
+                "date": 1698165412,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 949230
+            },
+            {
+                "gid": "5218041989061658445",
+                "title": "Official Accolades Trailer | OUT NOW I Cities: Skylines II",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5218041989061658445",
+                "is_external_url": true,
+                "author": "Cities: Skylines Official",
+                "contents": "The most realistic city builder ever. OUT NOW! \ud83c\udfd7\ufe0f You Make It Happen. You Make It Yours. You Make Cities. Footage captured In-Game is not final and might change in time for release. BUY Cities: Skylines II NOW! https://www.paradoxinteractive.com/games/cities-skylines-ii/about",
+                "feedlabel": "Community Announcements",
+                "date": 1698164574,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 949230
+            },
+            {
+                "gid": "5218041989061720076",
+                "title": "Steam Global Top Sellers for week of 17 Oct \u2014 24 October 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5218041989061720076",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W43/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/949230/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Cities: Skylines II</a>; * <a href=\"https://steamdb.info/app/2195250/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">EA SPORTS FC\u2122 24</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/2344520/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Diablo\u00ae IV</a>; * <a href=\"https://steamdb.info/app/2252570/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Football Manager 2024</a>; * <a href=\"https://steamdb.info/app/1517290/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Battlefield\u2122 2042</a>; * <a href=\"https://steamdb.info/app/227300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Euro Truck Simulator 2</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/381210/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Dead by Daylight</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W43/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1698163200,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 227300
+            }
+        ],
+        "count": 51
+    }
+}

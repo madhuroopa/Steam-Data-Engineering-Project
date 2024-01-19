@@ -1,0 +1,181 @@
+{
+    "appnews": {
+        "appid": 1675200,
+        "newsitems": [
+            {
+                "gid": "5288974951204593262",
+                "title": "Steam Deck Beta Client Update: November 1st",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5288974951204593262",
+                "is_external_url": true,
+                "author": "mikela",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Remote Play Fixed hidden mouse cursor when streaming to Android TV Steam Input In games that support SteamInput API Actions we no longer hide the Flick Stick as Mouse option if a FlickStick action is defined - this is so that Gyro To Mouse can be properly complemented if you wish. ",
+                "feedlabel": "Community Announcements",
+                "date": 1698885007,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5288974951200977693",
+                "title": "Steam Deck Beta Client Update: October 31st",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5288974951200977693",
+                "is_external_url": true,
+                "author": "Drew Gottlieb",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Parental Controls Fixed a minor bug in Parental Controls. ",
+                "feedlabel": "Community Announcements",
+                "date": 1698799323,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5229301621595285190",
+                "title": "Steam Deck Client Update: October 31st",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621595285190",
+                "is_external_url": true,
+                "author": "mikela",
+                "contents": "We have just shipped an updated Steam Deck Client to the Stable (default) channel. Steam Input Fixed gyro anti-drift values being applied to some controllers unintentionally Fixed PlayStations controllers that were opted out of Steam Input having the lightbar/gyro features enabled Fixed anti-drift autocalibration tolerances not being applied when controller first connects SIAPI: Fix for incorrect GetMotionData quaternion values Desktop Mode Fixed back button intermittently returning to library view instead of the correct history entry. Improved UI when an application temporarily disables updates. ",
+                "feedlabel": "Community Announcements",
+                "date": 1698780882,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "stablechannel"
+                ]
+            },
+            {
+                "gid": "5288974951200613628",
+                "title": "Steam Global Top Sellers for week of 24 Oct \u2014 31 October 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5288974951200613628",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/2399830/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">ARK: Survival Ascended</a>; * <a href=\"https://steamdb.info/app/949230/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Cities: Skylines II</a>; * <a href=\"https://steamdb.info/app/2195250/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">EA SPORTS FC\u2122 24</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/2322560/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Love Is All Around</a>; * <a href=\"https://steamdb.info/app/1817070/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man Remastered</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1817190/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man: Miles Morales</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1698768000,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 949230
+            },
+            {
+                "gid": "5229301621591528127",
+                "title": "Steam Deck Beta Client Update: October 30th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621591528127",
+                "is_external_url": true,
+                "author": "mikela",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Steam Input Fixed gyro anti-drift values being applied to some controllers unintentionally Fixed PlayStations controllers that were opted out of Steam Input having the lightbar/gyro features enabled Fixed anti-drift autocalibration tolerances not being applied when controller first connects SIAPI: Fix for incorrect GetMotionData quaternion values Note: This beta was re-released on Oct 31 with additional changes. ",
+                "feedlabel": "Community Announcements",
+                "date": 1698691854,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel",
+                    "ModAct_1428002267_1698692221_0",
+                    "mod_reviewed",
+                    "ModAct_1428002267_1698700091_0",
+                    "ModAct_487791598_1698709701_4",
+                    "mod_require_rereview"
+                ]
+            },
+            {
+                "gid": "5229301621581456531",
+                "title": "Steam Deck Beta Client Update: October 27th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621581456531",
+                "is_external_url": true,
+                "author": "mikela",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Desktop Mode Fixed back button intermittently returning to library view instead of the correct history entry. Improved UI when an application temporarily disables updates. ",
+                "feedlabel": "Community Announcements",
+                "date": 1698453061,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5229301621573896100",
+                "title": "Steam Deck Client Update: October 25th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621573896100",
+                "is_external_url": true,
+                "author": "Drew Gottlieb",
+                "contents": "We have just shipped an updated Steam Deck Client to the Stable (default) channel. General Display shader cache disk usage information under Settings->Storage. Fixed external sdcard readers without an sdcard inserted showing up in Settings->Storage. Fixed a case where turning on the TDP limit toggle for the first time could result in a bad TDP value being set for the system. Fixed an issue with art for some games not properly updating. Fixed some DLC art displaying in the wrong language. Fixed progress feedback for the Eject button in Settings->Storage disappearing as soon as the button is pressed. Fixed labels for external drives not being editable during a format operation. Modal dialogs now dismiss when you click the background. Fixed a case where the Main Menu or the Quick Access Menu would be immediately dismissed after opening. Fixed a case where the client would fail to handle some open URL requests. Fixed Discovery Queue background color. Remote Play Fixed rare case of the connection hanging when starting to stream Added support for low latency networking option on Steam Link Use fixed bitrate in automatic bandwidth mode to improve picture quality Fixed black screen when streaming from another computer Fixed black screen when streaming to another computer which has enabled the high quality streaming preset Added a low latency network setting, which reduces latency at the cost of bandwidth Fixed audio crackling while streaming Fixed only streaming a portion of the screen and a doubled mouse cursor when display scaling is enabled on Windows hosts Steam Input Restored ability to rename controllers in the Options->Controller menu. New Gyro Mode: \"Gyro To Mouse\". This is a renovation of the gyro \"As Mouse\" mode. Expect frequent changes to UI and behavior while we evaluate this new replacement. (\"As Mouse\" will remain for now.) Natural Sensitivity Scale: use \"Pixels Per 360\u00b0\" to calibrate both the Flick Stick and Gyro's real world angles into in-game angles. In this way, your Gyro Natural Sensitivity Multiplier can be consistent across games, with \"Pixels Per 360\u00b0\" being the isolated tuning value for each game. 1\u20ac Filter: Smoothed low level gyro noise without adding delay. Speed Deadzones and Precision Zones will allow you to tune preferences for hand shake during fine aim. Yaw vs. Roll Blend: you can now blend between \"Yaw\" or \"Roll\" mode. Gyro Momentum Option: releasing your gyro activation button can maintain some rotation from the gyro. Tune the momentum on independent axes to bias toward horizontal movement vs vertical movement. Gyro sensor timestamps are now used resulting in better overall accuracy of the Gyro. Gyro over Bluetooth improvements - gyro motion is extrapolated when Bluetooth packets are delayed, resulting in smoother movement. Any error incurred is corrected gradually over time, during high speed movement to avoid \"Ouija effect\" during precise aiming. Fixed Roll axis on Steam Deck for legacy \"As Mouse\". Fixed delayed input when opening the standalone On-Screen Keyboard Fix for Razer Wolverine V2 Pro Dualsense gyro. Fixed default orientation for Steam Deck and Steam Link Mobile App controllers in the new Gyro To Mouse mode Fix: Gyro to Mouse preferences can be overridden in action layers. Fix: FlickStick Pixels per 360 value was defaulting to 2000 the first time it opened. Fix: Periodic jolts of gyro movement should be reduced/fixed in Gyro to Mouse mode. Gyro To Mouse mode now has a \"3DOF to 2D Conversion Style\" dropdown. Yaw, Roll, and Yaw + Roll - legacy settings brought forward for easier onramp. Yaw + Roll is slightly different from \"Yaw & Roll Combined\" in the previous mode. It has been re-written to avoid \"ping-pong\" horizontal output response during figure 8 movement. Local Space (Advanced) gives access to more parameters for expert tweaking. Player Space (Experimental). Vertical output uses local pitch, as usual, but horizontal output comes from rotation around the gravity axis due to local yaw and roll. Many thanks to Jibb Smart. A note on gyro orientation convention in the new Gyro To Mouse mode: Previously we considered \"pitch\", \" yaw\" and \"roll\" to be relative to the hardware - Yaw is considered the axis that rotates about a joystick's central axis on any controller. Moving this convention over to handhelds (i.e. SteamDeck or mobile) has caused confusion for many due to how the controller is tilted in order to look at the screen. To address this, we now compensate for that tilt, and consider \"yaw\" to be \"Human Oriented\". So, on Handhelds: \"Yaw\" is the axis that goes from the top to the bottom of the screen (so turning the handheld around that axis generates \"Yaw\") & \"Roll\" is considered the rotation axis through the screen (steering wheel motion). This only changes the expected axes on Handhelds - standalone controllers have the same orientation as ever. Added \"World Space\" Experimental Gyro Conversion Mode. This modes feels similar to using a laser pointer. It monitors rotation about the gravity axis to determine both horizontal and vertical output. Some may prefer \"Player Space\" which is a hybrid of world yaw and local pitch. Fix for \"Player Space\" Gyro Conversion Mode. Gravity axis is now reliable. \"Pixels Per 360\u00b0\" Setting value is now copied within the current Action Set rather than across the entire steam input config. This is an accommodation for games with different turning rates in different gameplay states (i.e. Vehicle Mode vs On Foot mode may have a different camera turn rate). Partial Regression fix for older Gyro \"As Joystick\" modes, but there are still known issues. Renovation is planned. New \"Laser Pointer\" Gyro 3DOF to 2D Conversion mode: The Cursor is driven up, down, left and right due to an imaginary ray pointing out of the front of the controller/through the SteamDeck Screen. This mode is most appropriate for mouse cursor movement/UI interaction. Fix for SteamDeck Gyro offset angle defaults being set incorrectly. Minor UI tidying. Added support for the PowerA Nintendo Switch Nano Wired Controller Fix for opting into or out of Steam Input on the configurator page not updating the configuration until the next time the configurator was opened New Experimental Gyro Mode : \"Gyro to Joystick (Camera)\". This mode re-uses concepts from the Gyro To Mouse system, including Natural Sensitivity, but outputs to Joystick instead of Mouse. It also has the option to \"Catch Up\" to your desired in game angles in the case of excessively fast gyro rotations exceeding the Maximum Turn Rate. This will replace the old Gyro->\"As Joystick\" once there is feature parity. Fix for PlayStation DualShock 4 gyro sensitivity over Bluetooth for new Gyro Modes. New Gyro Mode: \"Gyro to Joystick (Deflection)\". This is most appropriate for simulating Steering and Flight Yokes. This mode will eventually replace Gyro \"Joystick\". It is the last replacement mode for Gyro functionality. It shares the common Gyro Natural angles system. Added \"Joystick Power Curve\" slider to both \"Gyro to Joystick (Camera)\" and the new \"Gyro to Joystick (Deflection)\" modes. This allows you to counteract the response curve that many games employ for better precision. Fix for new Gyro to Joystick modes not applying Horizontal/Vertical settings, or Axis inversion settings or Rotation Output settings. Re-implemented \"Lock Extents\" for Gyro To Joystick Deflection mode. Rotating the controller further than maximum deflection angle in any direction from the center point results in dragging the center point. Fix for Gyro Deflection Mode: Joystick output was not centering when gyro disabled. Fix for stale antidrift values being loaded from the cloud. Fix for DualShock 4 autocalibration not working unless on the calibration screen. Temporary Fix for SIAPI GetMotionData and legacy gyro modes using a buggy version of the sensor fusion quaternion. Fixed a UI error in the controller settings when a controller hasn't been mapped yet Added the ability to bind the capture button on the Google Stadia controller Fixed bug preventing user-created templates and other workshop configs from being permanently deleted Fix for Dots per 360 value not being copied into a new mode in an action set if another mode that used it was already present Desktop Mode Fixed microtransactions dialog failing to reopen if the Steam overlay was closed without canceling the transaction. Fixed small mode dimensions not restoring correctly if previously sized smaller than the minimum large mode dimensions Fixed resize grip showing sometimes when windows are maximized Steam Community Fixed friend profile Message button not working ",
+                "feedlabel": "Community Announcements",
+                "date": 1698273884,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "stablechannel"
+                ]
+            },
+            {
+                "gid": "5229301621573432571",
+                "title": "Steam Deck Beta Client Update: October 25th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621573432571",
+                "is_external_url": true,
+                "author": "slouken",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: Remote Play Fixed audio crackling while streaming Fixed only streaming a portion of the screen and a doubled mouse cursor when display scaling is enabled on Windows hosts Steam Community Fixed friend profile Message button not working ",
+                "feedlabel": "Community Announcements",
+                "date": 1698262896,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5229301621570346943",
+                "title": "Steam Deck Beta Client Update: October 24th",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621570346943",
+                "is_external_url": true,
+                "author": "Drew Gottlieb",
+                "contents": "Note: This update is for the Steam Deck Beta and Preview channels, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. The Steam Client Beta has been updated with the following changes: SteamInput Fixed bug preventing user-created templates and other workshop configs from being permanently deleted Fix for Dots per 360 value not being copied into a new mode in an action set if another mode that used it was already present Interface Fixed Discovery Queue background color ",
+                "feedlabel": "Community Announcements",
+                "date": 1698189763,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 1675200,
+                "tags": [
+                    "patchnotes",
+                    "betachannel",
+                    "previewchannel"
+                ]
+            },
+            {
+                "gid": "5218041989061720076",
+                "title": "Steam Global Top Sellers for week of 17 Oct \u2014 24 October 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5218041989061720076",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W43/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/949230/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Cities: Skylines II</a>; * <a href=\"https://steamdb.info/app/2195250/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">EA SPORTS FC\u2122 24</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/2344520/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Diablo\u00ae IV</a>; * <a href=\"https://steamdb.info/app/2252570/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Football Manager 2024</a>; * <a href=\"https://steamdb.info/app/1517290/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Battlefield\u2122 2042</a>; * <a href=\"https://steamdb.info/app/227300/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Euro Truck Simulator 2</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/381210/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Dead by Daylight</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W43/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1698163200,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 227300
+            }
+        ],
+        "count": 340
+    }
+}

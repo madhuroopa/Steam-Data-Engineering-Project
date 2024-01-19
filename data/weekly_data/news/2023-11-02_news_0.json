@@ -1,0 +1,50 @@
+{
+    "appnews": {
+        "appid": 2399830,
+        "newsitems": [
+            {
+                "gid": "5288974951200613628",
+                "title": "Steam Global Top Sellers for week of 24 Oct \u2014 31 October 2023",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5288974951200613628",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> * <a href=\"https://steamdb.info/app/2399830/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">ARK: Survival Ascended</a>; * <a href=\"https://steamdb.info/app/949230/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Cities: Skylines II</a>; * <a href=\"https://steamdb.info/app/2195250/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">EA SPORTS FC\u2122 24</a>; * <a href=\"https://steamdb.info/app/1086940/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Baldur's Gate 3</a>; * <a href=\"https://steamdb.info/app/1938090/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Call of Duty\u00ae</a>; * <a href=\"https://steamdb.info/app/2322560/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Love Is All Around</a>; * <a href=\"https://steamdb.info/app/1817070/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man Remastered</a>; * <a href=\"https://steamdb.info/app/1174180/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Red Dead Redemption 2</a>; * <a href=\"https://steamdb.info/app/1675200/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Steam Deck</a>; * <a href=\"https://steamdb.info/app/1817190/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">Marvel\u2019s Spider-Man: Miles Morales</a>; <i>* excluding free to play games</i> <a href=\"https://steamdb.info/topsellers/2023W44/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\">View top 100 on SteamDB</a>",
+                "feedlabel": "SteamDB",
+                "date": 1698768000,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 949230
+            },
+            {
+                "gid": "5229301621583808903",
+                "title": "ARK: Survival Ascended peaks at 98k players",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/SteamDB/5229301621583808903",
+                "is_external_url": true,
+                "author": "SteamDB",
+                "contents": "<a href=\"https://steamdb.info/app/2399830/charts/?utm_source=Steam&utm_medium=Steam&utm_campaign=SteamRSS\"> </a> ARK: Survival Ascended has peaked at 98,047 concurrent players on 29 October 2023 within the release week. View charts and more statistics on our website.",
+                "feedlabel": "SteamDB",
+                "date": 1698609304,
+                "feedname": "SteamDB",
+                "feed_type": 0,
+                "appid": 2399830
+            },
+            {
+                "gid": "5229301621579309465",
+                "title": "Achievement Unlocked: Your first day\u2026",
+                "url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/5229301621579309465",
+                "is_external_url": true,
+                "author": "Jat",
+                "contents": "Congratulations Survivors! You (and us too) survived a full day and night on the ARK! And what an eventful day it has been. A lot\u2019s been going on, and we thought it would be good to wrap up the day with a quick update regarding the state of the game and our plans over the days and weeks ahead. Let\u2019s discuss a few key topics: the first is no stranger to ARK games on Day One, and that\u2019s client-side performance. Working from anecdotal feedback and hard data provided by players, we deployed a new client-side update released tonight that will improve your game's framerate. The update adds a number of optimizations and better settings assignments for each Graphics Quality mode, and you'll get an immediate gain upon trying out the new build. Once you've got the update, please change your \"Graphics Quality\" setting to your preferred setting (Low/Medium/High/Epic) to take full advantage of the new under-the-hood settings. Tomorrow and into the weekend, we'll release further improvements to client performance, including generating a Pipeline State Object Cache to reduce/eliminate graphics stuttering & hitching and further optimizing the sky/cloud/atmosphere shaders. Thank you for bearing with us as the team works to ensure the game runs better for various configurations, including this first set of optimizations and the many still to come. The second is a one-two combo: server-side stability and optimization. The team has been battling a number of never-before-seen crashes since the game went live (such is life \u2014 1 hour of live play is equivalent to a month of internal QA). Honestly, the floodgates had opened, and at one point, servers were coming down faster than we could put them online! Thankfully, as of our latest server-side build, we\u2019ve managed to get the servers in a much more stable state, eliminating over 95% of server crashes. There\u2019s still more we plan to address, and you can expect more deployments to happen over the next few days to ensure as much uptime as possible and launch additional servers based on capacity needs! As for how well the servers run, we\u2019ve been collecting data over the last 24 hours to identify major server performance pain points. This will be a major focus for the engineering team, and we\u2019ll be looking to introduce as many optimizations as possible. After a week or so, we plan to have a PTR branch of the game available to test out some of our riskier optimizations before we set them live to the public. But for now, we\u2019ll continue operating from the main branch of the game as we\u2019ve just launched and are in rapid patch mode! And lastly, the ARK Devkit (for ASA) is now available! For those unfamiliar, the ARK DevKit is a custom version of the Unreal Engine 5 Editor that provides dedicated infrastructure to help you take your imagination into the game of ARK: Survival Ascended. The kit is available to download HERE, and we\u2019ve got a quick FAQ you can check out HERE. We\u2019re really excited to get this out to you and cannot wait to see you build beyond boundaries in ARK: Survival Ascended! This is only the beginning of ASA\u2019s Early Access journey; there\u2019s still much more we plan to do to the game as we develop it. This means working through the rough patches and introducing new features, content, and gameplay. We cannot wait to get all that and more in your hands. But for now, we\u2019ll say thank you for all your feedback, support, and excitement. It\u2019s been wonderful watching so many of you begin the first steps of your ASA adventures, and we can\u2019t wait to see where it takes us! Good night! \u2764\ufe0f ",
+                "feedlabel": "Community Announcements",
+                "date": 1698402184,
+                "feedname": "steam_community_announcements",
+                "feed_type": 1,
+                "appid": 2399830,
+                "tags": [
+                    "workshop"
+                ]
+            }
+        ],
+        "count": 3
+    }
+}

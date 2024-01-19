@@ -1,6 +1,0 @@
-beautifulsoup4==4.12.2
-kafka_python==2.0.2
-pandas
-Requests==2.31.0
-selenium==4.11.2
-pyspark==3.3.2
