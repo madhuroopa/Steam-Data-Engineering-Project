@@ -5,7 +5,6 @@ SCHEDULE_INTERVAL: None [Manually Trigger]
 DESCRIPTION:
 This DAG deletes todays raw and processed data
 
-AUTHOR: SARTAJ
 '''
 
 from datetime import datetime, timedelta
@@ -15,7 +14,7 @@ from airflow.operators.dagrun_operator import TriggerDagRunOperator
 #from delete_todays_data import *
 
 default_args = {
-    'owner': 'Sartaj',
+    'owner': 'Madhu',
     'depends_on_past': False,
     'retry': 1,
     'retry_delay': timedelta(minutes=1)
