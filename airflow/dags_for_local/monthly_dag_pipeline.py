@@ -5,7 +5,6 @@ SCHEDULE_INTERVAL: EVERY LAST DAY OF THE MONTH AT 11PM
 DESCRIPTION:
 This DAG runs the monthly pipeline for the last month. 
 
-AUTHOR: SARTAJ
 '''
 
 from datetime import datetime, timedelta
@@ -22,7 +21,7 @@ from monthly_scripting_kafka_producer import MonthlyScrapingProducer
 from monthly_script import MonthlyScript
 
 default_args = {
-    'owner': 'Sartaj',
+    'owner': 'Madhu',
     'depends_on_past': False,
     'retry': 1,
     'retry_delay': timedelta(minutes=1)

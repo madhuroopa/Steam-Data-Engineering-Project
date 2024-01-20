@@ -5,7 +5,6 @@ SCHEDULE_INTERVAL: EVERY DAY AT 11PM
 DESCRIPTION:
 This DAG runs the daily pipeline for the current day. 
 
-AUTHOR: SARTAJ
 '''
 
 from datetime import datetime, timedelta
@@ -22,7 +21,7 @@ from daily_scripting_kafka_producer import MostPlayedGamesProducer
 from daily_script import DailyScript
 
 default_args = {
-    'owner': 'Sartaj',
+    'owner': 'Madhu',
     'depends_on_past': False,
     'retry': 1,
     'retry_delay': timedelta(minutes=1)

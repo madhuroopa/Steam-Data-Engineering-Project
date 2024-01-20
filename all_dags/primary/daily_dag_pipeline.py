@@ -5,7 +5,6 @@ SCHEDULE_INTERVAL: EVERY DAY AT 11PM
 DESCRIPTION:
 This DAG runs the daily pipeline for the current day. 
 
-AUTHOR: SARTAJ
 '''
 
 from datetime import datetime, timedelta
@@ -14,7 +13,7 @@ from airflow.operators.python import PythonOperator
 from airflow.operators.dagrun_operator import TriggerDagRunOperator
 
 default_args = {
-    'owner': 'Sartaj',
+    'owner': 'Madhu',
     'depends_on_past': False,
     'retry': 1,
     'retry_delay': timedelta(minutes=1)
