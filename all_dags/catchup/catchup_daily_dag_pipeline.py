@@ -5,7 +5,6 @@ SCHEDULE_INTERVAL: None [Manually Trigger]
 DESCRIPTION:
 This DAG is a Kafka catchup DAG that runs the daily kafka part of the pipeline for the last day. 
 
-AUTHOR: SARTAJ
 '''
 
 from datetime import datetime, timedelta
@@ -14,7 +13,7 @@ from airflow.operators.python import PythonOperator
 from airflow.operators.dagrun_operator import TriggerDagRunOperator
 
 default_args = {
-    'owner': 'Sartaj',
+    'owner': 'Madhu',
     'depends_on_past': False,
     'retry': 0,
     }
