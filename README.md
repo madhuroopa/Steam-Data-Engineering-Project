@@ -9,7 +9,7 @@ Welcome to the heart of real-time data engineering—our project dedicated to un
 Hey there, data enthusiast! Let's shine a light on Kafka, the backbone of data collection. To use Kafka, I have set up a simple <i>producer-consumer</i> schema for each web page. The producer scrapes the web page or collects data through Steam's APIs. This data is consumed by a consumer who then stores the data accordingly.
 
 ## The Pipeline Trio 🚀
-Three pipelines, three different cadences—daily, weekly, and monthly. This setup ensures a separation of concerns and a steady flow of fresh data. 
+Three pipelines — daily, weekly, and monthly. This setup ensures a separation of concerns and a steady flow of fresh data. 
 
 ### Daily Rhythms 🌅
 - Source:
@@ -37,19 +37,19 @@ Powered by Steam's API, the  Monthly Data Marvels unveil a backstage pass to Ste
 
 * <i> Note: Although I wanted to collect more data to process, the other options are paid, but they provide great insights. If you want to have an intense collection of data, you can refer to this [link](https://www.similarweb.com/) </i>
 
-## PySpark and Airflow Data Symphony 🦄
+## PySpark and Airflow 🦄
 I use PySpark to process the data seamlessly. The magic doesn't stop there— Airflow joins in, orchestrating the entire data flow with its slick Directed Acyclic Graphs (DAGs). 
 
 ### Local and Cloud Vibes ☁️🖥️
 The project is versatile and ready to run on both- local machines and in the expansive AWS cloud. Let's dive into the execution intricacies.
 
-When running locally the data from Kafka Consumer is stored inside a data folder in the following [structure](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/tree/main/data). 
+When running locally the data from Kafka Consumer is stored inside a data folder in the following [structure](https://github.com/madhuroopa/Steam-Data-Engineering-Project/tree/main/data). 
 If running on AWS, the data is stored in an S3 bucket named `steam-project-raw` 
 
 Once raw data is stored, I also have a shell script that runs to create a backup of the raw data.
 Note: This would be triggered by Airflow later. The backup script creates a copy of this raw data and stores it locally or on an S3 bucket named `steam-projet-raw-backup`.
 
-Once I have backed up the raw data, I use PySpark to process it. The code to spark scripts can be found [here](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/tree/main/code/scripts) According to the data collected (daily/weekly/monthly), I then run the spark script that parses the data, cleans it, and stores it in an easy-to-use format. When using Airflow, this will be triggered after raw data is backed up.
+Once I have backed up the raw data, I use PySpark to process it. The code to spark scripts can be found [here](https://github.com/madhuroopa/Steam-Data-Engineering-Project/tree/main/code/scripts) According to the data collected (daily/weekly/monthly), I then run the spark script that parses the data, cleans it, and stores it in an easy-to-use format. When using Airflow, this will be triggered after raw data is backed up.
 
 ### Airflow Directed Acyclic Graphs (DAG) 🧑🏻‍🔧
 Airflow DAGs are the choreographers of our data dance! 🕺💃
@@ -84,10 +84,10 @@ Whether it's the local vibes with Tableau or the cloud magic with AWS QuickSight
 - Setup Airflow
 
 ### Local Setup Issues
-Setting up locally is an easy way, however you might face some issues. I use a Windows machine and I have used this [video](https://www.youtube.com/watch?v=BwYFuhVhshI) to set up Kafka. However, Airflow does not work natively on Windows 🥲 The easiest workaround is using Docker 🐋. You can refer to the docker image [here](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/blob/main/docker/docker-compose.yaml). This docker .yaml file contains PySpark and Airflow along with some other python libraries. However, to run the complete project you'd need to find an image that has: Kafka + PySpark + Airflow. This makes the docker container too heavy(16GB+ RAM) and would not run on my laptop. So you can implement the project in parts. Having Kafka run locally. This would help you get raw data. On your raw data, you can build a docker image with Airflow and PySpark, transfer the raw data, and run the DAGs to achieve the cleaned data. Then you'd need to transfer the clean data back to your drive and use Tableau to visualize the results.😤 OOF. 
+Setting up locally is an easy way, however you might face some issues. I use a Windows machine and I have used this [video](https://www.youtube.com/watch?v=BwYFuhVhshI) to set up Kafka. However, Airflow does not work natively on Windows 🥲 The easiest workaround is using Docker 🐋. You can refer to the docker image [here](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/docker/docker-compose.yaml). This docker .yaml file contains PySpark and Airflow along with some other python libraries. However, to run the complete project you'd need to find an image that has: Kafka + PySpark + Airflow. This makes the docker container too heavy(16GB+ RAM) and would not run on my laptop. So you can implement the project in parts. Having Kafka run locally. This would help you get raw data. On your raw data, you can build a docker image with Airflow and PySpark, transfer the raw data, and run the DAGs to achieve the cleaned data. Then you'd need to transfer the clean data back to your drive and use Tableau to visualize the results.😤 OOF. 
 
 ### Setting Up Docker 🐳
-Check the awesome [DOCKER-README.md](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/blob/main/DOCKER-README.md) file  
+Check the awesome [DOCKER-README.md](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/DOCKER-README.md) file  
 
 ### AWS to the rescue! 🤌🏻
 #### EC2 Instance Configuration
@@ -115,28 +115,28 @@ Check the awesome [DOCKER-README.md](https://github.com/SartajBhuvaji/Steam-Big-
 
 ### AirFlow DAGS
 - All DAGs
-![af0](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/d57fdf20-204c-4fe9-8665-27f7b2d2a79c)
+![af0](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/af0.png)
 
 - Daily Dag
-![af1](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/898adb5b-2967-4c93-ad70-ea6b7bb332ee)
+![af1](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/af1.png)
 
-![af2](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/03a99104-63cc-4c08-a1c7-1babdd8b45ab)
+![af2](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/af2.png)
 
 - Catch Up Dag
-![af3](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/db3a81f5-603a-4e12-af98-36e78f7b6285)
+![af3](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/af3.png)
 
 ### AWS S3 Buckets
 - All S3 Buckets
-![aws_0](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/273fa327-8089-4200-8321-0387cda54a8e)
+![aws_0](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/aws_0.png)
 
 - Processed Data Bucket
-![aws1](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/bee44442-a8a0-4939-abbb-fa5b65742469)
+![aws1](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/aws1.png)
 
 - Raw Data Backup Bucket
-![aws2](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/f7b00226-e8d0-4c8c-9466-373fb690a276)
+![aws2](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/aws2.png)
 
 ### QuickSight Visualizations
-![quicksight0](https://github.com/SartajBhuvaji/Steam-Big-Data-Pipeline/assets/31826483/c37edc16-34b9-4a7c-928c-de74be79a022)
+![quicksight0](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/quicksight0.png)
 
 ## Badges
 <div align="center">
