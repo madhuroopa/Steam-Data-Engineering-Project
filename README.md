@@ -114,8 +114,6 @@ Check the awesome [DOCKER-README.md](https://github.com/madhuroopa/Steam-Data-En
 ## Screenshots
 
 ### AirFlow DAGS
-- All DAGs
-![af0](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/af0.png)
 
 - Daily Dag
 ![af1](https://github.com/madhuroopa/Steam-Data-Engineering-Project/blob/main/_screenshots/af1.png)
