@@ -5,7 +5,7 @@ SCHEDULE_INTERVAL: EVERY TUESDAY AT 05PM
 DESCRIPTION:
 This DAG runs the weekly pipeline for the last week Wed-Tue. 
 
-AUTHOR: SARTAJ
+
 '''
 
 from datetime import datetime, timedelta
@@ -22,7 +22,7 @@ from weekly_scripting_kafka_producer import WeeklyTopSellersProducer
 from weekly_script import WeeklyScript
 
 default_args = {
-    'owner': 'Sartaj',
+    'owner': 'madhu',
     'depends_on_past': False,
     'retry': 1,
     'retry_delay': timedelta(minutes=1)
